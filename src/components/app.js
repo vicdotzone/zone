@@ -1,11 +1,11 @@
-import React, {Component} from 'react';
+import React, { Component } from 'react';
 
 export default class App extends Component {
-  function () {
+  render() {
     return (
       <div>
         VIC.ZONE
       </div>
     );
   }
-};
+}
