@@ -5,6 +5,7 @@
   "scripts": {
     "start": "$(npm root)/.bin/webpack-dev-server --progress --inline --hot",
     "lint": "$(npm root)/.bin/eslint src",
+    "test": "npm run lint",
     "shrinkwrap": "npm shrinkwrap --dev"
   },
   "devDependencies": {
