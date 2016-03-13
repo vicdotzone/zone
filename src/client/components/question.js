@@ -7,6 +7,7 @@ import RaisedButton from 'material-ui/lib/raised-button';
 import NavigateNext from 'material-ui/lib/svg-icons/navigation/arrow-forward';
 
 import BodyTextStyle from './views/body-text-style';
+import SubheadTextStyle from './views/subhead-text-style';
 import ContainerStyle from './views/container-style';
 
 const horizPadding = 16;
@@ -58,9 +59,9 @@ export default class Question extends Component {
     return (
       <ContainerStyle>
         <Paper zDepth={2} style={styles.cardStyle}>
-          <BodyTextStyle light style={styles.questionTextStyle}>
+          <SubheadTextStyle light style={styles.questionTextStyle}>
             {text}
-          </BodyTextStyle>
+          </SubheadTextStyle>
           <div style={styles.spacer} />
           <RadioButtonGroup name="quizRadioGroup" onChange={handleChange}>
             {answers.map((answer, i) =>

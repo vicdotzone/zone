@@ -3,6 +3,8 @@ import { browserHistory } from 'react-router';
 import RaisedButton from 'material-ui/lib/raised-button';
 import NavigateBack from 'material-ui/lib/svg-icons/navigation/arrow-back';
 import { amber100, cyan300 } from 'material-ui/lib/styles/colors';
+import BodyTextStyle from './views/body-text-style';
+import TitleTextStyle from './views/title-text-style';
 
 const horizPadding = 16;
 const vertPadding = 50;
@@ -59,10 +61,10 @@ export default class Result extends Component {
   renderHipster() {
     return (
       <div>
-        <h1 style={styles.textContainer}>
+        <TitleTextStyle light={false}>
           You are a hipster, but you already knew that
-        </h1>
-        <div style={styles.textContainer}>
+        </TitleTextStyle>
+        <BodyTextStyle light={false}>
           Get out your fixed gear bike and bike down to Habit Coffee on 552
           Pandora and enjoy your favourite $5 coffee in rustic chinatown. After
           that, head on over to Ditch Records at 784 Fort Street and pick up
@@ -72,7 +74,7 @@ export default class Result extends Component {
           to compliment your ironic mustache. End your night with your closest
           friends sipping on some craft beer at The Drake Eatery at 517 Pandora
           Aveune.
-        </div>
+        </BodyTextStyle>
       </div>
     );
   }
