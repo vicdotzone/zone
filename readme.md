@@ -14,5 +14,5 @@ open http://localhost:8080/
 
 *Derek* - Builds Android apps for a living, but uses Squarespace for his pesonal website (huge web noob), I made it look decent/ sort of did some React stuff
 
-*Neal* - 😬 I make internets with Izaak and James. I set up the project foundation and hosting.
+*Neal* - 😬 I make internets with Izaak and James. I set up the project foundation and deployment.
 
