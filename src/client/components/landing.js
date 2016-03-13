@@ -57,7 +57,7 @@ export default class Landing extends Component {
 
     return (
       <MuiThemeProvider muiTheme={muiTheme}>
-      <div>
+      <div style={{ padding: '0 16px' }}>
        <ContainerStyle>
 
           <div style={styles.textContainer}>
@@ -65,7 +65,6 @@ export default class Landing extends Component {
             <BodyTextStyle light= {false}>Take the test and find out which
             Victorian stereotype you are, old person? hipster? spandex wearing cyclist?
             <br />¯\_(ツ)_/¯</BodyTextStyle></div>
-
         <div style={styles.buttonContainer}>
           <RaisedButton
             label="Find out now!"
@@ -82,6 +81,15 @@ export default class Landing extends Component {
               <br /><a style={styles.linkStyle} href="https://github.com/nealgranger">Neal</a>
               <br /><a style={styles.linkStyle} href="https://github.com/derekcsm">Derek</a>
               <br /><a style={styles.linkStyle} href="https://github.com/lindenqu">Linden</a>
+              <br />
+              <br />
+              <img src="/static/zone.gif"
+                style={{
+                  display: 'block',
+                  maxWidth: '100%',
+                }}
+              />
+
             </BodyTextStyle>
           </div>
         </Paper>
