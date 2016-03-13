@@ -3,9 +3,11 @@
   "private": "true",
   "version": "0.1.0",
   "scripts": {
+    "dev": "NODE_ENV=development npm run start",
+    "prod": "NODE_ENV=production npm run build && NODE_ENV=production npm run start",
     "start": "node ./src/server",
     "postinstall": "npm run build",
-    "build": "NODE_ENV=production $(npm root)/.bin/webpack --bail --config webpack.production.config.js",
+    "build": "NODE_ENV=production $(npm root)/.bin/webpack --bail",
     "lint": "$(npm root)/.bin/eslint src",
     "test": "npm run lint && npm run build"
   },
@@ -14,7 +16,8 @@
     "eslint-config-airbnb": "^6.1.0",
     "eslint-plugin-react": "^4.2.1",
     "eventsource-polyfill": "0.9.6",
-    "webpack-dev-server": "1.14.1"
+    "webpack-dev-server": "1.14.1",
+    "webpack-hot-middleware": "^2.10.0"
   },
   "dependencies": {
     "babel-core": "^6.7.2",
