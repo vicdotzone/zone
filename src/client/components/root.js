@@ -6,6 +6,7 @@ import Router from './router';
 import App from './app';
 import Landing from './landing';
 import Quiz from './quiz';
+import Result from './result';
 
 let DevTools;
 
@@ -22,6 +23,7 @@ export default class Root extends Component {
           <Route path="/" component={App}>
             <IndexRoute component={Landing} />
             <Route path="quiz" component={Quiz} />
+            <Route path="result" component={Result} />
           </Route>
         </Router>
       </div>
