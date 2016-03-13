@@ -1,10 +1,12 @@
-import React, { Component } from 'react';
+import React, { Component, PropTypes } from 'react';
+import { browserHistory } from 'react-router';
 
 import RaisedButton from 'material-ui/lib/raised-button';
 import Card from 'material-ui/lib/card/card';
 import getMuiTheme from 'material-ui/lib/styles/getMuiTheme';
 import MuiThemeProvider from 'material-ui/lib/MuiThemeProvider';
 import { amber100, amber800, cyan700, cyan300 } from 'material-ui/lib/styles/colors';
+
 
 const horizPadding = 16;
 const vertPadding = 50;
@@ -63,12 +65,14 @@ const muiTheme = getMuiTheme({
   },
 });
 
-export default class App extends Component {
+export default class Landing extends Component {
   componentDidMount() {
     document.body.style.backgroundColor = cyan700;
   }
 
   render() {
+    const startQuiz = () => browserHistory.push('/quiz');
+
     return (
       <MuiThemeProvider muiTheme={muiTheme}>
       <div>
@@ -84,7 +88,7 @@ export default class App extends Component {
           <RaisedButton
             label="Find out now!"
             primary
-            onTouchTap={this.handleTouchTap}
+            onTouchTap={startQuiz}
           />
         </div>
 
@@ -105,3 +109,7 @@ export default class App extends Component {
     );
   }
 }
+
+Landing.propTypes = {
+  push: PropTypes.func.isRequired,
+};

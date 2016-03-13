@@ -15,12 +15,14 @@ if (process.env.NODE_ENV !== 'production') {
   app.use(require('webpack-dev-middleware')(compiler, {
     noInfo: true,
     publicPath: config.output.publicPath,
+
   }));
 
   app.use(require('webpack-hot-middleware')(compiler));
+} else {
+  app.use('/static', express.static(path.join(__dirname, '../../dist/')));
 }
 
-app.use('/static', express.static(path.join(__dirname, '../../dist/')));
 app.use('/static', express.static(path.join(__dirname, '../static/')));
 
 app.get('*', (req, res) => {
