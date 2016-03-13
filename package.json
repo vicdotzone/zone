@@ -3,11 +3,11 @@
   "private": "true",
   "version": "0.1.0",
   "scripts": {
-    "start": "NODE_ENV=development $(npm root)/.bin/webpack-dev-server --config webpack.development.config.js --progress --inline --hot",
+    "start": "node ./src/server",
+    "postinstall": "npm run build",
     "build": "NODE_ENV=production $(npm root)/.bin/webpack --bail --config webpack.production.config.js",
     "lint": "$(npm root)/.bin/eslint src",
-    "test": "npm run lint && npm run build",
-    "shrinkwrap": "npm shrinkwrap --dev"
+    "test": "npm run lint && npm run build"
   },
   "devDependencies": {
     "eslint": "^2.4.0",

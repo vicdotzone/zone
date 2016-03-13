@@ -5,13 +5,13 @@ const path = require('path');
 module.exports = {
   entry: [
     'normalize.css',
-    './src/styles/app.css',
-    './src/index',
+    './src/client/styles/app.css',
+    './src/client/index',
   ],
   output: {
     path: path.join(__dirname, 'build'),
     filename: 'bundle.js',
-    publicPath: '/build/',
+    publicPath: '/',
   },
   module: {
     loaders: [
