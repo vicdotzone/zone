@@ -6,7 +6,7 @@
     "start": "NODE_ENV=development $(npm root)/.bin/webpack-dev-server --config webpack.development.config.js --progress --inline --hot",
     "build": "NODE_ENV=production $(npm root)/.bin/webpack --config webpack.production.config.js",
     "lint": "$(npm root)/.bin/eslint src",
-    "test": "npm run lint",
+    "test": "npm run lint && npm run build",
     "shrinkwrap": "npm shrinkwrap --dev"
   },
   "devDependencies": {
