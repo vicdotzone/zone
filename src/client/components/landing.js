@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
 
+import BodyTextStyle from './views/body-text-style';
 import RaisedButton from 'material-ui/lib/raised-button';
-import Card from 'material-ui/lib/card/card';
+import Paper from 'material-ui/lib/paper';
 import getMuiTheme from 'material-ui/lib/styles/getMuiTheme';
 import MuiThemeProvider from 'material-ui/lib/MuiThemeProvider';
 import { amber100, amber800, cyan700, cyan300 } from 'material-ui/lib/styles/colors';
@@ -42,16 +43,6 @@ const styles = {
   titleTextStyle: {
     color: '#ffffff',
   },
-  captionTextStyle: {
-    lineHeight: '160%',
-    color: '#ffffff',
-    opacity: 0.9,
-  },
-  bodyStyle: {
-    lineHeight: '160%',
-    color: '#ffffff',
-    opacity: 0.9,
-  },
   linkStyle: {
     color: amber100,
   },
@@ -76,9 +67,9 @@ export default class App extends Component {
 
           <div style={styles.textContainer}>
             <h1 style={styles.titleTextStyle}>The Victorian<br />stereotype quiz!</h1>
-            <div style={styles.captionTextStyle}>Take the test and find out which
+            <BodyTextStyle light= {false}>Take the test and find out which
             Victorian stereotype you are, old person? hipster? spandex wearing cyclist?
-            <br />¯\_(ツ)_/¯</div></div>
+            <br />¯\_(ツ)_/¯</BodyTextStyle></div>
 
         <div style={styles.buttonContainer}>
           <RaisedButton
@@ -88,17 +79,17 @@ export default class App extends Component {
           />
         </div>
 
-        <Card>
+        <Paper zDepth={1}>
           <div style={styles.aboutContainer}>
-            <div style={styles.bodyStyle}> Built by:
+            <BodyTextStyle light= {false}> Built by:
               <br />
               <br /><a style={styles.linkStyle} href="https://github.com/lkrienke">Laurel</a>
               <br /><a style={styles.linkStyle} href="https://github.com/nealgranger">Neal</a>
               <br /><a style={styles.linkStyle} href="https://github.com/derekcsm">Derek</a>
               <br /><a style={styles.linkStyle} href="https://github.com/lindenqu">Linden</a>
-            </div>
+            </BodyTextStyle>
           </div>
-        </Card>
+        </Paper>
         </div>
        </div>
       </MuiThemeProvider>
