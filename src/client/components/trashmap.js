@@ -120,7 +120,7 @@ export default class TrashMap extends Component {
             left: 10,
             width: 220,
             padding: '16px 16px 0 16px',
-            background: 'rgba(255, 255, 255, 0.75)',
+            background: '#fff',
           }}
         >
           <div>
