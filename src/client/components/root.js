@@ -5,7 +5,7 @@ import Router from './router';
 
 import App from './app';
 import Landing from './landing';
-import Quiz from './quiz';
+import Quiz from './quiz.connect';
 import Result from './result';
 
 let DevTools;

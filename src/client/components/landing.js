@@ -10,7 +10,6 @@ import getMuiTheme from 'material-ui/lib/styles/getMuiTheme';
 import MuiThemeProvider from 'material-ui/lib/MuiThemeProvider';
 import { amber100, amber800, cyan700, cyan300 } from 'material-ui/lib/styles/colors';
 
-
 const horizPadding = 16;
 const vertPadding = 50;
 
