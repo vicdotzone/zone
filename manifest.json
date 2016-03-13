@@ -1,0 +1,8 @@
+{
+  "name": "Vic Starter Kit",
+  "short_name": "Victorian",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#26c6da",
+  "theme_color": "#00bcd4"
+}
