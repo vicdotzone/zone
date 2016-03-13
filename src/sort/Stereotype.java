@@ -4,6 +4,7 @@ public class Stereotype{
 
 	public Stereotype(int sid, String stereotypeName){
 		this.sid = sid;
+		this.stereotypeName = stereotypeName;
 	}
 
 	public void setSid(int sid){
