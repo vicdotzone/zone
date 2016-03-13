@@ -6,6 +6,12 @@ import { amber800, cyan700 } from 'material-ui/lib/styles/colors';
 
 import Question from './question.connect';
 
+const styles = {
+  containerStyle: {
+    paddingLeft: 16,
+    paddingRight: 16,
+  },
+};
 
 const muiTheme = getMuiTheme({
   palette: {
@@ -23,7 +29,7 @@ export default class Quiz extends Component {
     const { currentQuestion, currentQuestionIndex } = this.props;
     return (
       <MuiThemeProvider muiTheme={muiTheme}>
-        <div>
+        <div style={styles.containerStyle}>
           { currentQuestion && <Question key={currentQuestionIndex} /> }
         </div>
       </MuiThemeProvider>
