@@ -31,6 +31,10 @@ module.exports = {
         test: /\.css$/,
         loader: ExtractTextPlugin.extract('style', 'css'),
       },
+      {
+        test: /\.yaml$/,
+        loaders: ['json', 'yaml'],
+      },
     ],
   },
   resolve: {

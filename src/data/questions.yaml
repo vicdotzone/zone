@@ -1,0 +1,267 @@
+---
+questions:
+  -
+    text: What is your favourite mode of transportation?
+    answers:
+      -
+        text: Fixed Gear Bike
+        group: Hipster
+      -
+        text: Bus
+        group: UVic_Student
+      -
+        text: Walking
+        group: Hippie
+      -
+        text: Land Yacht
+        group: Old_Person
+  -
+    text: What is your dream job?
+    answers:
+      -
+        text: Working at a downtown coffee shop or record store
+        group: Hipster
+      -
+        text: Anything that remotely relates to the degree I'm spending thousands of dollars to get
+        group: UVic_Student
+      -
+        text: I don't need a job, the beauty of nature is payment enough
+        group: Hippie
+      -
+        text: I'm retired
+        group: Old_Person
+  -
+    text: What do you usually do on a friday night?
+    answers:
+      -
+        text: Listen to my favourite local band play at my favourite bar
+        group: Hipster
+      -
+        text: I'm either drinking my 8th coffee in the library or my 8th beer at a party
+        group: UVic_Student
+      -
+        text: Getting Baked
+        group: Hippie
+      -
+        text: I'm in bed asleep by 8 o'clock
+        group: Old_Person
+  -
+    text: I'd rather spend my time
+    answers:
+      -
+        text: Reading my favourite Kurt Vonnegut novel
+        group: Hipster
+      -
+        text: Watching Netflix in bed
+        group: UVic_Student
+      -
+        text: Saving the planet
+        group: Hippie
+      -
+        text: Knitting sweaters for my grandchildren
+        group: Old_Person
+  -
+    text: Your favourite film from this list would be
+    answers:
+      -
+        text: "2001: A Space Odyssey"
+        group: Hipster
+      -
+        text: Into the Wild
+        group: Hippie
+      -
+        text: The Best Exotic Marigold Hotel
+        group: Old_Person
+  -
+    text: Pick an emoji
+    answers:
+      -
+        text: The Beer Mug
+        group: Hipster
+      -
+        text: The Mushroom
+        group: Hippie
+      -
+        text: What?
+        group: Old_Person
+  -
+    text: Whats your favourite drink?
+    answers:
+      -
+        text: PBR
+        group: Hipster
+      -
+        text: Kombucha
+        group: Hippie
+      -
+        text: Whatever has the most amount of alcohol for the least amount of money
+        group: UVic_Student
+  -
+    text: Pick a hobby
+    answers:
+      -
+        text: Making Art
+        group: Hipster
+      -
+        text: Hiking
+        group: Hippie
+      -
+        text: Napping
+        group: UVic_Student
+  -
+    text: Whats your favourite tv show?
+    answers:
+      -
+        text: Twin Peaks
+        group: Hipster
+      -
+        text: Netflix
+        group: UVic_Student
+      -
+        text: I don't know how to work the TV
+        group: Old_Person
+  -
+    text: What makes you the most angry
+    answers:
+      -
+        text: Anything mainstream
+        group: Hipster
+      -
+        text: When I can't find an outlet in the library
+        group: UVic_Student
+      -
+        text: Young people on my lawn
+        group: Old_Person
+  -
+    text: Whats the best thing to do on a Sunday afternoon?
+    answers:
+      -
+        text: Anything but study
+        group: UVic_Student
+      -
+        text: Picking up garbage at my favourite beach
+        group: Hippie
+      -
+        text: Organizing my stamp collection
+        group: Old_Person
+  -
+    text: Pick a food
+    answers:
+      -
+        text: 99 cent ramen
+        group: UVic_Student
+      -
+        text: Locally grown organic vegetables
+        group: Hippie
+      -
+        text: Meatloaf
+        group: Old_Person
+  -
+    text: Pick a travel destination
+    answers:
+      -
+        text: Eastern Europe
+        group: Hipster
+      -
+        text: South East Asia
+        group: Hippie
+  -
+    text: What is your favourite part of Victoria
+    answers:
+      -
+        text: The dope music scene
+        group: Hipster
+      -
+        text: The landscape
+        group: Hippie
+  -
+    text: Would you rather?
+    answers:
+      -
+        text: Watch the weather channel
+        group: Old_Person
+      -
+        text: Sift throught clothes at my favourite second hand shop
+        group: Hipster
+  -
+    text: Pick a restaurant in Victoria
+    answers:
+      -
+        text: Denny's
+        group: Old_Person
+      -
+        text: Jam Cafe
+        group: Hipster
+  -
+    text: What stressed you out more?
+    answers:
+      -
+        text: Finals
+        group: UVic_Student
+      -
+        text: Picking the right flannel to match my skinny jeans
+        group: Hipster
+  -
+    text: What makes you more excited?
+    answers:
+      -
+        text: Free food
+        group: UVic_Student
+      -
+        text: New music from your favourite band
+        group: Hipster
+  -
+    text: Your favourite shake is...
+    answers:
+      -
+        text: Ensure
+        group: Old_Person
+      -
+        text: Dragon fruit smoothie with blended hemp hearts
+        group: Hippie
+  -
+    text: What would you rather have?
+    answers:
+      -
+        text: Adventure
+        group: Hippie
+      -
+        text: Stability
+        group: Old_Person
+  -
+    text: What best describes your morning?
+    answers:
+      -
+        text: I wake up early and do yoga
+        group: Hippie
+      -
+        text: I wake up late and have to rush to class
+        group: UVic_Student
+  -
+    text: What is your favourite weekend activity?
+
+    answers:
+      -
+        text: Romping through the forest
+        group: Hippie
+      -
+        text: Sleeping in until noon
+        group: UVic_Student
+  -
+    text: What is wrong with the world today?
+    answers:
+      -
+        text: High tuition prices
+        group: UVic_Student
+      -
+        text: Young people
+        group: Old_Person
+  -
+    text: You are up at 6 am on a Wednesday, it is because...
+    answers:
+      -
+        text: I have a 10 page paper due today
+        group: UVic_Student
+      -
+        text: Thats normally when I'm up
+        group: Old_Person
