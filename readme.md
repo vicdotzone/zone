@@ -1,5 +1,5 @@
 ### WELCOME TO THE VIC.ZONE
-![oh boy](https://media.giphy.com/media/cPxRDvlSj9QKA/giphy.gif)
+![it's happening](http://cryto.net/~joepie91/lol/its-happening.gif)
 
 ```bash
 nvm install
