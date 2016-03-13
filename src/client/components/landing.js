@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 
+import ContainerStyle from './views/container-style';
 import BodyTextStyle from './views/body-text-style';
 import RaisedButton from 'material-ui/lib/raised-button';
 import Paper from 'material-ui/lib/paper';
@@ -9,17 +10,8 @@ import { amber100, amber800, cyan700, cyan300 } from 'material-ui/lib/styles/col
 
 const horizPadding = 16;
 const vertPadding = 50;
-const maxPageWidth = 400;
 
 const styles = {
-  container: {
-    width: '100%',
-    textAlign: 'center',
-    maxWidth: maxPageWidth,
-    margin: 'auto',
-    paddingTop: vertPadding,
-    paddingBottom: vertPadding,
-  },
   textContainer: {
     textAlign: 'left',
     paddingLeft: horizPadding,
@@ -63,7 +55,7 @@ export default class App extends Component {
     return (
       <MuiThemeProvider muiTheme={muiTheme}>
       <div>
-       <div style={styles.container}>
+       <ContainerStyle>
 
           <div style={styles.textContainer}>
             <h1 style={styles.titleTextStyle}>The Victorian<br />stereotype quiz!</h1>
@@ -90,7 +82,7 @@ export default class App extends Component {
             </BodyTextStyle>
           </div>
         </Paper>
-        </div>
+        </ContainerStyle>
        </div>
       </MuiThemeProvider>
     );

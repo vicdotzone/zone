@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 
+import ContainerStyle from './views/container-style';
 import BodyTextStyle from './views/body-text-style';
 import getMuiTheme from 'material-ui/lib/styles/getMuiTheme';
 import MuiThemeProvider from 'material-ui/lib/MuiThemeProvider';
@@ -10,17 +11,8 @@ import { amber100, amber800, cyan700, cyan300 } from 'material-ui/lib/styles/col
 
 const horizPadding = 16;
 const vertPadding = 50;
-const maxPageWidth = 400;
 
 const styles = {
-  container: {
-    width: '100%',
-    textAlign: 'center',
-    maxWidth: maxPageWidth,
-    margin: 'auto',
-    paddingTop: vertPadding,
-    paddingBottom: vertPadding,
-  },
   cardStyle: {
     textAlign: 'left',
     paddingLeft: horizPadding,
@@ -54,7 +46,7 @@ export default class Quiz extends Component {
     return (
       <MuiThemeProvider muiTheme={muiTheme}>
         <div>
-          <div style={styles.container}>
+          <ContainerStyle>
             <Paper zDepth={2} style={styles.cardStyle}>
                 <BodyTextStyle light style={styles.questionTextStyle}>
                 This is a question?</BodyTextStyle>
@@ -77,7 +69,7 @@ export default class Quiz extends Component {
                       />
                 </RadioButtonGroup>
             </Paper>
-          </div>
+          </ContainerStyle>
         </div>
       </MuiThemeProvider>
     );
