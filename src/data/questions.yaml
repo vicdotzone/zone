@@ -5,263 +5,263 @@ questions:
     answers:
       -
         text: Fixed Gear Bike
-        group: Hipster
+        group: hipster
       -
         text: Bus
-        group: UVic_Student
+        group: student
       -
         text: Walking
-        group: Hippie
+        group: hippie
       -
         text: Land Yacht
-        group: Old_Person
+        group: old
   -
     text: What is your dream job?
     answers:
       -
         text: Working at a downtown coffee shop or record store
-        group: Hipster
+        group: hipster
       -
         text: Anything that remotely relates to the degree I'm spending thousands of dollars to get
-        group: UVic_Student
+        group: student
       -
         text: I don't need a job, the beauty of nature is payment enough
-        group: Hippie
+        group: hippie
       -
         text: I'm retired
-        group: Old_Person
+        group: old
   -
     text: What do you usually do on a friday night?
     answers:
       -
         text: Listen to my favourite local band play at my favourite bar
-        group: Hipster
+        group: hipster
       -
         text: I'm either drinking my 8th coffee in the library or my 8th beer at a party
-        group: UVic_Student
+        group: student
       -
         text: Getting Baked
-        group: Hippie
+        group: hippie
       -
         text: I'm in bed asleep by 8 o'clock
-        group: Old_Person
+        group: old
   -
     text: I'd rather spend my time
     answers:
       -
         text: Reading my favourite Kurt Vonnegut novel
-        group: Hipster
+        group: hipster
       -
         text: Watching Netflix in bed
-        group: UVic_Student
+        group: student
       -
         text: Saving the planet
-        group: Hippie
+        group: hippie
       -
         text: Knitting sweaters for my grandchildren
-        group: Old_Person
+        group: old
   -
     text: Your favourite film from this list would be
     answers:
       -
         text: "2001: A Space Odyssey"
-        group: Hipster
+        group: hipster
       -
         text: Into the Wild
-        group: Hippie
+        group: hippie
       -
         text: The Best Exotic Marigold Hotel
-        group: Old_Person
+        group: old
   -
     text: Pick an emoji
     answers:
       -
         text: The Beer Mug
-        group: Hipster
+        group: hipster
       -
         text: The Mushroom
-        group: Hippie
+        group: hippie
       -
         text: What?
-        group: Old_Person
+        group: old
   -
     text: Whats your favourite drink?
     answers:
       -
         text: PBR
-        group: Hipster
+        group: hipster
       -
         text: Kombucha
-        group: Hippie
+        group: hippie
       -
         text: Whatever has the most amount of alcohol for the least amount of money
-        group: UVic_Student
+        group: student
   -
     text: Pick a hobby
     answers:
       -
         text: Making Art
-        group: Hipster
+        group: hipster
       -
         text: Hiking
-        group: Hippie
+        group: hippie
       -
         text: Napping
-        group: UVic_Student
+        group: student
   -
     text: Whats your favourite tv show?
     answers:
       -
         text: Twin Peaks
-        group: Hipster
+        group: hipster
       -
         text: Netflix
-        group: UVic_Student
+        group: student
       -
         text: I don't know how to work the TV
-        group: Old_Person
+        group: old
   -
     text: What makes you the most angry
     answers:
       -
         text: Anything mainstream
-        group: Hipster
+        group: hipster
       -
         text: When I can't find an outlet in the library
-        group: UVic_Student
+        group: student
       -
         text: Young people on my lawn
-        group: Old_Person
+        group: old
   -
     text: Whats the best thing to do on a Sunday afternoon?
     answers:
       -
         text: Anything but study
-        group: UVic_Student
+        group: student
       -
         text: Picking up garbage at my favourite beach
-        group: Hippie
+        group: hippie
       -
         text: Organizing my stamp collection
-        group: Old_Person
+        group: old
   -
     text: Pick a food
     answers:
       -
         text: 99 cent ramen
-        group: UVic_Student
+        group: student
       -
         text: Locally grown organic vegetables
-        group: Hippie
+        group: hippie
       -
         text: Meatloaf
-        group: Old_Person
+        group: old
   -
     text: Pick a travel destination
     answers:
       -
         text: Eastern Europe
-        group: Hipster
+        group: hipster
       -
         text: South East Asia
-        group: Hippie
+        group: hippie
   -
     text: What is your favourite part of Victoria
     answers:
       -
         text: The dope music scene
-        group: Hipster
+        group: hipster
       -
         text: The landscape
-        group: Hippie
+        group: hippie
   -
     text: Would you rather?
     answers:
       -
         text: Watch the weather channel
-        group: Old_Person
+        group: old
       -
         text: Sift throught clothes at my favourite second hand shop
-        group: Hipster
+        group: hipster
   -
     text: Pick a restaurant in Victoria
     answers:
       -
         text: Denny's
-        group: Old_Person
+        group: old
       -
         text: Jam Cafe
-        group: Hipster
+        group: hipster
   -
     text: What stressed you out more?
     answers:
       -
         text: Finals
-        group: UVic_Student
+        group: student
       -
         text: Picking the right flannel to match my skinny jeans
-        group: Hipster
+        group: hipster
   -
     text: What makes you more excited?
     answers:
       -
         text: Free food
-        group: UVic_Student
+        group: student
       -
         text: New music from your favourite band
-        group: Hipster
+        group: hipster
   -
     text: Your favourite shake is...
     answers:
       -
         text: Ensure
-        group: Old_Person
+        group: old
       -
         text: Dragon fruit smoothie with blended hemp hearts
-        group: Hippie
+        group: hippie
   -
     text: What would you rather have?
     answers:
       -
         text: Adventure
-        group: Hippie
+        group: hippie
       -
         text: Stability
-        group: Old_Person
+        group: old
   -
     text: What best describes your morning?
     answers:
       -
         text: I wake up early and do yoga
-        group: Hippie
+        group: hippie
       -
         text: I wake up late and have to rush to class
-        group: UVic_Student
+        group: student
   -
     text: What is your favourite weekend activity?
 
     answers:
       -
         text: Romping through the forest
-        group: Hippie
+        group: hippie
       -
         text: Sleeping in until noon
-        group: UVic_Student
+        group: student
   -
     text: What is wrong with the world today?
     answers:
       -
         text: High tuition prices
-        group: UVic_Student
+        group: student
       -
         text: Young people
-        group: Old_Person
+        group: old
   -
     text: You are up at 6 am on a Wednesday, it is because...
     answers:
       -
         text: I have a 10 page paper due today
-        group: UVic_Student
+        group: student
       -
         text: Thats normally when I'm up
-        group: Old_Person
+        group: old

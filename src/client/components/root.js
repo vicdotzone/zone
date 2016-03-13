@@ -1,12 +1,12 @@
-import React, { Component } from 'react';
+import React, { Component, PropTypes } from 'react';
 import { Route, IndexRoute } from 'react-router';
 
 import Router from './router';
 
 import App from './app';
-import Landing from './landing';
-import Quiz from './quiz';
-import Result from './result';
+import Landing from './landing.connect';
+import Quiz from './quiz.connect';
+import Result from './result.connect';
 
 let DevTools;
 
@@ -16,17 +16,23 @@ if (process.env.NODE_ENV !== 'production') {
 
 export default class Root extends Component {
   render() {
+    const { onEnterQuiz, onEnterResult } = this.props;
     return (
       <div>
         {DevTools && <DevTools />}
         <Router>
           <Route path="/" component={App}>
             <IndexRoute component={Landing} />
-            <Route path="quiz" component={Quiz} />
-            <Route path="result" component={Result} />
+            <Route path="quiz" component={Quiz} onEnter={onEnterQuiz} />
+            <Route path="result" component={Result} onEnter={onEnterResult} />
           </Route>
         </Router>
       </div>
     );
   }
 }
+
+Root.propTypes = {
+  onEnterQuiz: PropTypes.func.isRequired,
+  onEnterResult: PropTypes.func.isRequired,
+};

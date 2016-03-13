@@ -8,7 +8,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import { Provider } from 'react-redux';
 
-import Root from './components/root';
+import Root from './components/root.connect';
 import createStore from './store';
 
 import { questions } from '../data/questions.yaml';
