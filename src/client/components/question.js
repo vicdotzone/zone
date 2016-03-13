@@ -6,7 +6,6 @@ import RadioButtonGroup from 'material-ui/lib/radio-button-group';
 import RaisedButton from 'material-ui/lib/raised-button';
 import NavigateNext from 'material-ui/lib/svg-icons/navigation/arrow-forward';
 
-import BodyTextStyle from './views/body-text-style';
 import SubheadTextStyle from './views/subhead-text-style';
 import ContainerStyle from './views/container-style';
 
