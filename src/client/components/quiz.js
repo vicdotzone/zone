@@ -1,32 +1,19 @@
-import React, { Component } from 'react';
+import React, { Component, PropTypes } from 'react';
 
 import ContainerStyle from './views/container-style';
-import BodyTextStyle from './views/body-text-style';
 import getMuiTheme from 'material-ui/lib/styles/getMuiTheme';
 import MuiThemeProvider from 'material-ui/lib/MuiThemeProvider';
-import Paper from 'material-ui/lib/paper';
-import RadioButton from 'material-ui/lib/radio-button';
-import RadioButtonGroup from 'material-ui/lib/radio-button-group';
 import { amber800, cyan700 } from 'material-ui/lib/styles/colors';
 
-const horizPadding = 16;
+import RaisedButton from 'material-ui/lib/raised-button';
+import NavigateNext from 'material-ui/lib/svg-icons/navigation/arrow-forward';
+
+import Question from './question';
 
 const styles = {
-  cardStyle: {
-    textAlign: 'left',
-    paddingLeft: horizPadding,
-    paddingRight: horizPadding,
-    paddingTop: 16,
-    paddingBottom: 16,
-  },
-  questionTextStyle: {
-    marginBottom: 16,
-  },
-  spacer: {
-    height: 16,
-  },
-  radioButton: {
-    marginBottom: 16,
+  button: {
+    margin: 14,
+    textAlign: 'center',
   },
 };
 
@@ -37,40 +24,75 @@ const muiTheme = getMuiTheme({
 });
 
 export default class Quiz extends Component {
-  componentDidMount() {
+  constructor() {
+    super();
     document.body.style.backgroundColor = cyan700;
+    this.state = { selectedAnswer: null };
   }
 
   render() {
+    const { question: { text, answers }, onSelectAnswer } = this.props;
+    const { selectedAnswer } = this.state;
+
+    const handleSelectAnswer = (answer) => {
+      this.setState({ selectedAnswer: answer });
+    };
+
+    const handleNextTap = () => {
+      if (selectedAnswer) {
+        onSelectAnswer(onSelectAnswer);
+      }
+    };
+
     return (
       <MuiThemeProvider muiTheme={muiTheme}>
         <div>
           <ContainerStyle>
-            <Paper zDepth={2} style={styles.cardStyle}>
-                <BodyTextStyle light style={styles.questionTextStyle}>
-                This is a question?</BodyTextStyle>
-                <div style={styles.spacer} />
-                <RadioButtonGroup name="quizRadioGroup">
-                      <RadioButton
-                        value="light"
-                        label="das it"
-                        style={styles.radioButton}
-                      />
-                      <RadioButton
-                        value="not_light"
-                        label="Selected by default"
-                        style={styles.radioButton}
-                      />
-                      <RadioButton
-                        value="ludicrous"
-                        label="aww yeah"
-                        style={styles.radioButton}
-                      />
-                </RadioButtonGroup>
-            </Paper>
+            <Question
+              text={text}
+              answers={answers}
+              onSelectAnswer={handleSelectAnswer}
+            />
+
+            <RaisedButton
+              disabled={!selectedAnswer}
+              label="Next"
+              labelPosition="before"
+              icon={<NavigateNext />}
+              style={styles.button}
+              onTouchTap={handleNextTap}
+            />
           </ContainerStyle>
         </div>
       </MuiThemeProvider>
     );
   }
 }
+
+Quiz.propTypes = {
+  question: PropTypes.object.isRequired,
+  onSelectAnswer: PropTypes.func.isRequired,
+};
+
+Quiz.defaultProps = {
+  question: {
+    text: 'This is the question',
+    answers: [
+      {
+        text: 'Answer 1 text',
+        group: 'dirty_hipster',
+      },
+      {
+        text: 'Answer 2 text',
+        group: 'clean_hipster',
+      },
+      {
+        text: 'Answer 3 text',
+        group: 'old_person',
+      },
+    ],
+  },
+  onSelectAnswer: (answer) => {
+    console.log('select', answer);
+  },
+};
