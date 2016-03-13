@@ -2,65 +2,30 @@ import React, { Component, PropTypes } from 'react';
 import { browserHistory } from 'react-router';
 import RaisedButton from 'material-ui/lib/raised-button';
 import NavigateBack from 'material-ui/lib/svg-icons/navigation/arrow-back';
-import { amber100, cyan300 } from 'material-ui/lib/styles/colors';
 import BodyTextStyle from './views/body-text-style';
 import TitleTextStyle from './views/title-text-style';
+import ContainerStyle from './views/container-style';
 
 const horizPadding = 16;
-const vertPadding = 50;
-const maxPageWidth = 400;
 
 const styles = {
-  container: {
-    width: '100%',
-    textAlign: 'center',
-    maxWidth: maxPageWidth,
-    margin: 'auto',
-    paddingTop: vertPadding,
-    paddingBottom: vertPadding,
+  containerStyle: {
+    paddingLeft: horizPadding,
+    paddingRight: horizPadding,
   },
   textContainer: {
     textAlign: 'left',
-    paddingLeft: horizPadding,
-    paddingRight: horizPadding,
-    paddingBottom: vertPadding,
+    paddingBottom: 30,
   },
   buttonContainer: {
     textAlign: 'left',
-    paddingLeft: horizPadding,
-    paddingRight: horizPadding,
-    paddingBottom: vertPadding,
-  },
-  aboutContainer: {
-    textAlign: 'left',
-    paddingLeft: horizPadding,
-    paddingRight: horizPadding,
-    paddingTop: 20,
-    paddingBottom: 20,
-    backgroundColor: cyan300,
-  },
-  titleTextStyle: {
-    color: '#ffffff',
-  },
-  captionTextStyle: {
-    lineHeight: '160%',
-    color: '#ffffff',
-    opacity: 0.9,
-  },
-  bodyStyle: {
-    lineHeight: '160%',
-    color: '#ffffff',
-    opacity: 0.9,
-  },
-  linkStyle: {
-    color: amber100,
   },
 };
 
 export default class Result extends Component {
   renderHipster() {
     return (
-      <div>
+      <div style={styles.textContainer}>
         <TitleTextStyle light={false}>
           You are a hipster, but you already knew that
         </TitleTextStyle>
@@ -81,11 +46,11 @@ export default class Result extends Component {
 
   renderHippie() {
     return (
-      <div>
-        <h1 style={styles.textContainer}>
+      <div style={styles.textContainer}>
+        <TitleTextStyle light={false}>
           Take it easy there hippie!
-        </h1>
-        <div style={styles.textContainer}>
+        </TitleTextStyle>
+        <BodyTextStyle light={false}>
           Wake up and head over to the Bastion Square Market to pick up some
           locally grown organic produce because buying from grocery stores
           supports coorporations. After that, make your way to Goldstream Park
@@ -94,18 +59,18 @@ export default class Result extends Component {
           their collection of crystals and maybe even get your tarot cards read.
           End the day with dinner from Rebar at 50 Bastion Square and enjoy some
           gourmet local vegetarian cuisine.
-        </div>
+        </BodyTextStyle>
       </div>
     );
   }
 
   renderStudent() {
     return (
-      <div>
-        <h1 style={styles.textContainer}>
+      <div style={styles.textContainer}>
+        <TitleTextStyle light={false}>
           You're a student
-        </h1>
-        <div style={styles.textContainer}>
+        </TitleTextStyle>
+        <BodyTextStyle light={false}>
           So you're probably a student which means you probably spend most of
           your time on campus. When you first get off the bus in the morning,
           head to the Munchie Bar in the sub to get the best and cheapest coffee
@@ -115,18 +80,18 @@ export default class Result extends Component {
           a quick snack or to Mystic Market or the Sub if you're looking for a
           more substaintial meal. After a good few more hours of studying, jump
           on a bus home and watch some Netflix because you deserve it.
-        </div>
+        </BodyTextStyle>
       </div>
     );
   }
 
   renderOld() {
     return (
-      <div>
-        <h1 style={styles.textContainer}>
+      <div style={styles.textContainer}>
+        <TitleTextStyle light={false}>
           Slow down old person, you don't want to break a hip!
-        </h1>
-        <div style={styles.textContainer}>
+        </TitleTextStyle>
+        <BodyTextStyle light={false}>
           Wake up bright and early, make yourself a cup of coffe, and sit down
           in your easy chair to read the Times Colonist. After you're done with
           the morning paper, head down to Beehive Wool Shop at 1700 Douglas
@@ -135,7 +100,7 @@ export default class Result extends Component {
           Lawn Bowling Club at 2190 Harlow Drive for some friendly games of
           cribbage. After that, enjoy an earyl dinner at Whitespot at 1871 Fort
           Street and be home in time to be in bed by 8.
-        </div>
+        </BodyTextStyle>
       </div>
     );
   }
@@ -173,16 +138,21 @@ export default class Result extends Component {
   render() {
     const back = () => browserHistory.push('/');
     return (
-      <div style={styles.container}>
-        {this.renderResult()}
+      <ContainerStyle style={styles.containerStyle}>
 
-        <RaisedButton
-          label="Back"
-          labelPosition="after"
-          icon={<NavigateBack />}
-          onTouchTap={back}
-        />
-      </div>
+        <div style={styles.containerStyle}>
+          {this.renderResult()}
+
+          <div style={styles.buttonContainer}>
+            <RaisedButton
+              label="Back"
+              labelPosition="after"
+              icon={<NavigateBack />}
+              onTouchTap={back}
+            />
+          </div>
+        </div>
+      </ContainerStyle>
     );
   }
 }
