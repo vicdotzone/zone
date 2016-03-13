@@ -2,7 +2,7 @@ const path = require('path');
 const express = require('express');
 const webpack = require('webpack');
 
-const STATIC_PATH = path.join(__dirname, '../../build/');
+const STATIC_PATH = path.join(__dirname, '../../dist/');
 
 const PORT = process.env.PORT || 8080;
 
