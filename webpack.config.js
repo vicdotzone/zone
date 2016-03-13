@@ -35,6 +35,10 @@ module.exports = {
         test: /\.yaml$/,
         loaders: ['json', 'yaml'],
       },
+      {
+        test: /\.json$/,
+        loader: 'json',
+      },
     ],
   },
   resolve: {

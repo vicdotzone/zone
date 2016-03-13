@@ -7,6 +7,7 @@ import App from './app';
 import Landing from './landing.connect';
 import Quiz from './quiz.connect';
 import Result from './result.connect';
+import Trashmap from './trashmap';
 
 let DevTools;
 
@@ -25,6 +26,7 @@ export default class Root extends Component {
             <IndexRoute component={Landing} />
             <Route path="quiz" component={Quiz} onEnter={onEnterQuiz} />
             <Route path="result" component={Result} onEnter={onEnterResult} />
+            <Route path="trashmap" component={Trashmap} />
           </Route>
         </Router>
       </div>
