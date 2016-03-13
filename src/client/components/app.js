@@ -4,7 +4,7 @@ import React, { Component } from 'react';
 import RaisedButton from 'material-ui/lib/raised-button';
 import getMuiTheme from 'material-ui/lib/styles/getMuiTheme';
 import MuiThemeProvider from 'material-ui/lib/MuiThemeProvider';
-import {green500} from 'material-ui/lib/styles/colors';
+import {amber500} from 'material-ui/lib/styles/colors';
 
 var horizPadding = 16;
 var vertPadding = 50;
@@ -43,7 +43,7 @@ const styles = {
 
 const muiTheme = getMuiTheme({
   palette: {
-    accent1Color: green500,
+    accent1Color: amber500,
   },
 });
 
@@ -51,29 +51,26 @@ export default class App extends Component {
   render() {
     return (
       <MuiThemeProvider muiTheme={muiTheme}>
-        <div style={styles.container}>
+       <div style={styles.container}>
+
           <div style={styles.textContainer}>
-            <h1>Victoria<br />Starter Kit</h1>
-            <div>What kind of Victorian are you?<br />¯\_(ツ)_/¯</div>
+            <h1>Victoria<br/>Starter Kit</h1>
+            <div>Take the test and find out what kind of
+                 Victorian you are<br/>¯\_(ツ)_/¯</div>
           </div>
 
-        <h1>Victoria<br/>Starter Kit</h1>
-        <div>Take the test and find out what kind of
-             Victorian you are<br/>¯\_(ツ)_/¯
+        <div style={styles.buttonContainer}>
+          <RaisedButton
+            label="Find out"
+            primary
+            onTouchTap={this.handleTouchTap}/>
         </div>
-       </div>
 
-       <div style={styles.buttonContainer}>
-        <RaisedButton
-          label="Find out"
-          primary
-          onTouchTap={this.handleTouchTap}/>
-       </div>
+        <div style={styles.aboutContainer}>
+          <div> Built by<br/> Laurel, Neal, Derek, and Linden </div>
+        </div>
 
-       <div style={styles.aboutContainer}>
-        <div> Built by<br/> Laurel, Neal, Derek, and Linden </div>
        </div>
-      </div>
       </MuiThemeProvider>
     );
   }
