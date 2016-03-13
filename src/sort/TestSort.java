@@ -3,8 +3,6 @@ import java.util.ArrayList;
 
 public class TestSort{
 
-	//TODO: Make options objects for math-y goodness!
-
 	public static void main(String[] args){
 		ArrayList<Question> Questions = generateQuestions();
 		
@@ -20,6 +18,13 @@ public class TestSort{
 
 		}
 	}
+
+	
+
+
+
+
+	/* -- Temporary methods to generate questions with hardcoded values -- */
 
 	private static ArrayList<Question> generateQuestions(){
 		ArrayList<Question> TempQuestions = new ArrayList<Question>();
