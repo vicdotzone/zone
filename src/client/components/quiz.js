@@ -7,10 +7,9 @@ import MuiThemeProvider from 'material-ui/lib/MuiThemeProvider';
 import Paper from 'material-ui/lib/paper';
 import RadioButton from 'material-ui/lib/radio-button';
 import RadioButtonGroup from 'material-ui/lib/radio-button-group';
-import { amber100, amber800, cyan700, cyan300 } from 'material-ui/lib/styles/colors';
+import { amber800, cyan700 } from 'material-ui/lib/styles/colors';
 
 const horizPadding = 16;
-const vertPadding = 50;
 
 const styles = {
   cardStyle: {

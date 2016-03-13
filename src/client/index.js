@@ -11,7 +11,9 @@ import { Provider } from 'react-redux';
 import Root from './components/root';
 import createStore from './store';
 
-const store = createStore();
+import { questions } from '../data/questions.yaml';
+
+const store = createStore({ questions });
 
 const rootEl = document.getElementById('app');
 ReactDOM.render(<Provider store={store}><Root /></Provider>, rootEl);
