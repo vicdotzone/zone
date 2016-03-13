@@ -2,11 +2,11 @@ import { connect } from 'react-redux';
 
 import { currentQuestion, currentQuestionIndex } from '../selectors';
 
-import Root from './quiz';
+import Quiz from './quiz';
 
 const mapState = (state) => ({
   currentQuestion: currentQuestion(state),
   currentQuestionIndex: currentQuestionIndex(state),
 });
 
-export default connect(mapState)(Root);
+export default connect(mapState)(Quiz);

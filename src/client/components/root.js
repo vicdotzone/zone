@@ -4,9 +4,9 @@ import { Route, IndexRoute } from 'react-router';
 import Router from './router';
 
 import App from './app';
-import Landing from './landing';
+import Landing from './landing.connect';
 import Quiz from './quiz.connect';
-import Result from './result';
+import Result from './result.connect';
 
 let DevTools;
 
@@ -16,15 +16,15 @@ if (process.env.NODE_ENV !== 'production') {
 
 export default class Root extends Component {
   render() {
-    const { start } = this.props;
+    const { onEnterQuiz, onEnterResult } = this.props;
     return (
       <div>
         {DevTools && <DevTools />}
         <Router>
           <Route path="/" component={App}>
             <IndexRoute component={Landing} />
-            <Route path="quiz" component={Quiz} onEnter={start} />
-            <Route path="result" component={Result} />
+            <Route path="quiz" component={Quiz} onEnter={onEnterQuiz} />
+            <Route path="result" component={Result} onEnter={onEnterResult} />
           </Route>
         </Router>
       </div>
@@ -33,5 +33,6 @@ export default class Root extends Component {
 }
 
 Root.propTypes = {
-  start: PropTypes.func.isRequired,
+  onEnterQuiz: PropTypes.func.isRequired,
+  onEnterResult: PropTypes.func.isRequired,
 };

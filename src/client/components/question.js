@@ -65,6 +65,7 @@ export default class Question extends Component {
           <RadioButtonGroup name="quizRadioGroup" onChange={handleChange}>
             {answers.map((answer, i) =>
               <RadioButton
+                key={i}
                 value={`${i}`}
                 label={answer.text}
                 style={styles.radioButton}

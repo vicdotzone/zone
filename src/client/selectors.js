@@ -1,4 +1,4 @@
-const MAX_QUESTIONS = 10;
+const MAX_QUESTIONS = 13;
 
 export const currentQuestionIndex = (state) => state.currentQuestionIndex;
 
@@ -27,4 +27,20 @@ export const availableQuestions = (state) => {
       index === answeredQuestionIndex
     )
   ).map(({ index }) => index);
+};
+
+export const results = (state) => {
+  const _answeredQuestions = answeredQuestions(state);
+  const _questions = questions(state);
+
+  const groups = _answeredQuestions.map(([questionIndex, answerIndex]) =>
+    _questions[questionIndex].answers[answerIndex].group
+  );
+
+  const counts = groups.reduce((reduced, group) => {
+    const count = reduced[group] || 0;
+    return Object.assign(reduced, { [group]: count + 1 });
+  }, {});
+
+  return counts;
 };

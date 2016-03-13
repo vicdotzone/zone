@@ -1,7 +1,7 @@
 import { combineReducers } from 'redux';
 import { routerReducer } from 'react-router-redux';
 
-import { SET_CURRENT_QUESTION_INDEX, SELECT_ANSWER } from './actions';
+import { SET_CURRENT_QUESTION_INDEX, SELECT_ANSWER, RESET } from './actions';
 
 export default combineReducers({
   routing: routerReducer,
@@ -10,6 +10,11 @@ export default combineReducers({
     if (action.type === SET_CURRENT_QUESTION_INDEX) {
       return action.payload;
     }
+
+    if (action.type === RESET) {
+      return null;
+    }
+
     return state;
   },
   answeredQuestions(state = [], action) {
@@ -20,6 +25,11 @@ export default combineReducers({
         [questionIndex, answerIndex],
       ];
     }
+
+    if (action.type === RESET) {
+      return [];
+    }
+
     return state;
   },
 });
