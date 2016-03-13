@@ -8,25 +8,24 @@ const getTextColor = (light) => {
   return '#ffffff';
 };
 
-export default class BodyTextStyle extends Component {
+export default class TitleTextStyle extends Component {
   render() {
     const { children, light } = this.props;
 
     const style = {
-      lineHeight: '1.6',
+      lineHeight: '1.2',
       color: getTextColor(light),
-      opacity: 0.9,
     };
 
-    return <div style={style}>{children}</div>;
+    return <h1 style={style}>{children}</h1>;
   }
 }
 
-BodyTextStyle.propTypes = {
+TitleTextStyle.propTypes = {
   children: PropTypes.node,
   light: PropTypes.bool,
 };
 
-BodyTextStyle.defaultProps = {
+TitleTextStyle.defaultProps = {
   light: false,
 };

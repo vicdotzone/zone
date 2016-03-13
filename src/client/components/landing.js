@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 
 import ContainerStyle from './views/container-style';
 import BodyTextStyle from './views/body-text-style';
+import TitleTextStyle from './views/title-text-style';
 import RaisedButton from 'material-ui/lib/raised-button';
 import Paper from 'material-ui/lib/paper';
 import getMuiTheme from 'material-ui/lib/styles/getMuiTheme';
@@ -32,9 +33,6 @@ const styles = {
     paddingBottom: 20,
     backgroundColor: cyan300,
   },
-  titleTextStyle: {
-    color: '#ffffff',
-  },
   linkStyle: {
     color: amber100,
   },
@@ -58,7 +56,7 @@ export default class App extends Component {
        <ContainerStyle>
 
           <div style={styles.textContainer}>
-            <h1 style={styles.titleTextStyle}>The Victorian<br />stereotype quiz!</h1>
+            <TitleTextStyle>The Victorian<br />stereotype quiz!</TitleTextStyle>
             <BodyTextStyle light= {false}>Take the test and find out which
             Victorian stereotype you are, old person? hipster? spandex wearing cyclist?
             <br />¯\_(ツ)_/¯</BodyTextStyle></div>
