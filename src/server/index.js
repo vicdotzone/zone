@@ -2,8 +2,6 @@ const path = require('path');
 const express = require('express');
 const webpack = require('webpack');
 
-const STATIC_PATH = path.join(__dirname, '../../dist/');
-
 const PORT = process.env.PORT || 8080;
 
 const app = express();
@@ -22,9 +20,10 @@ if (process.env.NODE_ENV !== 'production') {
   app.use(require('webpack-hot-middleware')(compiler));
 }
 
-app.use('/static', express.static(STATIC_PATH));
+app.use('/static', express.static(path.join(__dirname, '../../dist/')));
+app.use('/static', express.static(path.join(__dirname, '../static/')));
 
-app.get('/', (req, res) => {
+app.get('*', (req, res) => {
   res.sendFile(path.join(__dirname, 'index.html'));
 });
 
