@@ -7,15 +7,24 @@ import App from './app';
 import Landing from './landing';
 import Quiz from './quiz';
 
+let DevTools;
+
+if (process.env.NODE_ENV !== 'production') {
+  DevTools = require('./dev-tools').default;
+}
+
 export default class Root extends Component {
   render() {
     return (
-      <Router>
-        <Route path="/" component={App}>
-          <IndexRoute component={Landing} />
-          <Route path="quiz" component={Quiz} />
-        </Route>
-      </Router>
+      <div>
+        {DevTools && <DevTools />}
+        <Router>
+          <Route path="/" component={App}>
+            <IndexRoute component={Landing} />
+            <Route path="quiz" component={Quiz} />
+          </Route>
+        </Router>
+      </div>
     );
   }
 }

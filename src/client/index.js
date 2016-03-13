@@ -13,6 +13,5 @@ import createStore from './store';
 
 const store = createStore();
 
-// Render the main component into the dom
 const rootEl = document.getElementById('app');
 ReactDOM.render(<Provider store={store}><Root /></Provider>, rootEl);
