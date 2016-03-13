@@ -1,39 +1,35 @@
-var path = require('path');
+const ExtractTextPlugin = require('extract-text-webpack-plugin');
 
-var port = process.env.PORT || 8080;
-var host = process.env.IP || '127.0.0.1';
+const path = require('path');
 
 module.exports = {
-  devtool: 'cheap-module-eval-source-map',
   entry: [
     'normalize.css',
     './src/styles/app.css',
-    'eventsource-polyfill', // necessary for hot reloading with IE
-    './src/index'
+    './src/index',
   ],
   output: {
-    path: __dirname,
+    path: path.join(__dirname, 'build'),
     filename: 'bundle.js',
-    publicPath: '/static/'
+    publicPath: '/build/',
   },
   module: {
-    loaders: [{
-      test: /\.jsx?$/,
-      loader: 'babel',
-      include: path.join(__dirname, 'src'),
-      query: {
-        presets: [ 'es2015', 'react', 'react-hmre' ]
-      }
-    }, {
-      test: /\.css$/,
-      loaders: ['style', 'css'],
-    }]
+    loaders: [
+      {
+        test: /\.js?$/,
+        loader: 'babel',
+        include: path.join(__dirname, 'src'),
+      },
+      {
+        test: /\.css$/,
+        loader: ExtractTextPlugin.extract('style', 'css'),
+      },
+    ],
   },
   resolve: {
     root: path.resolve('./src'),
   },
-  devServer: {
-    port: port,
-    host: host
-  }
+  plugins: [
+    new ExtractTextPlugin('styles.css'),
+  ],
 };
