@@ -1,4 +1,4 @@
-import React, { Component, PropTypes } from 'react';
+import React, { Component } from 'react';
 import { browserHistory } from 'react-router';
 
 import ContainerStyle from './views/container-style';
@@ -51,7 +51,7 @@ export default class Landing extends Component {
   }
 
   render() {
-    const startQuiz = () => browserHistory.push('/quiz');
+    const navigetToQuiz = () => browserHistory.push('quiz');
 
     return (
       <MuiThemeProvider muiTheme={muiTheme}>
@@ -68,7 +68,7 @@ export default class Landing extends Component {
           <RaisedButton
             label="Find out now!"
             primary
-            onTouchTap={startQuiz}
+            onTouchTap={navigetToQuiz}
           />
         </div>
 
@@ -89,7 +89,3 @@ export default class Landing extends Component {
     );
   }
 }
-
-Landing.propTypes = {
-  push: PropTypes.func.isRequired,
-};

@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component, PropTypes } from 'react';
 import { Route, IndexRoute } from 'react-router';
 
 import Router from './router';
@@ -16,13 +16,14 @@ if (process.env.NODE_ENV !== 'production') {
 
 export default class Root extends Component {
   render() {
+    const { start } = this.props;
     return (
       <div>
         {DevTools && <DevTools />}
         <Router>
           <Route path="/" component={App}>
             <IndexRoute component={Landing} />
-            <Route path="quiz" component={Quiz} />
+            <Route path="quiz" component={Quiz} onEnter={start} />
             <Route path="result" component={Result} />
           </Route>
         </Router>
@@ -30,3 +31,7 @@ export default class Root extends Component {
     );
   }
 }
+
+Root.propTypes = {
+  start: PropTypes.func.isRequired,
+};

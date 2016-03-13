@@ -1,9 +1,12 @@
 import { connect } from 'react-redux';
 
-import Quiz from './quiz';
+import { currentQuestion, currentQuestionIndex } from '../selectors';
+
+import Root from './quiz';
 
 const mapState = (state) => ({
-  question: state.questions[0],
+  currentQuestion: currentQuestion(state),
+  currentQuestionIndex: currentQuestionIndex(state),
 });
 
-export default connect(mapState)(Quiz);
+export default connect(mapState)(Root);
