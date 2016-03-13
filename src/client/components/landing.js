@@ -1,4 +1,5 @@
 import React, { Component, PropTypes } from 'react';
+import { browserHistory } from 'react-router';
 
 import ContainerStyle from './views/container-style';
 import BodyTextStyle from './views/body-text-style';
@@ -52,6 +53,8 @@ export default class Landing extends Component {
   render() {
     const { start } = this.props;
 
+    const garbageZone = () => browserHistory.push('trashmap');
+
     return (
       <MuiThemeProvider muiTheme={muiTheme}>
       <div>
@@ -82,6 +85,18 @@ export default class Landing extends Component {
             </BodyTextStyle>
           </div>
         </Paper>
+        <BodyTextStyle light= {false}>
+          <div
+            onClick={garbageZone}
+            style={{
+              fontSize: 16,
+              marginTop: 20,
+              cursor: 'pointer',
+            }}
+          >
+            ENTER THE <span style={{ fontSize: 40 }}>🗑</span> GARBAGE ZONE
+          </div>
+        </BodyTextStyle>
         </ContainerStyle>
        </div>
       </MuiThemeProvider>

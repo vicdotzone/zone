@@ -1,0 +1,8018 @@
+[
+  {
+    "id":1,
+    "northing":5365402.222,
+    "easting":474506.728,
+    "type":"Litter Can - Streets",
+    "lng":-123.344703416259,
+    "lat":48.4412466391659
+  },
+  {
+    "id":2,
+    "northing":5364205.234,
+    "easting":474457.583,
+    "type":"Litter Can - Streets",
+    "lng":-123.3452949778,
+    "lat":48.4304760863019
+  },
+  {
+    "id":3,
+    "northing":5364211.532,
+    "easting":474417.639,
+    "type":"Litter Can - Streets",
+    "lng":-123.345835336063,
+    "lat":48.4305311239884
+  },
+  {
+    "id":4,
+    "northing":5364203.182,
+    "easting":474420.314,
+    "type":"Litter Can - Streets",
+    "lng":-123.345798664907,
+    "lat":48.4304561130581
+  },
+  {
+    "id":5,
+    "northing":5364435.603,
+    "easting":472657.564,
+    "type":"Litter Can - Streets",
+    "lng":-123.369643092918,
+    "lat":48.4324730262769
+  },
+  {
+    "id":6,
+    "northing":5364376.187,
+    "easting":472659.058,
+    "type":"Litter Can - Streets",
+    "lng":-123.36961902229,
+    "lat":48.4319385635914
+  },
+  {
+    "id":7,
+    "northing":5364263.043,
+    "easting":472831.438,
+    "type":"Litter Can - Streets",
+    "lng":-123.367281356731,
+    "lat":48.4309281346149
+  },
+  {
+    "id":8,
+    "northing":5364443.876,
+    "easting":472828.792,
+    "type":"Litter Can - Streets",
+    "lng":-123.367328842121,
+    "lat":48.4325548591916
+  },
+  {
+    "id":9,
+    "northing":5364445.611,
+    "easting":473020.489,
+    "type":"Litter Can - Streets",
+    "lng":-123.364737447296,
+    "lat":48.4325787016962
+  },
+  {
+    "id":10,
+    "northing":5364403.398,
+    "easting":473021.696,
+    "type":"Litter Can - Streets",
+    "lng":-123.36471841409,
+    "lat":48.4321989900798
+  },
+  {
+    "id":11,
+    "northing":5364343.483,
+    "easting":473022.572,
+    "type":"Litter Can - Streets",
+    "lng":-123.364702716923,
+    "lat":48.4316600107213
+  },
+  {
+    "id":12,
+    "northing":5364297.058,
+    "easting":473023.613,
+    "type":"Litter Can - Streets",
+    "lng":-123.364685657427,
+    "lat":48.4312423992702
+  },
+  {
+    "id":13,
+    "northing":5364175.801,
+    "easting":473027.738,
+    "type":"Litter Can - Streets",
+    "lng":-123.364622094445,
+    "lat":48.4301517040482
+  },
+  {
+    "id":14,
+    "northing":5364097.15,
+    "easting":472865.386,
+    "type":"Litter Can - Streets",
+    "lng":-123.366811703866,
+    "lat":48.4294371636656
+  },
+  {
+    "id":15,
+    "northing":5364084.059,
+    "easting":472868.145,
+    "type":"Litter Can - Streets",
+    "lng":-123.366773561073,
+    "lat":48.4293195110491
+  },
+  {
+    "id":16,
+    "northing":5364068.775,
+    "easting":472858.795,
+    "type":"Litter Can - Streets",
+    "lng":-123.366898964488,
+    "lat":48.4291816080458
+  },
+  {
+    "id":17,
+    "northing":5364168.909,
+    "easting":472853.231,
+    "type":"Litter Can - Streets",
+    "lng":-123.366980658843,
+    "lat":48.430082210228
+  },
+  {
+    "id":18,
+    "northing":5364177.286,
+    "easting":472864.028,
+    "type":"Litter Can - Streets",
+    "lng":-123.366835245819,
+    "lat":48.4301580377347
+  },
+  {
+    "id":19,
+    "northing":5364177.269,
+    "easting":472939.551,
+    "type":"Litter Can - Streets",
+    "lng":-123.365814313927,
+    "lat":48.4301611313661
+  },
+  {
+    "id":20,
+    "northing":5364192.86,
+    "easting":472947.53,
+    "type":"Litter Can - Streets",
+    "lng":-123.365707458324,
+    "lat":48.4303017361026
+  },
+  {
+    "id":21,
+    "northing":5364265.247,
+    "easting":473046.998,
+    "type":"Litter Can - Streets",
+    "lng":-123.364367484224,
+    "lat":48.4309572163114
+  },
+  {
+    "id":22,
+    "northing":5364265.595,
+    "easting":473024.758,
+    "type":"Litter Can - Streets",
+    "lng":-123.36466815481,
+    "lat":48.4309593957843
+  },
+  {
+    "id":23,
+    "northing":5364100.656,
+    "easting":472540.808,
+    "type":"Litter Can - Streets",
+    "lng":-123.371199558505,
+    "lat":48.4294546509476
+  },
+  {
+    "id":24,
+    "northing":5364174.07,
+    "easting":472746.782,
+    "type":"Litter Can - Streets",
+    "lng":-123.368419983003,
+    "lat":48.4301240462498
+  },
+  {
+    "id":25,
+    "northing":5365025.675,
+    "easting":472651.457,
+    "type":"Litter Can - Streets",
+    "lng":-123.369764138765,
+    "lat":48.4377812669859
+  },
+  {
+    "id":26,
+    "northing":5364940.93,
+    "easting":472675.732,
+    "type":"Litter Can - Streets",
+    "lng":-123.369430413834,
+    "lat":48.4370199231305
+  },
+  {
+    "id":27,
+    "northing":5364188.24,
+    "easting":472675.192,
+    "type":"Litter Can - Streets",
+    "lng":-123.369388668017,
+    "lat":48.4302484248135
+  },
+  {
+    "id":28,
+    "northing":5364188.199,
+    "easting":472755.723,
+    "type":"Litter Can - Streets",
+    "lng":-123.368300035307,
+    "lat":48.4302515424061
+  },
+  {
+    "id":29,
+    "northing":5364076.516,
+    "easting":472652.036,
+    "type":"Litter Can - Streets",
+    "lng":-123.369694409481,
+    "lat":48.4292423110752
+  },
+  {
+    "id":30,
+    "northing":5364063.055,
+    "easting":472665.749,
+    "type":"Litter Can - Streets",
+    "lng":-123.369508160736,
+    "lat":48.4291218058252
+  },
+  {
+    "id":31,
+    "northing":5363974.898,
+    "easting":472836.301,
+    "type":"Litter Can - Streets",
+    "lng":-123.367196947266,
+    "lat":48.4283360868619
+  },
+  {
+    "id":32,
+    "northing":5363899.615,
+    "easting":472762.023,
+    "type":"Litter Can - Streets",
+    "lng":-123.368196110075,
+    "lat":48.4276556061248
+  },
+  {
+    "id":33,
+    "northing":5364001.933,
+    "easting":472706.655,
+    "type":"Litter Can - Streets",
+    "lng":-123.368951213539,
+    "lat":48.4285737017751
+  },
+  {
+    "id":34,
+    "northing":5363696.919,
+    "easting":472624.616,
+    "type":"Litter Can - Streets",
+    "lng":-123.370040230187,
+    "lat":48.4258261173564
+  },
+  {
+    "id":35,
+    "northing":5363696.913,
+    "easting":472641.579,
+    "type":"Litter Can - Streets",
+    "lng":-123.369810943952,
+    "lat":48.4258268006026
+  },
+  {
+    "id":36,
+    "northing":5363778.746,
+    "easting":472620.712,
+    "type":"Litter Can - Streets",
+    "lng":-123.370098355117,
+    "lat":48.4265620956097
+  },
+  {
+    "id":37,
+    "northing":5363903.843,
+    "easting":472656.551,
+    "type":"Litter Can - Streets",
+    "lng":-123.369622092604,
+    "lat":48.4276890739377
+  },
+  {
+    "id":38,
+    "northing":5363886.904,
+    "easting":472750.062,
+    "type":"Litter Can - Streets",
+    "lng":-123.368356964241,
+    "lat":48.4275407358997
+  },
+  {
+    "id":39,
+    "northing":5363878.821,
+    "easting":472795.891,
+    "type":"Litter Can - Streets",
+    "lng":-123.367736952183,
+    "lat":48.4274699988817
+  },
+  {
+    "id":40,
+    "northing":5363854.569,
+    "easting":472584.289,
+    "type":"Litter Can - Streets",
+    "lng":-123.370595656847,
+    "lat":48.4272426450171
+  },
+  {
+    "id":41,
+    "northing":5363834.946,
+    "easting":472589.683,
+    "type":"Litter Can - Streets",
+    "lng":-123.370521458719,
+    "lat":48.4270663434634
+  },
+  {
+    "id":42,
+    "northing":5364521.553,
+    "easting":473019.484,
+    "type":"Litter Can - Streets",
+    "lng":-123.364755920414,
+    "lat":48.43326186006
+  },
+  {
+    "id":43,
+    "northing":5364437.06,
+    "easting":473043.554,
+    "type":"Litter Can - Streets",
+    "lng":-123.364425087096,
+    "lat":48.4325027605042
+  },
+  {
+    "id":44,
+    "northing":5364396.782,
+    "easting":473045.022,
+    "type":"Litter Can - Streets",
+    "lng":-123.364402652198,
+    "lat":48.4321404679579
+  },
+  {
+    "id":45,
+    "northing":5363953.911,
+    "easting":473466.5,
+    "type":"Litter Can - Streets",
+    "lng":-123.358676803699,
+    "lat":48.4281741190467
+  },
+  {
+    "id":46,
+    "northing":5363930.517,
+    "easting":473453.861,
+    "type":"Litter Can - Streets",
+    "lng":-123.358846170232,
+    "lat":48.4279631261498
+  },
+  {
+    "id":47,
+    "northing":5363924.801,
+    "easting":473184.125,
+    "type":"Litter Can - Streets",
+    "lng":-123.362491973753,
+    "lat":48.4279002888071
+  },
+  {
+    "id":48,
+    "northing":5364082.987,
+    "easting":473050.463,
+    "type":"Litter Can - Streets",
+    "lng":-123.364308929745,
+    "lat":48.4293176875891
+  },
+  {
+    "id":49,
+    "northing":5364075.56,
+    "easting":473028.631,
+    "type":"Litter Can - Streets",
+    "lng":-123.364603575608,
+    "lat":48.4292499378949
+  },
+  {
+    "id":50,
+    "northing":5364056.601,
+    "easting":473028.525,
+    "type":"Litter Can - Streets",
+    "lng":-123.364603788609,
+    "lat":48.4290793713096
+  },
+  {
+    "id":51,
+    "northing":5363952.28,
+    "easting":473047.735,
+    "type":"Litter Can - Streets",
+    "lng":-123.364337400068,
+    "lat":48.4281416832405
+  },
+  {
+    "id":52,
+    "northing":5363995.869,
+    "easting":473057.57,
+    "type":"Litter Can - Streets",
+    "lng":-123.364207256991,
+    "lat":48.4285342461891
+  },
+  {
+    "id":53,
+    "northing":5364007.338,
+    "easting":473062.482,
+    "type":"Litter Can - Streets",
+    "lng":-123.364141595239,
+    "lat":48.4286376354049
+  },
+  {
+    "id":54,
+    "northing":5361901.59,
+    "easting":475103.348,
+    "type":"Litter Can - Streets",
+    "lng":-123.336428539152,
+    "lat":48.4097774863622
+  },
+  {
+    "id":55,
+    "northing":5361802.19,
+    "easting":474512.548,
+    "type":"Litter Can - Streets",
+    "lng":-123.344405870057,
+    "lat":48.4088595422746
+  },
+  {
+    "id":56,
+    "northing":5361783.377,
+    "easting":474489.399,
+    "type":"Litter Can - Streets",
+    "lng":-123.344717526636,
+    "lat":48.4086893516191
+  },
+  {
+    "id":57,
+    "northing":5361740.445,
+    "easting":474435.836,
+    "type":"Litter Can - Streets",
+    "lng":-123.345438677336,
+    "lat":48.4083009365595
+  },
+  {
+    "id":58,
+    "northing":5361616.505,
+    "easting":473826.649,
+    "type":"Litter Can - Streets",
+    "lng":-123.353662574412,
+    "lat":48.4071609265887
+  },
+  {
+    "id":59,
+    "northing":5362357.748,
+    "easting":473604.762,
+    "type":"Litter Can - Streets",
+    "lng":-123.356707326841,
+    "lat":48.4138202184799
+  },
+  {
+    "id":60,
+    "northing":5362413.277,
+    "easting":473625.372,
+    "type":"Litter Can - Streets",
+    "lng":-123.356432297458,
+    "lat":48.4143206424463
+  },
+  {
+    "id":61,
+    "northing":5362493.582,
+    "easting":473647.315,
+    "type":"Litter Can - Streets",
+    "lng":-123.356140804646,
+    "lat":48.4150440169087
+  },
+  {
+    "id":62,
+    "northing":5363725.815,
+    "easting":473437.092,
+    "type":"Litter Can - Streets",
+    "lng":-123.359059866887,
+    "lat":48.4261208462009
+  },
+  {
+    "id":63,
+    "northing":5363685.335,
+    "easting":473434.229,
+    "type":"Litter Can - Streets",
+    "lng":-123.359095999539,
+    "lat":48.4257565526887
+  },
+  {
+    "id":64,
+    "northing":5363680.412,
+    "easting":473479.366,
+    "type":"Litter Can - Streets",
+    "lng":-123.358485571474,
+    "lat":48.425714163784
+  },
+  {
+    "id":65,
+    "northing":5363762.863,
+    "easting":473468.958,
+    "type":"Litter Can - Streets",
+    "lng":-123.358631477747,
+    "lat":48.4264554852307
+  },
+  {
+    "id":66,
+    "northing":5364572.035,
+    "easting":473042.153,
+    "type":"Litter Can - Streets",
+    "lng":-123.364452704378,
+    "lat":48.4337169845117
+  },
+  {
+    "id":67,
+    "northing":5364629.637,
+    "easting":473041.449,
+    "type":"Litter Can - Streets",
+    "lng":-123.364465924417,
+    "lat":48.4342351633398
+  },
+  {
+    "id":68,
+    "northing":5364734.015,
+    "easting":473001.686,
+    "type":"Litter Can - Streets",
+    "lng":-123.365010208479,
+    "lat":48.4351724849797
+  },
+  {
+    "id":69,
+    "northing":5364749.728,
+    "easting":472971.185,
+    "type":"Litter Can - Streets",
+    "lng":-123.365423578408,
+    "lat":48.4353125381517
+  },
+  {
+    "id":70,
+    "northing":5364664.98,
+    "easting":473000.86,
+    "type":"Litter Can - Streets",
+    "lng":-123.365016930966,
+    "lat":48.4345513851976
+  },
+  {
+    "id":71,
+    "northing":5364637.604,
+    "easting":472944.432,
+    "type":"Litter Can - Streets",
+    "lng":-123.36577803142,
+    "lat":48.4343026815567
+  },
+  {
+    "id":72,
+    "northing":5364608.865,
+    "easting":472845.493,
+    "type":"Litter Can - Streets",
+    "lng":-123.367113748977,
+    "lat":48.4340398804912
+  },
+  {
+    "id":73,
+    "northing":5364420.07,
+    "easting":473909.542,
+    "type":"Litter Can - Streets",
+    "lng":-123.352716929829,
+    "lat":48.4323863612561
+  },
+  {
+    "id":74,
+    "northing":5364180.448,
+    "easting":473887.781,
+    "type":"Litter Can - Streets",
+    "lng":-123.352996188194,
+    "lat":48.4302297334782
+  },
+  {
+    "id":75,
+    "northing":5364110.389,
+    "easting":473901.234,
+    "type":"Litter Can - Streets",
+    "lng":-123.352809967651,
+    "lat":48.4296000150081
+  },
+  {
+    "id":76,
+    "northing":5364120.179,
+    "easting":473882.213,
+    "type":"Litter Can - Streets",
+    "lng":-123.353067703366,
+    "lat":48.4296873008037
+  },
+  {
+    "id":77,
+    "northing":5363873.713,
+    "easting":473613.173,
+    "type":"Litter Can - Streets",
+    "lng":-123.356689079087,
+    "lat":48.427458788548
+  },
+  {
+    "id":78,
+    "northing":5364112.186,
+    "easting":473451.515,
+    "type":"Litter Can - Streets",
+    "lng":-123.358889392768,
+    "lat":48.429597387583
+  },
+  {
+    "id":79,
+    "northing":5364218.087,
+    "easting":473477.531,
+    "type":"Litter Can - Streets",
+    "lng":-123.358544407057,
+    "lat":48.4305512064859
+  },
+  {
+    "id":80,
+    "northing":5363964.875,
+    "easting":473454.86,
+    "type":"Litter Can - Streets",
+    "lng":-123.358834843401,
+    "lat":48.4282722652247
+  },
+  {
+    "id":81,
+    "northing":5364511.575,
+    "easting":473506.699,
+    "type":"Litter Can - Streets",
+    "lng":-123.358168650237,
+    "lat":48.433192757611
+  },
+  {
+    "id":82,
+    "northing":5364716.145,
+    "easting":473509.397,
+    "type":"Litter Can - Streets",
+    "lng":-123.358145092552,
+    "lat":48.4350332595726
+  },
+  {
+    "id":83,
+    "northing":5363661.695,
+    "easting":473837.936,
+    "type":"Litter Can - Streets",
+    "lng":-123.353637619414,
+    "lat":48.425560770112
+  },
+  {
+    "id":84,
+    "northing":5362428.746,
+    "easting":473603.785,
+    "type":"Litter Can - Streets",
+    "lng":-123.356724996107,
+    "lat":48.4144589050935
+  },
+  {
+    "id":85,
+    "northing":5362458.575,
+    "easting":473617.758,
+    "type":"Litter Can - Streets",
+    "lng":-123.356538040771,
+    "lat":48.4147278437262
+  },
+  {
+    "id":86,
+    "northing":5362383.957,
+    "easting":473593.298,
+    "type":"Litter Can - Streets",
+    "lng":-123.356863898562,
+    "lat":48.4140555258015
+  },
+  {
+    "id":87,
+    "northing":5362567.518,
+    "easting":473674.655,
+    "type":"Litter Can - Streets",
+    "lng":-123.355775967318,
+    "lat":48.415710318036
+  },
+  {
+    "id":88,
+    "northing":5362812.435,
+    "easting":473716.663,
+    "type":"Litter Can - Streets",
+    "lng":-123.355223607392,
+    "lat":48.417915446115
+  },
+  {
+    "id":89,
+    "northing":5362863.087,
+    "easting":473721.733,
+    "type":"Litter Can - Streets",
+    "lng":-123.355158261666,
+    "lat":48.4183713437404
+  },
+  {
+    "id":90,
+    "northing":5364617.403,
+    "easting":473159.236,
+    "type":"Litter Can - Streets",
+    "lng":-123.362872754192,
+    "lat":48.4341301272877
+  },
+  {
+    "id":91,
+    "northing":5364773.979,
+    "easting":473077.341,
+    "type":"Litter Can - Streets",
+    "lng":-123.363989958932,
+    "lat":48.4355352508156
+  },
+  {
+    "id":92,
+    "northing":5364759.077,
+    "easting":473262.468,
+    "type":"Litter Can - Streets",
+    "lng":-123.361486171553,
+    "lat":48.4354090655256
+  },
+  {
+    "id":93,
+    "northing":5363017.538,
+    "easting":473747.998,
+    "type":"Litter Can - Streets",
+    "lng":-123.354812961268,
+    "lat":48.4197619426126
+  },
+  {
+    "id":94,
+    "northing":5363304.979,
+    "easting":473795.936,
+    "type":"Litter Can - Streets",
+    "lng":-123.354183028551,
+    "lat":48.4223498701821
+  },
+  {
+    "id":95,
+    "northing":5363447.979,
+    "easting":473820.026,
+    "type":"Litter Can - Streets",
+    "lng":-123.353866357985,
+    "lat":48.4236373551096
+  },
+  {
+    "id":96,
+    "northing":5363424.527,
+    "easting":473837.622,
+    "type":"Litter Can - Streets",
+    "lng":-123.353627059326,
+    "lat":48.4234271030153
+  },
+  {
+    "id":97,
+    "northing":5363408.448,
+    "easting":473831.616,
+    "type":"Litter Can - Streets",
+    "lng":-123.353707234731,
+    "lat":48.4232822006259
+  },
+  {
+    "id":98,
+    "northing":5363737.928,
+    "easting":473868.719,
+    "type":"Litter Can - Streets",
+    "lng":-123.353226281159,
+    "lat":48.4262478688356
+  },
+  {
+    "id":99,
+    "northing":5363789.261,
+    "easting":473895.268,
+    "type":"Litter Can - Streets",
+    "lng":-123.35287061299,
+    "lat":48.4267107808025
+  },
+  {
+    "id":100,
+    "northing":5363968.358,
+    "easting":473866.398,
+    "type":"Litter Can - Streets",
+    "lng":-123.353272024687,
+    "lat":48.4283208070095
+  },
+  {
+    "id":101,
+    "northing":5363869.057,
+    "easting":473858.973,
+    "type":"Litter Can - Streets",
+    "lng":-123.353366198641,
+    "lat":48.4274271499968
+  },
+  {
+    "id":102,
+    "northing":5363853.025,
+    "easting":473820.973,
+    "type":"Litter Can - Streets",
+    "lng":-123.353878859143,
+    "lat":48.4272813416438
+  },
+  {
+    "id":103,
+    "northing":5364008.678,
+    "easting":473888.967,
+    "type":"Litter Can - Streets",
+    "lng":-123.352969457084,
+    "lat":48.4286844769264
+  },
+  {
+    "id":104,
+    "northing":5363892.825,
+    "easting":473401.66,
+    "type":"Litter Can - Streets",
+    "lng":-123.359549406897,
+    "lat":48.427621835314
+  },
+  {
+    "id":105,
+    "northing":5363647.722,
+    "easting":473538.887,
+    "type":"Litter Can - Streets",
+    "lng":-123.35767896277,
+    "lat":48.4254225747918
+  },
+  {
+    "id":106,
+    "northing":5363655.153,
+    "easting":473488.638,
+    "type":"Litter Can - Streets",
+    "lng":-123.358358643581,
+    "lat":48.4254873145128
+  },
+  {
+    "id":107,
+    "northing":5363660.488,
+    "easting":473457.193,
+    "type":"Litter Can - Streets",
+    "lng":-123.358784021198,
+    "lat":48.4255339871357
+  },
+  {
+    "id":108,
+    "northing":5363667.073,
+    "easting":473430.381,
+    "type":"Litter Can - Streets",
+    "lng":-123.359146854815,
+    "lat":48.4255920989029
+  },
+  {
+    "id":109,
+    "northing":5363612.033,
+    "easting":473416.711,
+    "type":"Litter Can - Streets",
+    "lng":-123.359328139422,
+    "lat":48.4250963626599
+  },
+  {
+    "id":110,
+    "northing":5363574.573,
+    "easting":473488.331,
+    "type":"Litter Can - Streets",
+    "lng":-123.358357694524,
+    "lat":48.4247623743714
+  },
+  {
+    "id":111,
+    "northing":5363565.901,
+    "easting":473539.893,
+    "type":"Litter Can - Streets",
+    "lng":-123.357660197932,
+    "lat":48.4246865251516
+  },
+  {
+    "id":112,
+    "northing":5363556.046,
+    "easting":473596.088,
+    "type":"Litter Can - Streets",
+    "lng":-123.356900006137,
+    "lat":48.424600223154
+  },
+  {
+    "id":113,
+    "northing":5363635.892,
+    "easting":473597.869,
+    "type":"Litter Can - Streets",
+    "lng":-123.35688096362,
+    "lat":48.4253186220645
+  },
+  {
+    "id":114,
+    "northing":5363631.376,
+    "easting":473637.703,
+    "type":"Litter Can - Streets",
+    "lng":-123.356342248462,
+    "lat":48.4252796623703
+  },
+  {
+    "id":115,
+    "northing":5363596.017,
+    "easting":473820.218,
+    "type":"Litter Can - Streets",
+    "lng":-123.353873009671,
+    "lat":48.424969169812
+  },
+  {
+    "id":116,
+    "northing":5363540.814,
+    "easting":473688.727,
+    "type":"Litter Can - Streets",
+    "lng":-123.355646878375,
+    "lat":48.4244670653389
+  },
+  {
+    "id":117,
+    "northing":5363537.554,
+    "easting":473623.515,
+    "type":"Litter Can - Streets",
+    "lng":-123.356528120426,
+    "lat":48.4244350108643
+  },
+  {
+    "id":118,
+    "northing":5363631.259,
+    "easting":473759.541,
+    "type":"Litter Can - Streets",
+    "lng":-123.354695373659,
+    "lat":48.4252836957073
+  },
+  {
+    "id":119,
+    "northing":5363637.702,
+    "easting":473715.772,
+    "type":"Litter Can - Streets",
+    "lng":-123.355287397368,
+    "lat":48.4253398349955
+  },
+  {
+    "id":120,
+    "northing":5363619.823,
+    "easting":473697.622,
+    "type":"Litter Can - Streets",
+    "lng":-123.355531606502,
+    "lat":48.4251782314286
+  },
+  {
+    "id":121,
+    "northing":5363652.595,
+    "easting":473641.008,
+    "type":"Litter Can - Streets",
+    "lng":-123.356298910052,
+    "lat":48.425470694642
+  },
+  {
+    "id":122,
+    "northing":5364275.517,
+    "easting":473694.885,
+    "type":"Litter Can - Streets",
+    "lng":-123.355609757275,
+    "lat":48.4310769816285
+  },
+  {
+    "id":123,
+    "northing":5364222.803,
+    "easting":473781.706,
+    "type":"Litter Can - Streets",
+    "lng":-123.354432777559,
+    "lat":48.4306063672352
+  },
+  {
+    "id":124,
+    "northing":5364502.79,
+    "easting":473933.296,
+    "type":"Litter Can - Streets",
+    "lng":-123.352400948102,
+    "lat":48.4331315236322
+  },
+  {
+    "id":125,
+    "northing":5363868.095,
+    "easting":473411.065,
+    "type":"Litter Can - Streets",
+    "lng":-123.359420705624,
+    "lat":48.4273997519227
+  },
+  {
+    "id":126,
+    "northing":5363883.997,
+    "easting":473322.07,
+    "type":"Litter Can - Streets",
+    "lng":-123.360624699684,
+    "lat":48.4275390528897
+  },
+  {
+    "id":127,
+    "northing":5363916.204,
+    "easting":473129.231,
+    "type":"Litter Can - Streets",
+    "lng":-123.363233455037,
+    "lat":48.42782060953
+  },
+  {
+    "id":128,
+    "northing":5363924.356,
+    "easting":473046.138,
+    "type":"Litter Can - Streets",
+    "lng":-123.364357191498,
+    "lat":48.4278904004646
+  },
+  {
+    "id":129,
+    "northing":5363890.583,
+    "easting":473040.656,
+    "type":"Litter Can - Streets",
+    "lng":-123.364429121839,
+    "lat":48.4275863317928
+  },
+  {
+    "id":130,
+    "northing":5363856.297,
+    "easting":473033.674,
+    "type":"Litter Can - Streets",
+    "lng":-123.364521294371,
+    "lat":48.4272775837532
+  },
+  {
+    "id":131,
+    "northing":5363837.744,
+    "easting":473124.059,
+    "type":"Litter Can - Streets",
+    "lng":-123.363298335886,
+    "lat":48.4271145342252
+  },
+  {
+    "id":132,
+    "northing":5363826.123,
+    "easting":473222.261,
+    "type":"Litter Can - Streets",
+    "lng":-123.361970163833,
+    "lat":48.4270141663003
+  },
+  {
+    "id":133,
+    "northing":5363629.99,
+    "easting":473188.068,
+    "type":"Litter Can - Streets",
+    "lng":-123.36241981404,
+    "lat":48.4252482287364
+  },
+  {
+    "id":134,
+    "northing":5363731.893,
+    "easting":473011.172,
+    "type":"Litter Can - Streets",
+    "lng":-123.364817450174,
+    "lat":48.4261574366945
+  },
+  {
+    "id":135,
+    "northing":5363682.412,
+    "easting":473220.437,
+    "type":"Litter Can - Streets",
+    "lng":-123.36198563645,
+    "lat":48.425721212012
+  },
+  {
+    "id":136,
+    "northing":5363624.743,
+    "easting":473210.867,
+    "type":"Litter Can - Streets",
+    "lng":-123.362111307859,
+    "lat":48.4252019939217
+  },
+  {
+    "id":137,
+    "northing":5363669.814,
+    "easting":473404.332,
+    "type":"Litter Can - Streets",
+    "lng":-123.359499131777,
+    "lat":48.4256156596828
+  },
+  {
+    "id":138,
+    "northing":5363674.703,
+    "easting":473363.379,
+    "type":"Litter Can - Streets",
+    "lng":-123.360053002351,
+    "lat":48.4256579141085
+  },
+  {
+    "id":139,
+    "northing":5363685.263,
+    "easting":473310.319,
+    "type":"Litter Can - Streets",
+    "lng":-123.36077088498,
+    "lat":48.4257506718821
+  },
+  {
+    "id":140,
+    "northing":5363698.497,
+    "easting":473233.693,
+    "type":"Litter Can - Streets",
+    "lng":-123.361807482692,
+    "lat":48.4258664814745
+  },
+  {
+    "id":141,
+    "northing":5363540.83,
+    "easting":473172.718,
+    "type":"Litter Can - Streets",
+    "lng":-123.362621589865,
+    "lat":48.4244454597451
+  },
+  {
+    "id":142,
+    "northing":5363564.172,
+    "easting":473200.831,
+    "type":"Litter Can - Streets",
+    "lng":-123.362243089478,
+    "lat":48.4246566485764
+  },
+  {
+    "id":143,
+    "northing":5365133.283,
+    "easting":471086.394,
+    "type":"Litter Can - Streets",
+    "lng":-123.39093143883,
+    "lat":48.4386795010022
+  },
+  {
+    "id":144,
+    "northing":5365177.016,
+    "easting":471036.152,
+    "type":"Litter Can - Streets",
+    "lng":-123.391613752315,
+    "lat":48.4390706287572
+  },
+  {
+    "id":145,
+    "northing":5364070.828,
+    "easting":471556.029,
+    "type":"Litter Can - Streets",
+    "lng":-123.38450971128,
+    "lat":48.4291426979372
+  },
+  {
+    "id":146,
+    "northing":5364039.895,
+    "easting":471594.044,
+    "type":"Litter Can - Streets",
+    "lng":-123.383993734143,
+    "lat":48.428866127126
+  },
+  {
+    "id":147,
+    "northing":5363962.332,
+    "easting":471573.669,
+    "type":"Litter Can - Streets",
+    "lng":-123.384263896232,
+    "lat":48.4281674224177
+  },
+  {
+    "id":148,
+    "northing":5363948.436,
+    "easting":471571.656,
+    "type":"Litter Can - Streets",
+    "lng":-123.38429016431,
+    "lat":48.4280423179397
+  },
+  {
+    "id":149,
+    "northing":5363909.603,
+    "easting":471645.488,
+    "type":"Litter Can - Streets",
+    "lng":-123.383289510055,
+    "lat":48.4276962862035
+  },
+  {
+    "id":150,
+    "northing":5363805.614,
+    "easting":471774.024,
+    "type":"Litter Can - Streets",
+    "lng":-123.381545033256,
+    "lat":48.4267665279232
+  },
+  {
+    "id":151,
+    "northing":5363867.056,
+    "easting":471912.171,
+    "type":"Litter Can - Streets",
+    "lng":-123.379681795331,
+    "lat":48.4273254513328
+  },
+  {
+    "id":152,
+    "northing":5363743.852,
+    "easting":471954.749,
+    "type":"Litter Can - Streets",
+    "lng":-123.379098014568,
+    "lat":48.4262189586809
+  },
+  {
+    "id":153,
+    "northing":5363717.986,
+    "easting":472149.3,
+    "type":"Litter Can - Streets",
+    "lng":-123.37646654343,
+    "lat":48.425994883952
+  },
+  {
+    "id":154,
+    "northing":5363718.834,
+    "easting":472171.093,
+    "type":"Litter Can - Streets",
+    "lng":-123.376172024169,
+    "lat":48.4260034752792
+  },
+  {
+    "id":155,
+    "northing":5363725.978,
+    "easting":472185.357,
+    "type":"Litter Can - Streets",
+    "lng":-123.375979691723,
+    "lat":48.4260683747326
+  },
+  {
+    "id":156,
+    "northing":5363719.967,
+    "easting":472228.77,
+    "type":"Litter Can - Streets",
+    "lng":-123.375392480177,
+    "lat":48.4260162116274
+  },
+  {
+    "id":157,
+    "northing":5363769.514,
+    "easting":472211.933,
+    "type":"Litter Can - Streets",
+    "lng":-123.375623348413,
+    "lat":48.4264612118508
+  },
+  {
+    "id":158,
+    "northing":5363879.64,
+    "easting":472082.823,
+    "type":"Litter Can - Streets",
+    "lng":-123.377375873263,
+    "lat":48.427446240358
+  },
+  {
+    "id":159,
+    "northing":5363887.866,
+    "easting":472379.205,
+    "type":"Litter Can - Streets",
+    "lng":-123.373370082026,
+    "lat":48.4275332776808
+  },
+  {
+    "id":160,
+    "northing":5363847.939,
+    "easting":472340.6,
+    "type":"Litter Can - Streets",
+    "lng":-123.373889294287,
+    "lat":48.4271723939996
+  },
+  {
+    "id":161,
+    "northing":5363796.352,
+    "easting":472302.753,
+    "type":"Litter Can - Streets",
+    "lng":-123.374397484534,
+    "lat":48.4267066441044
+  },
+  {
+    "id":162,
+    "northing":5364917.209,
+    "easting":470881.293,
+    "type":"Litter Can - Streets",
+    "lng":-123.393689461006,
+    "lat":48.4367261812399
+  },
+  {
+    "id":163,
+    "northing":5364322.511,
+    "easting":471924.551,
+    "type":"Litter Can - Streets",
+    "lng":-123.379544937945,
+    "lat":48.4314234338784
+  },
+  {
+    "id":164,
+    "northing":5364430.111,
+    "easting":471689.548,
+    "type":"Litter Can - Streets",
+    "lng":-123.382729074993,
+    "lat":48.4323809311974
+  },
+  {
+    "id":165,
+    "northing":5364474.036,
+    "easting":471690.431,
+    "type":"Litter Can - Streets",
+    "lng":-123.382720102857,
+    "lat":48.4327761339804
+  },
+  {
+    "id":166,
+    "northing":5364628.395,
+    "easting":471531.994,
+    "type":"Litter Can - Streets",
+    "lng":-123.384872463497,
+    "lat":48.4341576595765
+  },
+  {
+    "id":167,
+    "northing":5364893.407,
+    "easting":471293.036,
+    "type":"Litter Can - Streets",
+    "lng":-123.3881211287,
+    "lat":48.4365309496486
+  },
+  {
+    "id":168,
+    "northing":5364939.668,
+    "easting":471261.081,
+    "type":"Litter Can - Streets",
+    "lng":-123.3885563262,
+    "lat":48.4369456712724
+  },
+  {
+    "id":169,
+    "northing":5364992.396,
+    "easting":471244.959,
+    "type":"Litter Can - Streets",
+    "lng":-123.388777912194,
+    "lat":48.4374192931512
+  },
+  {
+    "id":170,
+    "northing":5364779.581,
+    "easting":471560.136,
+    "type":"Litter Can - Streets",
+    "lng":-123.384502266124,
+    "lat":48.4355190478173
+  },
+  {
+    "id":171,
+    "northing":5364621.915,
+    "easting":471792.788,
+    "type":"Litter Can - Streets",
+    "lng":-123.381346305703,
+    "lat":48.4341110878254
+  },
+  {
+    "id":172,
+    "northing":5364621.011,
+    "easting":471822.341,
+    "type":"Litter Can - Streets",
+    "lng":-123.380946712648,
+    "lat":48.4341042766081
+  },
+  {
+    "id":173,
+    "northing":5363467.711,
+    "easting":473183.871,
+    "type":"Litter Can - Streets",
+    "lng":-123.362466159921,
+    "lat":48.4237881291877
+  },
+  {
+    "id":174,
+    "northing":5363449.217,
+    "easting":473157.444,
+    "type":"Litter Can - Streets",
+    "lng":-123.362822174293,
+    "lat":48.4236206252687
+  },
+  {
+    "id":175,
+    "northing":5363458.049,
+    "easting":473077.822,
+    "type":"Litter Can - Streets",
+    "lng":-123.363898943914,
+    "lat":48.4236966843807
+  },
+  {
+    "id":176,
+    "northing":5363573.939,
+    "easting":472982.933,
+    "type":"Litter Can - Streets",
+    "lng":-123.36518897518,
+    "lat":48.4247352141052
+  },
+  {
+    "id":177,
+    "northing":5363359.03,
+    "easting":473141.241,
+    "type":"Litter Can - Streets",
+    "lng":-123.363035400114,
+    "lat":48.4228085792398
+  },
+  {
+    "id":178,
+    "northing":5364035.998,
+    "easting":472038.738,
+    "type":"Litter Can - Streets",
+    "lng":-123.377982213373,
+    "lat":48.4288509389228
+  },
+  {
+    "id":179,
+    "northing":5364015.491,
+    "easting":472031.733,
+    "type":"Litter Can - Streets",
+    "lng":-123.378075537312,
+    "lat":48.4286661400364
+  },
+  {
+    "id":180,
+    "northing":5364173.921,
+    "easting":471865.14,
+    "type":"Litter Can - Streets",
+    "lng":-123.380338117604,
+    "lat":48.4300840212964
+  },
+  {
+    "id":181,
+    "northing":5364218.775,
+    "easting":471509.441,
+    "type":"Litter Can - Streets",
+    "lng":-123.385149529596,
+    "lat":48.4304715714669
+  },
+  {
+    "id":182,
+    "northing":5364262.614,
+    "easting":471137.912,
+    "type":"Litter Can - Streets",
+    "lng":-123.390174939236,
+    "lat":48.4308490544534
+  },
+  {
+    "id":183,
+    "northing":5364363.867,
+    "easting":470856.68,
+    "type":"Litter Can - Streets",
+    "lng":-123.393983744844,
+    "lat":48.431747008825
+  },
+  {
+    "id":184,
+    "northing":5364313.647,
+    "easting":470906.625,
+    "type":"Litter Can - Streets",
+    "lng":-123.393305078026,
+    "lat":48.4312975237033
+  },
+  {
+    "id":185,
+    "northing":5364236.604,
+    "easting":471167.696,
+    "type":"Litter Can - Streets",
+    "lng":-123.38977052259,
+    "lat":48.4306164241013
+  },
+  {
+    "id":186,
+    "northing":5364198.493,
+    "easting":471660.341,
+    "type":"Litter Can - Streets",
+    "lng":-123.383108265733,
+    "lat":48.4302959106349
+  },
+  {
+    "id":187,
+    "northing":5364105.342,
+    "easting":472247.482,
+    "type":"Litter Can - Streets",
+    "lng":-123.375165049925,
+    "lat":48.4294840016221
+  },
+  {
+    "id":188,
+    "northing":5364697.163,
+    "easting":472226.855,
+    "type":"Litter Can - Streets",
+    "lng":-123.375483057977,
+    "lat":48.4348073028013
+  },
+  {
+    "id":189,
+    "northing":5364807.25,
+    "easting":472681.497,
+    "type":"Litter Can - Streets",
+    "lng":-123.36934376122,
+    "lat":48.4358175380785
+  },
+  {
+    "id":190,
+    "northing":5365133.275,
+    "easting":472607.002,
+    "type":"Litter Can - Streets",
+    "lng":-123.37037220865,
+    "lat":48.4387473436301
+  },
+  {
+    "id":191,
+    "northing":5364214.232,
+    "easting":473460.89,
+    "type":"Litter Can - Streets",
+    "lng":-123.358769119974,
+    "lat":48.4305158252734
+  },
+  {
+    "id":192,
+    "northing":5363750.618,
+    "easting":473424.534,
+    "type":"Litter Can - Streets",
+    "lng":-123.359231187696,
+    "lat":48.4263434538634
+  },
+  {
+    "id":193,
+    "northing":5363706.647,
+    "easting":473319.32,
+    "type":"Litter Can - Streets",
+    "lng":-123.360650580118,
+    "lat":48.4259434311457
+  },
+  {
+    "id":194,
+    "northing":5362926.574,
+    "easting":473499.879,
+    "type":"Litter Can - Streets",
+    "lng":-123.35816063404,
+    "lat":48.4189332123231
+  },
+  {
+    "id":195,
+    "northing":5364583.755,
+    "easting":475239.638,
+    "type":"Litter Can - Streets",
+    "lng":-123.33474527305,
+    "lat":48.4339126395024
+  },
+  {
+    "id":196,
+    "northing":5364604.812,
+    "easting":475192.4,
+    "type":"Litter Can - Streets",
+    "lng":-123.335385141382,
+    "lat":48.4341002175198
+  },
+  {
+    "id":197,
+    "northing":5364459.52,
+    "easting":475347.65,
+    "type":"Litter Can - Streets",
+    "lng":-123.333277724334,
+    "lat":48.4327992110956
+  },
+  {
+    "id":198,
+    "northing":5364450.554,
+    "easting":475332.433,
+    "type":"Litter Can - Streets",
+    "lng":-123.333482914675,
+    "lat":48.4327179538304
+  },
+  {
+    "id":199,
+    "northing":5364084.645,
+    "easting":475134.25,
+    "type":"Litter Can - Streets",
+    "lng":-123.336140440909,
+    "lat":48.429418303167
+  },
+  {
+    "id":200,
+    "northing":5363812.741,
+    "easting":474410.802,
+    "type":"Litter Can - Streets",
+    "lng":-123.345903422772,
+    "lat":48.4269431739964
+  },
+  {
+    "id":201,
+    "northing":5363835.356,
+    "easting":474110,
+    "type":"Litter Can - Streets",
+    "lng":-123.349970877251,
+    "lat":48.4271343329821
+  },
+  {
+    "id":202,
+    "northing":5364530.426,
+    "easting":475637.918,
+    "type":"Litter Can - Streets",
+    "lng":-123.32935772421,
+    "lat":48.4334483989084
+  },
+  {
+    "id":203,
+    "northing":5364303.228,
+    "easting":475604.962,
+    "type":"Litter Can - Streets",
+    "lng":-123.329790043295,
+    "lat":48.431403165399
+  },
+  {
+    "id":204,
+    "northing":5364357.995,
+    "easting":475634.901,
+    "type":"Litter Can - Streets",
+    "lng":-123.329388492243,
+    "lat":48.4318970282075
+  },
+  {
+    "id":205,
+    "northing":5363230.493,
+    "easting":471768.087,
+    "type":"Litter Can - Streets",
+    "lng":-123.381586504521,
+    "lat":48.4215922453535
+  },
+  {
+    "id":206,
+    "northing":5363231.162,
+    "easting":471641.38,
+    "type":"Litter Can - Streets",
+    "lng":-123.383299099227,
+    "lat":48.4215925748511
+  },
+  {
+    "id":207,
+    "northing":5363177.868,
+    "easting":471474.548,
+    "type":"Litter Can - Streets",
+    "lng":-123.385550344507,
+    "lat":48.4211055918868
+  },
+  {
+    "id":208,
+    "northing":5362909.734,
+    "easting":471483.957,
+    "type":"Litter Can - Streets",
+    "lng":-123.385404943495,
+    "lat":48.4186937837492
+  },
+  {
+    "id":209,
+    "northing":5362488.721,
+    "easting":471620.777,
+    "type":"Litter Can - Streets",
+    "lng":-123.383527339796,
+    "lat":48.4149123846729
+  },
+  {
+    "id":210,
+    "northing":5362679.6,
+    "easting":471508.218,
+    "type":"Litter Can - Streets",
+    "lng":-123.385061425773,
+    "lat":48.4166245124174
+  },
+  {
+    "id":211,
+    "northing":5362837.67,
+    "easting":471492.444,
+    "type":"Litter Can - Streets",
+    "lng":-123.385285344134,
+    "lat":48.4180458537776
+  },
+  {
+    "id":212,
+    "northing":5363200.695,
+    "easting":471899.788,
+    "type":"Litter Can - Streets",
+    "lng":-123.37980445492,
+    "lat":48.4213300567455
+  },
+  {
+    "id":213,
+    "northing":5362979.978,
+    "easting":472178.732,
+    "type":"Litter Can - Streets",
+    "lng":-123.37601966836,
+    "lat":48.4193567710977
+  },
+  {
+    "id":214,
+    "northing":5362810.068,
+    "easting":472427.144,
+    "type":"Litter Can - Streets",
+    "lng":-123.372651157786,
+    "lat":48.4178391089005
+  },
+  {
+    "id":215,
+    "northing":5362077.909,
+    "easting":472725.055,
+    "type":"Litter Can - Streets",
+    "lng":-123.368577363913,
+    "lat":48.4112652953378
+  },
+  {
+    "id":216,
+    "northing":5362185.664,
+    "easting":472462.344,
+    "type":"Litter Can - Streets",
+    "lng":-123.372134477028,
+    "lat":48.4122232915255
+  },
+  {
+    "id":217,
+    "northing":5362348.744,
+    "easting":472232.477,
+    "type":"Litter Can - Streets",
+    "lng":-123.375251536652,
+    "lat":48.4136803376468
+  },
+  {
+    "id":218,
+    "northing":5362488.529,
+    "easting":472289.844,
+    "type":"Litter Can - Streets",
+    "lng":-123.374485520539,
+    "lat":48.4149404152917
+  },
+  {
+    "id":219,
+    "northing":5362550.047,
+    "easting":472346.505,
+    "type":"Litter Can - Streets",
+    "lng":-123.373723851646,
+    "lat":48.4154963397113
+  },
+  {
+    "id":220,
+    "northing":5362579.359,
+    "easting":472341.732,
+    "type":"Litter Can - Streets",
+    "lng":-123.373790286268,
+    "lat":48.4157598313037
+  },
+  {
+    "id":221,
+    "northing":5362577.829,
+    "easting":472284.038,
+    "type":"Litter Can - Streets",
+    "lng":-123.374569879079,
+    "lat":48.4157435339511
+  },
+  {
+    "id":222,
+    "northing":5362572.067,
+    "easting":472268.787,
+    "type":"Litter Can - Streets",
+    "lng":-123.374775604902,
+    "lat":48.4156910265531
+  },
+  {
+    "id":223,
+    "northing":5362655.084,
+    "easting":472388.153,
+    "type":"Litter Can - Streets",
+    "lng":-123.373167919837,
+    "lat":48.416443113747
+  },
+  {
+    "id":224,
+    "northing":5362735.555,
+    "easting":472415.355,
+    "type":"Litter Can - Streets",
+    "lng":-123.372805587202,
+    "lat":48.4171682489415
+  },
+  {
+    "id":225,
+    "northing":5362598.24,
+    "easting":472365.425,
+    "type":"Litter Can - Streets",
+    "lng":-123.373471334919,
+    "lat":48.4159307299757
+  },
+  {
+    "id":226,
+    "northing":5362912.38,
+    "easting":472099.548,
+    "type":"Litter Can - Streets",
+    "lng":-123.377085366042,
+    "lat":48.4187451392754
+  },
+  {
+    "id":227,
+    "northing":5361742.257,
+    "easting":474254.744,
+    "type":"Litter Can - Streets",
+    "lng":-123.347885786608,
+    "lat":48.4083098549568
+  },
+  {
+    "id":228,
+    "northing":5362096.812,
+    "easting":474093.406,
+    "type":"Litter Can - Streets",
+    "lng":-123.35008776058,
+    "lat":48.4114929840303
+  },
+  {
+    "id":229,
+    "northing":5364053.238,
+    "easting":475492.156,
+    "type":"Litter Can - Streets",
+    "lng":-123.331300409976,
+    "lat":48.4291497837187
+  },
+  {
+    "id":230,
+    "northing":5363942.706,
+    "easting":475294.551,
+    "type":"Litter Can - Streets",
+    "lng":-123.333965113957,
+    "lat":48.4281476776717
+  },
+  {
+    "id":231,
+    "northing":5363774.485,
+    "easting":474966.121,
+    "type":"Litter Can - Streets",
+    "lng":-123.33839469216,
+    "lat":48.4266213279144
+  },
+  {
+    "id":232,
+    "northing":5363795.176,
+    "easting":474695.381,
+    "type":"Litter Can - Streets",
+    "lng":-123.342055608015,
+    "lat":48.4267966501916
+  },
+  {
+    "id":233,
+    "northing":5363445.215,
+    "easting":474462.887,
+    "type":"Litter Can - Streets",
+    "lng":-123.345176991005,
+    "lat":48.4236388824597
+  },
+  {
+    "id":234,
+    "northing":5363411.862,
+    "easting":474400.121,
+    "type":"Litter Can - Streets",
+    "lng":-123.346023329722,
+    "lat":48.4233362772241
+  },
+  {
+    "id":235,
+    "northing":5363582.637,
+    "easting":474748.593,
+    "type":"Litter Can - Streets",
+    "lng":-123.341323524187,
+    "lat":48.424886704524
+  },
+  {
+    "id":236,
+    "northing":5363734.411,
+    "easting":475047.198,
+    "type":"Litter Can - Streets",
+    "lng":-123.337296365171,
+    "lat":48.426264025646
+  },
+  {
+    "id":237,
+    "northing":5363775.132,
+    "easting":475128.036,
+    "type":"Litter Can - Streets",
+    "lng":-123.336206076281,
+    "lat":48.4266335646963
+  },
+  {
+    "id":238,
+    "northing":5363813.737,
+    "easting":475166.379,
+    "type":"Litter Can - Streets",
+    "lng":-123.33569006865,
+    "lat":48.4269823828054
+  },
+  {
+    "id":239,
+    "northing":5364066.345,
+    "easting":475547.535,
+    "type":"Litter Can - Streets",
+    "lng":-123.33055256321,
+    "lat":48.4292698510252
+  },
+  {
+    "id":240,
+    "northing":5364110.929,
+    "easting":475615.749,
+    "type":"Litter Can - Streets",
+    "lng":-123.329633038787,
+    "lat":48.4296735892682
+  },
+  {
+    "id":241,
+    "northing":5364142.769,
+    "easting":475627.059,
+    "type":"Litter Can - Streets",
+    "lng":-123.329481999165,
+    "lat":48.4299604714807
+  },
+  {
+    "id":242,
+    "northing":5364149.314,
+    "easting":475600.116,
+    "type":"Litter Can - Streets",
+    "lng":-123.329846600239,
+    "lat":48.4300183098803
+  },
+  {
+    "id":243,
+    "northing":5363981.182,
+    "easting":475407.057,
+    "type":"Litter Can - Streets",
+    "lng":-123.332446547795,
+    "lat":48.4284982251091
+  },
+  {
+    "id":244,
+    "northing":5364822.75,
+    "easting":472752.449,
+    "type":"Litter Can - Streets",
+    "lng":-123.36838552398,
+    "lat":48.4359600536392
+  },
+  {
+    "id":245,
+    "northing":5363740.26,
+    "easting":475016.445,
+    "type":"Litter Can - Streets",
+    "lng":-123.337712408405,
+    "lat":48.4263154259966
+  },
+  {
+    "id":246,
+    "northing":5363756.069,
+    "easting":475012.988,
+    "type":"Litter Can - Streets",
+    "lng":-123.337760079862,
+    "lat":48.4264575123869
+  },
+  {
+    "id":247,
+    "northing":5363554.563,
+    "easting":474647.292,
+    "type":"Litter Can - Streets",
+    "lng":-123.34269109481,
+    "lat":48.4246300701341
+  },
+  {
+    "id":248,
+    "northing":5363556.127,
+    "easting":474382.981,
+    "type":"Litter Can - Streets",
+    "lng":-123.34626381644,
+    "lat":48.4246334448417
+  },
+  {
+    "id":249,
+    "northing":5363566.437,
+    "easting":474190.774,
+    "type":"Litter Can - Streets",
+    "lng":-123.348862462095,
+    "lat":48.4247183506112
+  },
+  {
+    "id":250,
+    "northing":5363689.864,
+    "easting":473898.883,
+    "type":"Litter Can - Streets",
+    "lng":-123.352815557541,
+    "lat":48.4258167178382
+  },
+  {
+    "id":251,
+    "northing":5363640.376,
+    "easting":474482.043,
+    "type":"Litter Can - Streets",
+    "lng":-123.344929946894,
+    "lat":48.4253954028955
+  },
+  {
+    "id":252,
+    "northing":5364178.172,
+    "easting":474457.105,
+    "type":"Litter Can - Streets",
+    "lng":-123.345299789948,
+    "lat":48.4302326074076
+  },
+  {
+    "id":253,
+    "northing":5364191.668,
+    "easting":474470.894,
+    "type":"Litter Can - Streets",
+    "lng":-123.345114209638,
+    "lat":48.4303545814152
+  },
+  {
+    "id":254,
+    "northing":5364627.934,
+    "easting":474472.943,
+    "type":"Litter Can - Streets",
+    "lng":-123.34511308184,
+    "lat":48.4342794728766
+  },
+  {
+    "id":255,
+    "northing":5362199.57,
+    "easting":471984.83,
+    "type":"Litter Can - Streets",
+    "lng":-123.378588214913,
+    "lat":48.4123273660987
+  },
+  {
+    "id":256,
+    "northing":5362214.616,
+    "easting":471964.154,
+    "type":"Litter Can - Streets",
+    "lng":-123.378868622585,
+    "lat":48.4124618075304
+  },
+  {
+    "id":257,
+    "northing":5362295.866,
+    "easting":471852.302,
+    "type":"Litter Can - Streets",
+    "lng":-123.380385569705,
+    "lat":48.4131877761968
+  },
+  {
+    "id":258,
+    "northing":5362348.159,
+    "easting":471780.729,
+    "type":"Litter Can - Streets",
+    "lng":-123.381356292252,
+    "lat":48.4136550216562
+  },
+  {
+    "id":259,
+    "northing":5362394.468,
+    "easting":471716.983,
+    "type":"Litter Can - Streets",
+    "lng":-123.382220856928,
+    "lat":48.4140687763701
+  },
+  {
+    "id":260,
+    "northing":5362509.57,
+    "easting":471599.855,
+    "type":"Litter Can - Streets",
+    "lng":-123.383811491506,
+    "lat":48.4150990058345
+  },
+  {
+    "id":261,
+    "northing":5362515.785,
+    "easting":471593.617,
+    "type":"Litter Can - Streets",
+    "lng":-123.383896213089,
+    "lat":48.4151546366178
+  },
+  {
+    "id":262,
+    "northing":5362727.095,
+    "easting":471962.926,
+    "type":"Litter Can - Streets",
+    "lng":-123.378919446531,
+    "lat":48.4170721938816
+  },
+  {
+    "id":263,
+    "northing":5362855.007,
+    "easting":472765.004,
+    "type":"Litter Can - Streets",
+    "lng":-123.368087947962,
+    "lat":48.4182580699039
+  },
+  {
+    "id":264,
+    "northing":5362746.234,
+    "easting":472883.817,
+    "type":"Litter Can - Streets",
+    "lng":-123.366475165502,
+    "lat":48.417284631132
+  },
+  {
+    "id":265,
+    "northing":5362345.883,
+    "easting":472196.96,
+    "type":"Litter Can - Streets",
+    "lng":-123.375731314332,
+    "lat":48.4136530348435
+  },
+  {
+    "id":266,
+    "northing":5362330.834,
+    "easting":472825.027,
+    "type":"Litter Can - Streets",
+    "lng":-123.367242799025,
+    "lat":48.4135450138776
+  },
+  {
+    "id":267,
+    "northing":5362689.855,
+    "easting":472926.612,
+    "type":"Litter Can - Streets",
+    "lng":-123.365893163991,
+    "lat":48.4167792642124
+  },
+  {
+    "id":268,
+    "northing":5362591.018,
+    "easting":472849.493,
+    "type":"Litter Can - Streets",
+    "lng":-123.366929002955,
+    "lat":48.4158867790089
+  },
+  {
+    "id":269,
+    "northing":5362453.261,
+    "easting":472856.904,
+    "type":"Litter Can - Streets",
+    "lng":-123.366819938863,
+    "lat":48.4146477845362
+  },
+  {
+    "id":270,
+    "northing":5363067.873,
+    "easting":473312.132,
+    "type":"Litter Can - Streets",
+    "lng":-123.36070706452,
+    "lat":48.4201964790192
+  },
+  {
+    "id":271,
+    "northing":5363064.094,
+    "easting":473293.808,
+    "type":"Litter Can - Streets",
+    "lng":-123.360954482131,
+    "lat":48.4201617059404
+  },
+  {
+    "id":272,
+    "northing":5362839.836,
+    "easting":473641.594,
+    "type":"Litter Can - Streets",
+    "lng":-123.356239879452,
+    "lat":48.4181588225981
+  },
+  {
+    "id":273,
+    "northing":5362821.297,
+    "easting":473681.135,
+    "type":"Litter Can - Streets",
+    "lng":-123.355704320771,
+    "lat":48.4179936901009
+  },
+  {
+    "id":274,
+    "northing":5362721.338,
+    "easting":473922.428,
+    "type":"Litter Can - Streets",
+    "lng":-123.35243704841,
+    "lat":48.4171044486432
+  },
+  {
+    "id":275,
+    "northing":5362546.079,
+    "easting":474148.335,
+    "type":"Litter Can - Streets",
+    "lng":-123.34937318077,
+    "lat":48.4155370532857
+  },
+  {
+    "id":276,
+    "northing":5362543.255,
+    "easting":474168.348,
+    "type":"Litter Can - Streets",
+    "lng":-123.349102545112,
+    "lat":48.4155124687306
+  },
+  {
+    "id":277,
+    "northing":5362161.11,
+    "easting":474588.583,
+    "type":"Litter Can - Streets",
+    "lng":-123.343400194003,
+    "lat":48.4120916381769
+  },
+  {
+    "id":278,
+    "northing":5362183.094,
+    "easting":474592.758,
+    "type":"Litter Can - Streets",
+    "lng":-123.343345107327,
+    "lat":48.4122895853215
+  },
+  {
+    "id":279,
+    "northing":5362117.041,
+    "easting":475531.047,
+    "type":"Litter Can - Streets",
+    "lng":-123.330661679312,
+    "lat":48.4117325474926
+  },
+  {
+    "id":280,
+    "northing":5362493.869,
+    "easting":475431.524,
+    "type":"Litter Can - Streets",
+    "lng":-123.332028660251,
+    "lat":48.4151187570296
+  },
+  {
+    "id":281,
+    "northing":5362533.681,
+    "easting":475662.131,
+    "type":"Litter Can - Streets",
+    "lng":-123.328914490591,
+    "lat":48.4154858830948
+  },
+  {
+    "id":282,
+    "northing":5362287.104,
+    "easting":475298.927,
+    "type":"Litter Can - Streets",
+    "lng":-123.333808417275,
+    "lat":48.4132534286449
+  },
+  {
+    "id":283,
+    "northing":5362179.931,
+    "easting":475021.199,
+    "type":"Litter Can - Streets",
+    "lng":-123.337555181073,
+    "lat":48.4122782995954
+  },
+  {
+    "id":284,
+    "northing":5362165.487,
+    "easting":475073.333,
+    "type":"Litter Can - Streets",
+    "lng":-123.336849809342,
+    "lat":48.412150421418
+  },
+  {
+    "id":285,
+    "northing":5362152.792,
+    "easting":474761.556,
+    "type":"Litter Can - Streets",
+    "lng":-123.341062231419,
+    "lat":48.4120237716162
+  },
+  {
+    "id":286,
+    "northing":5362141.181,
+    "easting":473828.56,
+    "type":"Litter Can - Streets",
+    "lng":-123.353669456134,
+    "lat":48.4118812126584
+  },
+  {
+    "id":287,
+    "northing":5362183.184,
+    "easting":473577.045,
+    "type":"Litter Can - Streets",
+    "lng":-123.357070899781,
+    "lat":48.4122486090108
+  },
+  {
+    "id":288,
+    "northing":5362636.198,
+    "easting":474757.429,
+    "type":"Litter Can - Streets",
+    "lng":-123.341147110376,
+    "lat":48.4163725226093
+  },
+  {
+    "id":289,
+    "northing":5363745.52,
+    "easting":475442.034,
+    "type":"Litter Can - Streets",
+    "lng":-123.331959934604,
+    "lat":48.4263794865282
+  },
+  {
+    "id":290,
+    "northing":5363744.946,
+    "easting":475670.618,
+    "type":"Litter Can - Streets",
+    "lng":-123.328870084857,
+    "lat":48.4263831930193
+  },
+  {
+    "id":291,
+    "northing":5363743.617,
+    "easting":475908.917,
+    "type":"Litter Can - Streets",
+    "lng":-123.325648862172,
+    "lat":48.4263803946216
+  },
+  {
+    "id":292,
+    "northing":5362849.982,
+    "easting":475577.793,
+    "type":"Litter Can - Streets",
+    "lng":-123.330072697778,
+    "lat":48.4183281746732
+  },
+  {
+    "id":293,
+    "northing":5362766.565,
+    "easting":475449.071,
+    "type":"Litter Can - Streets",
+    "lng":-123.331807503458,
+    "lat":48.4175727171576
+  },
+  {
+    "id":294,
+    "northing":5362621.817,
+    "easting":474985.033,
+    "type":"Litter Can - Streets",
+    "lng":-123.338070287881,
+    "lat":48.416252235151
+  },
+  {
+    "id":295,
+    "northing":5363757.505,
+    "easting":476074.105,
+    "type":"Litter Can - Streets",
+    "lng":-123.323416767875,
+    "lat":48.4265116324107
+  },
+  {
+    "id":296,
+    "northing":5363758.851,
+    "easting":475844.855,
+    "type":"Litter Can - Streets",
+    "lng":-123.326515681729,
+    "lat":48.4265149922448
+  },
+  {
+    "id":297,
+    "northing":5363762.525,
+    "easting":475543.779,
+    "type":"Litter Can - Streets",
+    "lng":-123.330585618909,
+    "lat":48.4265364284251
+  },
+  {
+    "id":298,
+    "northing":5363763.939,
+    "easting":475379.301,
+    "type":"Litter Can - Streets",
+    "lng":-123.332808990355,
+    "lat":48.4265427418047
+  },
+  {
+    "id":299,
+    "northing":5364866.73,
+    "easting":475334.394,
+    "type":"Litter Can - Streets",
+    "lng":-123.333480909084,
+    "lat":48.4364621119998
+  },
+  {
+    "id":300,
+    "northing":5365095.814,
+    "easting":475339.433,
+    "type":"Litter Can - Streets",
+    "lng":-123.33342626576,
+    "lat":48.4385232414787
+  },
+  {
+    "id":301,
+    "northing":5364985.424,
+    "easting":475708.278,
+    "type":"Litter Can - Streets",
+    "lng":-123.3284329343,
+    "lat":48.4375444738747
+  },
+  {
+    "id":302,
+    "northing":5364837.568,
+    "easting":474975.827,
+    "type":"Litter Can - Streets",
+    "lng":-123.338326948537,
+    "lat":48.436185610984
+  },
+  {
+    "id":303,
+    "northing":5364825.164,
+    "easting":474894.087,
+    "type":"Litter Can - Streets",
+    "lng":-123.339431314275,
+    "lat":48.4360707645793
+  },
+  {
+    "id":304,
+    "northing":5364825.842,
+    "easting":474836.14,
+    "type":"Litter Can - Streets",
+    "lng":-123.340214785185,
+    "lat":48.4360745499829
+  },
+  {
+    "id":305,
+    "northing":5364842.928,
+    "easting":474795.589,
+    "type":"Litter Can - Streets",
+    "lng":-123.340764052382,
+    "lat":48.4362266394441
+  },
+  {
+    "id":306,
+    "northing":5364734.44,
+    "easting":473954.153,
+    "type":"Litter Can - Streets",
+    "lng":-123.352133363896,
+    "lat":48.4352163973425
+  },
+  {
+    "id":307,
+    "northing":5364758.027,
+    "easting":475316.167,
+    "type":"Litter Can - Streets",
+    "lng":-123.333720929514,
+    "lat":48.4354834631094
+  },
+  {
+    "id":308,
+    "northing":5364820.857,
+    "easting":474480.979,
+    "type":"Litter Can - Streets",
+    "lng":-123.345016178042,
+    "lat":48.4360154080684
+  },
+  {
+    "id":309,
+    "northing":5365675.729,
+    "easting":475012.721,
+    "type":"Litter Can - Streets",
+    "lng":-123.337878142794,
+    "lat":48.4437275103644
+  },
+  {
+    "id":310,
+    "northing":5365659.382,
+    "easting":474945.33,
+    "type":"Litter Can - Streets",
+    "lng":-123.338788410876,
+    "lat":48.4435777665816
+  },
+  {
+    "id":311,
+    "northing":5365792.381,
+    "easting":475208.851,
+    "type":"Litter Can - Streets",
+    "lng":-123.335233024231,
+    "lat":48.444784716341
+  },
+  {
+    "id":312,
+    "northing":5364987.161,
+    "easting":475322.365,
+    "type":"Litter Can - Streets",
+    "lng":-123.333650635713,
+    "lat":48.437545085024
+  },
+  {
+    "id":313,
+    "northing":5365856.975,
+    "easting":475268.444,
+    "type":"Litter Can - Streets",
+    "lng":-123.334431021875,
+    "lat":48.4453681754039
+  },
+  {
+    "id":314,
+    "northing":5365533.849,
+    "easting":474731.386,
+    "type":"Litter Can - Streets",
+    "lng":-123.341673730731,
+    "lat":48.4424398681607
+  },
+  {
+    "id":315,
+    "northing":5365353.99,
+    "easting":474194.7,
+    "type":"Litter Can - Streets",
+    "lng":-123.348919411952,
+    "lat":48.4408000087285
+  },
+  {
+    "id":316,
+    "northing":5365308.662,
+    "easting":474027.106,
+    "type":"Litter Can - Streets",
+    "lng":-123.351182638546,
+    "lat":48.4403853262481
+  },
+  {
+    "id":317,
+    "northing":5365305.852,
+    "easting":473927.445,
+    "type":"Litter Can - Streets",
+    "lng":-123.352529965576,
+    "lat":48.440355925172
+  },
+  {
+    "id":318,
+    "northing":5365275.121,
+    "easting":473859.114,
+    "type":"Litter Can - Streets",
+    "lng":-123.353451942229,
+    "lat":48.440076623459
+  },
+  {
+    "id":319,
+    "northing":5365281.706,
+    "easting":473793.217,
+    "type":"Litter Can - Streets",
+    "lng":-123.354343332291,
+    "lat":48.4401331242219
+  },
+  {
+    "id":320,
+    "northing":5365210.191,
+    "easting":473512.712,
+    "type":"Litter Can - Streets",
+    "lng":-123.358131469526,
+    "lat":48.4394780164484
+  },
+  {
+    "id":321,
+    "northing":5365237.959,
+    "easting":473662.079,
+    "type":"Litter Can - Streets",
+    "lng":-123.356113676237,
+    "lat":48.4397340908797
+  },
+  {
+    "id":322,
+    "northing":5365379.284,
+    "easting":474450.801,
+    "type":"Litter Can - Streets",
+    "lng":-123.34545821307,
+    "lat":48.441038012044
+  },
+  {
+    "id":323,
+    "northing":5365377.574,
+    "easting":474510.032,
+    "type":"Litter Can - Streets",
+    "lng":-123.3446572431,
+    "lat":48.4410250298322
+  },
+  {
+    "id":324,
+    "northing":5365208.321,
+    "easting":473397.293,
+    "type":"Litter Can - Streets",
+    "lng":-123.359691888176,
+    "lat":48.4394563315321
+  },
+  {
+    "id":325,
+    "northing":5365787.995,
+    "easting":472955.911,
+    "type":"Litter Can - Streets",
+    "lng":-123.365697045003,
+    "lat":48.4446524931729
+  },
+  {
+    "id":326,
+    "northing":5365938.291,
+    "easting":473176.345,
+    "type":"Litter Can - Streets",
+    "lng":-123.362725956419,
+    "lat":48.4460140345634
+  },
+  {
+    "id":327,
+    "northing":5365963.837,
+    "easting":473220.687,
+    "type":"Litter Can - Streets",
+    "lng":-123.362127981716,
+    "lat":48.4462457420521
+  },
+  {
+    "id":328,
+    "northing":5365672.066,
+    "easting":473341.291,
+    "type":"Litter Can - Streets",
+    "lng":-123.360478556684,
+    "lat":48.4436259810536
+  },
+  {
+    "id":329,
+    "northing":5365741.958,
+    "easting":473342.457,
+    "type":"Litter Can - Streets",
+    "lng":-123.360467237118,
+    "lat":48.444254804323
+  },
+  {
+    "id":330,
+    "northing":5365932.214,
+    "easting":473291.399,
+    "type":"Litter Can - Streets",
+    "lng":-123.361169767193,
+    "lat":48.4459642532185
+  },
+  {
+    "id":331,
+    "northing":5365582.085,
+    "easting":473373.377,
+    "type":"Litter Can - Streets",
+    "lng":-123.360038980889,
+    "lat":48.4428178356209
+  },
+  {
+    "id":332,
+    "northing":5365498.045,
+    "easting":473373.689,
+    "type":"Litter Can - Streets",
+    "lng":-123.360029422095,
+    "lat":48.4420617939543
+  },
+  {
+    "id":333,
+    "northing":5364837.242,
+    "easting":473942.747,
+    "type":"Litter Can - Streets",
+    "lng":-123.352293951989,
+    "lat":48.4361407710983
+  },
+  {
+    "id":334,
+    "northing":5362889.584,
+    "easting":473295.166,
+    "type":"Litter Can - Streets",
+    "lng":-123.360925012962,
+    "lat":48.418591802764
+  },
+  {
+    "id":335,
+    "northing":5362765.933,
+    "easting":473439.005,
+    "type":"Litter Can - Streets",
+    "lng":-123.358973180118,
+    "lat":48.4174854594213
+  },
+  {
+    "id":336,
+    "northing":5363208.598,
+    "easting":472972.734,
+    "type":"Litter Can - Streets",
+    "lng":-123.365303267249,
+    "lat":48.4214480277736
+  },
+  {
+    "id":337,
+    "northing":5365150.324,
+    "easting":473198.649,
+    "type":"Litter Can - Streets",
+    "lng":-123.362373972764,
+    "lat":48.4389261538261
+  },
+  {
+    "id":338,
+    "northing":5365276.95,
+    "easting":473973.823,
+    "type":"Litter Can - Streets",
+    "lng":-123.35190110158,
+    "lat":48.4400978320491
+  },
+  {
+    "id":339,
+    "northing":5364771.942,
+    "easting":473526.405,
+    "type":"Litter Can - Streets",
+    "lng":-123.357918674158,
+    "lat":48.4355359453956
+  },
+  {
+    "id":340,
+    "northing":5364980.361,
+    "easting":473486.686,
+    "type":"Litter Can - Streets",
+    "lng":-123.358468831061,
+    "lat":48.4374092899699
+  },
+  {
+    "id":341,
+    "northing":5365027.959,
+    "easting":473479.041,
+    "type":"Litter Can - Streets",
+    "lng":-123.358575201323,
+    "lat":48.4378371768953
+  },
+  {
+    "id":342,
+    "northing":5365092.233,
+    "easting":473469.758,
+    "type":"Litter Can - Streets",
+    "lng":-123.358704774268,
+    "lat":48.4384150177398
+  },
+  {
+    "id":343,
+    "northing":5365120.548,
+    "easting":473460.41,
+    "type":"Litter Can - Streets",
+    "lng":-123.358832953908,
+    "lat":48.438669355858
+  },
+  {
+    "id":344,
+    "northing":5365159.707,
+    "easting":473452.766,
+    "type":"Litter Can - Streets",
+    "lng":-123.358938782172,
+    "lat":48.4390213220425
+  },
+  {
+    "id":345,
+    "northing":5365191.915,
+    "easting":473446.768,
+    "type":"Litter Can - Streets",
+    "lng":-123.359021916963,
+    "lat":48.4393108238342
+  },
+  {
+    "id":346,
+    "northing":5365220.956,
+    "easting":473441.325,
+    "type":"Litter Can - Streets",
+    "lng":-123.359097348203,
+    "lat":48.4395718575032
+  },
+  {
+    "id":347,
+    "northing":5365218.825,
+    "easting":473425.163,
+    "type":"Litter Can - Streets",
+    "lng":-123.359315733946,
+    "lat":48.4395520049948
+  },
+  {
+    "id":348,
+    "northing":5365189.199,
+    "easting":473430.673,
+    "type":"Litter Can - Streets",
+    "lng":-123.359239358714,
+    "lat":48.4392857114212
+  },
+  {
+    "id":349,
+    "northing":5365161.328,
+    "easting":473435.867,
+    "type":"Litter Can - Streets",
+    "lng":-123.359167367884,
+    "lat":48.4390351930663
+  },
+  {
+    "id":350,
+    "northing":5365124.118,
+    "easting":473443.218,
+    "type":"Litter Can - Streets",
+    "lng":-123.359065622921,
+    "lat":48.4387007486269
+  },
+  {
+    "id":351,
+    "northing":5365081.722,
+    "easting":473451.114,
+    "type":"Litter Can - Streets",
+    "lng":-123.358956182478,
+    "lat":48.4383196719616
+  },
+  {
+    "id":352,
+    "northing":5365012.594,
+    "easting":473462.033,
+    "type":"Litter Can - Streets",
+    "lng":-123.358804180922,
+    "lat":48.43769823197
+  },
+  {
+    "id":353,
+    "northing":5364964.973,
+    "easting":473472.938,
+    "type":"Litter Can - Streets",
+    "lng":-123.358653732181,
+    "lat":48.4372702752905
+  },
+  {
+    "id":354,
+    "northing":5365271.666,
+    "easting":473433.19,
+    "type":"Litter Can - Streets",
+    "lng":-123.359210550377,
+    "lat":48.44002771955
+  },
+  {
+    "id":355,
+    "northing":5366120.263,
+    "easting":472456.235,
+    "type":"Litter Can - Streets",
+    "lng":-123.3724755147,
+    "lat":48.4476200493514
+  },
+  {
+    "id":356,
+    "northing":5366240.27,
+    "easting":473233.899,
+    "type":"Litter Can - Streets",
+    "lng":-123.361966994859,
+    "lat":48.4487331878756
+  },
+  {
+    "id":357,
+    "northing":5365825.06,
+    "easting":474171.704,
+    "type":"Litter Can - Streets",
+    "lng":-123.349259393296,
+    "lat":48.4450369867525
+  },
+  {
+    "id":358,
+    "northing":5365480.955,
+    "easting":474108.074,
+    "type":"Litter Can - Streets",
+    "lng":-123.350098525067,
+    "lat":48.44193867584
+  },
+  {
+    "id":359,
+    "northing":5366010.394,
+    "easting":475337.984,
+    "type":"Litter Can - Streets",
+    "lng":-123.333499725559,
+    "lat":48.4467511208425
+  },
+  {
+    "id":360,
+    "northing":5365947.377,
+    "easting":475364.338,
+    "type":"Litter Can - Streets",
+    "lng":-123.333139643974,
+    "lat":48.4461852284363
+  },
+  {
+    "id":361,
+    "northing":5365909.375,
+    "easting":475405.227,
+    "type":"Litter Can - Streets",
+    "lng":-123.332584493416,
+    "lat":48.4458449461787
+  },
+  {
+    "id":362,
+    "northing":5365800.388,
+    "easting":474348.196,
+    "type":"Litter Can - Streets",
+    "lng":-123.346871336836,
+    "lat":48.4448222480094
+  },
+  {
+    "id":363,
+    "northing":5365997.272,
+    "easting":474473.604,
+    "type":"Litter Can - Streets",
+    "lng":-123.345187564949,
+    "lat":48.4465985891595
+  },
+  {
+    "id":364,
+    "northing":5364900.361,
+    "easting":472916.401,
+    "type":"Litter Can - Streets",
+    "lng":-123.366173960419,
+    "lat":48.4366653375635
+  },
+  {
+    "id":365,
+    "northing":5365050.267,
+    "easting":472886.443,
+    "type":"Litter Can - Streets",
+    "lng":-123.366588682698,
+    "lat":48.4380126588274
+  },
+  {
+    "id":366,
+    "northing":5364946.334,
+    "easting":472926.651,
+    "type":"Litter Can - Streets",
+    "lng":-123.366038350271,
+    "lat":48.4370793678001
+  },
+  {
+    "id":367,
+    "northing":5365211.182,
+    "easting":472830.607,
+    "type":"Litter Can - Streets",
+    "lng":-123.367354025748,
+    "lat":48.439457901818
+  },
+  {
+    "id":368,
+    "northing":5365560.462,
+    "easting":472706.325,
+    "type":"Litter Can - Streets",
+    "lng":-123.369057136864,
+    "lat":48.4425947737871
+  },
+  {
+    "id":369,
+    "northing":5365881.685,
+    "easting":472580.329,
+    "type":"Litter Can - Streets",
+    "lng":-123.370781804609,
+    "lat":48.4454791335173
+  },
+  {
+    "id":370,
+    "northing":5365848.082,
+    "easting":472562.06,
+    "type":"Litter Can - Streets",
+    "lng":-123.371026641749,
+    "lat":48.4451760350054
+  },
+  {
+    "id":371,
+    "northing":5365827.537,
+    "easting":472244.274,
+    "type":"Litter Can - Streets",
+    "lng":-123.375322423622,
+    "lat":48.4449772925086
+  },
+  {
+    "id":372,
+    "northing":5365960.108,
+    "easting":472063.082,
+    "type":"Litter Can - Streets",
+    "lng":-123.377781357485,
+    "lat":48.4461619361093
+  },
+  {
+    "id":373,
+    "northing":5365656.807,
+    "easting":471420.729,
+    "type":"Litter Can - Streets",
+    "lng":-123.38644682805,
+    "lat":48.443404548865
+  },
+  {
+    "id":374,
+    "northing":5365639.989,
+    "easting":471538.1,
+    "type":"Litter Can - Streets",
+    "lng":-123.384858634439,
+    "lat":48.4432585567204
+  },
+  {
+    "id":375,
+    "northing":5365611.646,
+    "easting":471742.41,
+    "type":"Litter Can - Streets",
+    "lng":-123.382094115927,
+    "lat":48.4430127633736
+  },
+  {
+    "id":376,
+    "northing":5365443.193,
+    "easting":472204.309,
+    "type":"Litter Can - Streets",
+    "lng":-123.37583733821,
+    "lat":48.4415178429298
+  },
+  {
+    "id":377,
+    "northing":5365462.457,
+    "easting":472207.993,
+    "type":"Litter Can - Streets",
+    "lng":-123.375788804008,
+    "lat":48.4416913107804
+  },
+  {
+    "id":378,
+    "northing":5365522.404,
+    "easting":472105.281,
+    "type":"Litter Can - Streets",
+    "lng":-123.377181584124,
+    "lat":48.4422260770345
+  },
+  {
+    "id":379,
+    "northing":5365358.355,
+    "easting":472387.198,
+    "type":"Litter Can - Streets",
+    "lng":-123.373358877928,
+    "lat":48.4407626503784
+  },
+  {
+    "id":380,
+    "northing":5365307.854,
+    "easting":472435.255,
+    "type":"Litter Can - Streets",
+    "lng":-123.372705780044,
+    "lat":48.4403104296084
+  },
+  {
+    "id":381,
+    "northing":5365310.838,
+    "easting":472465.211,
+    "type":"Litter Can - Streets",
+    "lng":-123.37230094628,
+    "lat":48.440338584042
+  },
+  {
+    "id":382,
+    "northing":5365652.434,
+    "easting":471568.525,
+    "type":"Litter Can - Streets",
+    "lng":-123.384448083774,
+    "lat":48.4433718884242
+  },
+  {
+    "id":383,
+    "northing":5365679.471,
+    "easting":471399.897,
+    "type":"Litter Can - Streets",
+    "lng":-123.3867300589,
+    "lat":48.4436074970103
+  },
+  {
+    "id":384,
+    "northing":5365712.592,
+    "easting":471185.382,
+    "type":"Litter Can - Streets",
+    "lng":-123.389632944241,
+    "lat":48.4438956945327
+  },
+  {
+    "id":385,
+    "northing":5365691.202,
+    "easting":471203.495,
+    "type":"Litter Can - Streets",
+    "lng":-123.389386553359,
+    "lat":48.4437040906338
+  },
+  {
+    "id":386,
+    "northing":5366301.398,
+    "easting":471581.06,
+    "type":"Litter Can - Streets",
+    "lng":-123.384322611613,
+    "lat":48.4492107332067
+  },
+  {
+    "id":387,
+    "northing":5366180.139,
+    "easting":471740.987,
+    "type":"Litter Can - Streets",
+    "lng":-123.382151703274,
+    "lat":48.448127041784
+  },
+  {
+    "id":388,
+    "northing":5366016.456,
+    "easting":471960.79,
+    "type":"Litter Can - Streets",
+    "lng":-123.379168361625,
+    "lat":48.4466643158885
+  },
+  {
+    "id":389,
+    "northing":5365682.063,
+    "easting":472277.18,
+    "type":"Litter Can - Streets",
+    "lng":-123.37486784103,
+    "lat":48.443670007799
+  },
+  {
+    "id":390,
+    "northing":5365131.222,
+    "easting":472770.071,
+    "type":"Litter Can - Streets",
+    "lng":-123.368167315312,
+    "lat":48.4387359410629
+  },
+  {
+    "id":391,
+    "northing":5365111.673,
+    "easting":472768.597,
+    "type":"Litter Can - Streets",
+    "lng":-123.368185974546,
+    "lat":48.4385600077295
+  },
+  {
+    "id":392,
+    "northing":5365241.963,
+    "easting":472578.973,
+    "type":"Litter Can - Streets",
+    "lng":-123.370758282888,
+    "lat":48.4397239199744
+  },
+  {
+    "id":393,
+    "northing":5365702.294,
+    "easting":472391.187,
+    "type":"Litter Can - Streets",
+    "lng":-123.373327602717,
+    "lat":48.4438570167253
+  },
+  {
+    "id":394,
+    "northing":5365499.704,
+    "easting":472667.65,
+    "type":"Litter Can - Streets",
+    "lng":-123.369576117443,
+    "lat":48.4420464989177
+  },
+  {
+    "id":395,
+    "northing":5365530.275,
+    "easting":472686.734,
+    "type":"Litter Can - Streets",
+    "lng":-123.369320068786,
+    "lat":48.4423223529918
+  },
+  {
+    "id":396,
+    "northing":5365291.949,
+    "easting":472772.819,
+    "type":"Litter Can - Streets",
+    "lng":-123.368140600423,
+    "lat":48.4401820159109
+  },
+  {
+    "id":397,
+    "northing":5366129.609,
+    "easting":474219.936,
+    "type":"Litter Can - Streets",
+    "lng":-123.348625941099,
+    "lat":48.4477787999738
+  },
+  {
+    "id":398,
+    "northing":5365117.834,
+    "easting":472951.96,
+    "type":"Litter Can - Streets",
+    "lng":-123.365707235284,
+    "lat":48.4386233289063
+  },
+  {
+    "id":399,
+    "northing":5365837.723,
+    "easting":472648.784,
+    "type":"Litter Can - Streets",
+    "lng":-123.369853269348,
+    "lat":48.4450866103115
+  },
+  {
+    "id":400,
+    "northing":5364347.371,
+    "easting":476139.889,
+    "type":"Litter Can - Streets",
+    "lng":-123.322561114098,
+    "lat":48.4318207744562
+  },
+  {
+    "id":401,
+    "northing":5364387.57,
+    "easting":476120.393,
+    "type":"Litter Can - Streets",
+    "lng":-123.322826962177,
+    "lat":48.4321816797458
+  },
+  {
+    "id":402,
+    "northing":5364315.876,
+    "easting":475943.682,
+    "type":"Litter Can - Streets",
+    "lng":-123.325211755272,
+    "lat":48.4315299693639
+  },
+  {
+    "id":403,
+    "northing":5364314.274,
+    "easting":475876.688,
+    "type":"Litter Can - Streets",
+    "lng":-123.326117329183,
+    "lat":48.4315129971094
+  },
+  {
+    "id":404,
+    "northing":5365120.142,
+    "easting":475657.788,
+    "type":"Litter Can - Streets",
+    "lng":-123.329123394801,
+    "lat":48.4387545020529
+  },
+  {
+    "id":405,
+    "northing":5365446.572,
+    "easting":475333.132,
+    "type":"Litter Can - Streets",
+    "lng":-123.333532100833,
+    "lat":48.4416785589442
+  },
+  {
+    "id":406,
+    "northing":5365357.39,
+    "easting":474135.029,
+    "type":"Litter Can - Streets",
+    "lng":-123.349726432897,
+    "lat":48.4408281469358
+  },
+  {
+    "id":407,
+    "northing":5363662.908,
+    "easting":473579.509,
+    "type":"Litter Can - Streets",
+    "lng":-123.357130836936,
+    "lat":48.4255608983575
+  },
+  {
+    "id":408,
+    "northing":5363674.879,
+    "easting":473509.633,
+    "type":"Litter Can - Streets",
+    "lng":-123.358076103236,
+    "lat":48.4256656598492
+  },
+  {
+    "id":409,
+    "northing":5362499.161,
+    "easting":473628.086,
+    "type":"Litter Can - Streets",
+    "lng":-123.356401018584,
+    "lat":48.4150934041822
+  },
+  {
+    "id":410,
+    "northing":5363397.654,
+    "easting":473171.844,
+    "type":"Litter Can - Streets",
+    "lng":-123.362624237221,
+    "lat":48.4231573589047
+  },
+  {
+    "id":411,
+    "northing":5363978.031,
+    "easting":473247.422,
+    "type":"Litter Can - Streets",
+    "lng":-123.361639752919,
+    "lat":48.4283818540856
+  },
+  {
+    "id":412,
+    "northing":5365191.406,
+    "easting":472116.594,
+    "type":"Litter Can - Streets",
+    "lng":-123.377006592095,
+    "lat":48.4392488085479
+  },
+  {
+    "id":413,
+    "northing":5365169.926,
+    "easting":472065.828,
+    "type":"Litter Can - Streets",
+    "lng":-123.377691544809,
+    "lat":48.4390533197423
+  },
+  {
+    "id":414,
+    "northing":5364016.327,
+    "easting":472836.78,
+    "type":"Litter Can - Streets",
+    "lng":-123.367193159072,
+    "lat":48.428708818084
+  },
+  {
+    "id":415,
+    "northing":5363728.806,
+    "easting":473672.557,
+    "type":"Litter Can - Streets",
+    "lng":-123.355877253319,
+    "lat":48.4261576361832
+  },
+  {
+    "id":416,
+    "northing":5364641.236,
+    "easting":472885.768,
+    "type":"Litter Can - Streets",
+    "lng":-123.366571358076,
+    "lat":48.4343328361756
+  },
+  {
+    "id":417,
+    "northing":5364472.286,
+    "easting":473484.996,
+    "type":"Litter Can - Streets",
+    "lng":-123.358459567626,
+    "lat":48.4328383867716
+  },
+  {
+    "id":418,
+    "northing":5364137.403,
+    "easting":472650.857,
+    "type":"Litter Can - Streets",
+    "lng":-123.369714317205,
+    "lat":48.4297900213124
+  },
+  {
+    "id":419,
+    "northing":5363602.732,
+    "easting":473322.387,
+    "type":"Litter Can - Streets",
+    "lng":-123.360602507892,
+    "lat":48.4250087034232
+  },
+  {
+    "id":420,
+    "northing":5363583.167,
+    "easting":473354.65,
+    "type":"Litter Can - Streets",
+    "lng":-123.360165171394,
+    "lat":48.424834053837
+  },
+  {
+    "id":421,
+    "northing":5363537.281,
+    "easting":473406.379,
+    "type":"Litter Can - Streets",
+    "lng":-123.359463051409,
+    "lat":48.424423430566
+  },
+  {
+    "id":422,
+    "northing":5363827.63,
+    "easting":473089.791,
+    "type":"Litter Can - Streets",
+    "lng":-123.363760898574,
+    "lat":48.4270220830283
+  },
+  {
+    "id":423,
+    "northing":5363819.39,
+    "easting":473138.236,
+    "type":"Litter Can - Streets",
+    "lng":-123.363105524147,
+    "lat":48.4269500192034
+  },
+  {
+    "id":424,
+    "northing":5363389.218,
+    "easting":473792.72,
+    "type":"Litter Can - Streets",
+    "lng":-123.354231763164,
+    "lat":48.4231075821692
+  },
+  {
+    "id":425,
+    "northing":5362611.731,
+    "easting":473680.604,
+    "type":"Litter Can - Streets",
+    "lng":-123.355698344303,
+    "lat":48.4161083251137
+  },
+  {
+    "id":426,
+    "northing":5364228.623,
+    "easting":473909.191,
+    "type":"Litter Can - Streets",
+    "lng":-123.352709761701,
+    "lat":48.4306640206019
+  },
+  {
+    "id":427,
+    "northing":5364068.11,
+    "easting":473463.746,
+    "type":"Litter Can - Streets",
+    "lng":-123.358721265375,
+    "lat":48.42920137864
+  },
+  {
+    "id":428,
+    "northing":5363632.465,
+    "easting":473404.345,
+    "type":"Litter Can - Streets",
+    "lng":-123.359496585338,
+    "lat":48.4252796549286
+  },
+  {
+    "id":429,
+    "northing":5363572.117,
+    "easting":473394.129,
+    "type":"Litter Can - Streets",
+    "lng":-123.359630841967,
+    "lat":48.4247363111798
+  },
+  {
+    "id":430,
+    "northing":5363986.078,
+    "easting":472672.501,
+    "type":"Litter Can - Streets",
+    "lng":-123.369411860738,
+    "lat":48.4284295838559
+  },
+  {
+    "id":431,
+    "northing":5364080.888,
+    "easting":472707.354,
+    "type":"Litter Can - Streets",
+    "lng":-123.368946911815,
+    "lat":48.4292840411178
+  },
+  {
+    "id":432,
+    "northing":5364095.207,
+    "easting":472756.771,
+    "type":"Litter Can - Streets",
+    "lng":-123.368279828129,
+    "lat":48.4294149980715
+  },
+  {
+    "id":433,
+    "northing":5364081.776,
+    "easting":472750.291,
+    "type":"Litter Can - Streets",
+    "lng":-123.368366551728,
+    "lat":48.4292938877929
+  },
+  {
+    "id":434,
+    "northing":5364083.41,
+    "easting":472784.065,
+    "type":"Litter Can - Streets",
+    "lng":-123.367910104316,
+    "lat":48.4293100472107
+  },
+  {
+    "id":435,
+    "northing":5364083.169,
+    "easting":472821.661,
+    "type":"Litter Can - Streets",
+    "lng":-123.367401869674,
+    "lat":48.4293095014661
+  },
+  {
+    "id":436,
+    "northing":5364096.398,
+    "easting":472821.801,
+    "type":"Litter Can - Streets",
+    "lng":-123.367400834363,
+    "lat":48.4294285203895
+  },
+  {
+    "id":437,
+    "northing":5364095.621,
+    "easting":472783.055,
+    "type":"Litter Can - Streets",
+    "lng":-123.367924549757,
+    "lat":48.4294198581775
+  },
+  {
+    "id":438,
+    "northing":5363988.522,
+    "easting":473028.357,
+    "type":"Litter Can - Streets",
+    "lng":-123.364601677305,
+    "lat":48.4284669006692
+  },
+  {
+    "id":439,
+    "northing":5364041.644,
+    "easting":473028.792,
+    "type":"Litter Can - Streets",
+    "lng":-123.364599216545,
+    "lat":48.4289448241252
+  },
+  {
+    "id":440,
+    "northing":5362891.515,
+    "easting":472955.135,
+    "type":"Litter Can - Streets",
+    "lng":-123.365520685549,
+    "lat":48.4185946859594
+  },
+  {
+    "id":441,
+    "northing":5364003.766,
+    "easting":472809.069,
+    "type":"Litter Can - Streets",
+    "lng":-123.367566933053,
+    "lat":48.4285946195893
+  },
+  {
+    "id":442,
+    "northing":5363986.438,
+    "easting":472710.472,
+    "type":"Litter Can - Streets",
+    "lng":-123.368898606223,
+    "lat":48.4284344681465
+  },
+  {
+    "id":443,
+    "northing":5363987.664,
+    "easting":472771.574,
+    "type":"Litter Can - Streets",
+    "lng":-123.36807273146,
+    "lat":48.4284481409396
+  },
+  {
+    "id":444,
+    "northing":5363718.852,
+    "easting":473249.466,
+    "type":"Litter Can - Streets",
+    "lng":-123.3615955781,
+    "lat":48.4260502719335
+  },
+  {
+    "id":445,
+    "northing":5363604.35,
+    "easting":473184.585,
+    "type":"Litter Can - Streets",
+    "lng":-123.36246525289,
+    "lat":48.4250174137191
+  },
+  {
+    "id":446,
+    "northing":5364805.159,
+    "easting":472928.852,
+    "type":"Litter Can - Streets",
+    "lng":-123.365999478048,
+    "lat":48.4358093998256
+  },
+  {
+    "id":447,
+    "northing":5364084.896,
+    "easting":472943.104,
+    "type":"Litter Can - Streets",
+    "lng":-123.365760324605,
+    "lat":48.4293302628505
+  },
+  {
+    "id":448,
+    "northing":5363853.517,
+    "easting":472938.454,
+    "type":"Litter Can - Streets",
+    "lng":-123.365808239743,
+    "lat":48.4272484932895
+  },
+  {
+    "id":449,
+    "northing":5363694.786,
+    "easting":473410.236,
+    "type":"Litter Can - Streets",
+    "lng":-123.35942091246,
+    "lat":48.4258405659569
+  },
+  {
+    "id":450,
+    "northing":5363795.203,
+    "easting":473281.186,
+    "type":"Litter Can - Streets",
+    "lng":-123.361171685024,
+    "lat":48.4267384984828
+  },
+  {
+    "id":451,
+    "northing":5363582.926,
+    "easting":473438.533,
+    "type":"Litter Can - Streets",
+    "lng":-123.359031330309,
+    "lat":48.4248354251114
+  },
+  {
+    "id":452,
+    "northing":5363425.041,
+    "easting":473152.952,
+    "type":"Litter Can - Streets",
+    "lng":-123.362881341096,
+    "lat":48.4234029377052
+  },
+  {
+    "id":453,
+    "northing":5363755.161,
+    "easting":473210.515,
+    "type":"Litter Can - Streets",
+    "lng":-123.362124402036,
+    "lat":48.4263752672115
+  },
+  {
+    "id":454,
+    "northing":5363472.862,
+    "easting":472989.865,
+    "type":"Litter Can - Streets",
+    "lng":-123.365088761741,
+    "lat":48.4238261837262
+  },
+  {
+    "id":455,
+    "northing":5365379.148,
+    "easting":471896.904,
+    "type":"Litter Can - Streets",
+    "lng":-123.379989515076,
+    "lat":48.4409280426562
+  },
+  {
+    "id":456,
+    "northing":5365304.053,
+    "easting":471921.906,
+    "type":"Litter Can - Streets",
+    "lng":-123.379646430222,
+    "lat":48.4402535774769
+  },
+  {
+    "id":457,
+    "northing":5365402.718,
+    "easting":472060.996,
+    "type":"Litter Can - Streets",
+    "lng":-123.377772396443,
+    "lat":48.4411473805882
+  },
+  {
+    "id":458,
+    "northing":5364212.925,
+    "easting":472832.669,
+    "type":"Litter Can - Streets",
+    "lng":-123.367261469247,
+    "lat":48.4304773080591
+  },
+  {
+    "id":459,
+    "northing":5364098.107,
+    "easting":472932.62,
+    "type":"Litter Can - Streets",
+    "lng":-123.365902899231,
+    "lat":48.4294486637375
+  },
+  {
+    "id":460,
+    "northing":5363898.144,
+    "easting":473356.921,
+    "type":"Litter Can - Streets",
+    "lng":-123.36015450293,
+    "lat":48.4276677980741
+  },
+  {
+    "id":461,
+    "northing":5363900.88,
+    "easting":473219.798,
+    "type":"Litter Can - Streets",
+    "lng":-123.362008234192,
+    "lat":48.4276866029447
+  },
+  {
+    "id":462,
+    "northing":5363268.693,
+    "easting":472931.124,
+    "type":"Litter Can - Streets",
+    "lng":-123.365869541762,
+    "lat":48.4219868788626
+  },
+  {
+    "id":463,
+    "northing":5363158.618,
+    "easting":472892.743,
+    "type":"Litter Can - Streets",
+    "lng":-123.366381176765,
+    "lat":48.4209949496921
+  },
+  {
+    "id":464,
+    "northing":5363117.633,
+    "easting":472888.245,
+    "type":"Litter Can - Streets",
+    "lng":-123.366439320415,
+    "lat":48.4206260408154
+  },
+  {
+    "id":465,
+    "northing":5363076.936,
+    "easting":472908.445,
+    "type":"Litter Can - Streets",
+    "lng":-123.366163677556,
+    "lat":48.420260787301
+  },
+  {
+    "id":466,
+    "northing":5363113.437,
+    "easting":472904.43,
+    "type":"Litter Can - Streets",
+    "lng":-123.36622029966,
+    "lat":48.4205889888892
+  },
+  {
+    "id":467,
+    "northing":5363138.374,
+    "easting":472907.509,
+    "type":"Litter Can - Streets",
+    "lng":-123.36618029559,
+    "lat":48.4208134623245
+  },
+  {
+    "id":468,
+    "northing":5363860.388,
+    "easting":473463.685,
+    "type":"Litter Can - Streets",
+    "lng":-123.358708931384,
+    "lat":48.4273326337413
+  },
+  {
+    "id":469,
+    "northing":5363853.168,
+    "easting":473509.943,
+    "type":"Litter Can - Streets",
+    "lng":-123.358083186774,
+    "lat":48.4272696258228
+  },
+  {
+    "id":470,
+    "northing":5363847.03,
+    "easting":473550.699,
+    "type":"Litter Can - Streets",
+    "lng":-123.357531883955,
+    "lat":48.427216118605
+  },
+  {
+    "id":471,
+    "northing":5363845.86,
+    "easting":473556.639,
+    "type":"Litter Can - Streets",
+    "lng":-123.357451516813,
+    "lat":48.427205842221
+  },
+  {
+    "id":472,
+    "northing":5363244.248,
+    "easting":472312.293,
+    "type":"Litter Can - Streets",
+    "lng":-123.374232013614,
+    "lat":48.4217401173404
+  },
+  {
+    "id":473,
+    "northing":5363173.647,
+    "easting":472478.887,
+    "type":"Litter Can - Streets",
+    "lng":-123.371975704261,
+    "lat":48.4211122482876
+  },
+  {
+    "id":474,
+    "northing":5363100.182,
+    "easting":472534.18,
+    "type":"Litter Can - Streets",
+    "lng":-123.371223570829,
+    "lat":48.420453741642
+  },
+  {
+    "id":475,
+    "northing":5363138.208,
+    "easting":472531.031,
+    "type":"Litter Can - Streets",
+    "lng":-123.371268620512,
+    "lat":48.420795699105
+  },
+  {
+    "id":476,
+    "northing":5363151.22,
+    "easting":472539.925,
+    "type":"Litter Can - Streets",
+    "lng":-123.371149264135,
+    "lat":48.4209131464354
+  },
+  {
+    "id":477,
+    "northing":5363150.716,
+    "easting":472548.258,
+    "type":"Litter Can - Streets",
+    "lng":-123.371036605256,
+    "lat":48.4209089748693
+  },
+  {
+    "id":478,
+    "northing":5363151.292,
+    "easting":472568.099,
+    "type":"Litter Can - Streets",
+    "lng":-123.370768478909,
+    "lat":48.4209150194656
+  },
+  {
+    "id":479,
+    "northing":5363144.13,
+    "easting":472597.328,
+    "type":"Litter Can - Streets",
+    "lng":-123.370372962374,
+    "lat":48.420851856922
+  },
+  {
+    "id":480,
+    "northing":5362827.318,
+    "easting":472490.066,
+    "type":"Litter Can - Streets",
+    "lng":-123.371801907384,
+    "lat":48.4179970432551
+  },
+  {
+    "id":481,
+    "northing":5362520.832,
+    "easting":472670.687,
+    "type":"Litter Can - Streets",
+    "lng":-123.369340878328,
+    "lat":48.4152476407265
+  },
+  {
+    "id":482,
+    "northing":5362745.543,
+    "easting":472714.907,
+    "type":"Litter Can - Streets",
+    "lng":-123.368757889486,
+    "lat":48.4172711326651
+  },
+  {
+    "id":483,
+    "northing":5362859.476,
+    "easting":472668.343,
+    "type":"Litter Can - Streets",
+    "lng":-123.369394608223,
+    "lat":48.4182940954169
+  },
+  {
+    "id":484,
+    "northing":5363098.866,
+    "easting":472548.861,
+    "type":"Litter Can - Streets",
+    "lng":-123.371025063338,
+    "lat":48.4204425413962
+  },
+  {
+    "id":485,
+    "northing":5363802.255,
+    "easting":473217.889,
+    "type":"Litter Can - Streets",
+    "lng":-123.362027736177,
+    "lat":48.4267992553506
+  },
+  {
+    "id":486,
+    "northing":5363731.002,
+    "easting":473174.96,
+    "type":"Litter Can - Streets",
+    "lng":-123.362603457754,
+    "lat":48.426156412206
+  },
+  {
+    "id":487,
+    "northing":5363707.469,
+    "easting":473196.517,
+    "type":"Litter Can - Streets",
+    "lng":-123.362310564969,
+    "lat":48.42594561756
+  },
+  {
+    "id":488,
+    "northing":5363727.161,
+    "easting":473193.049,
+    "type":"Litter Can - Streets",
+    "lng":-123.362358701547,
+    "lat":48.4261226265814
+  },
+  {
+    "id":489,
+    "northing":5362895.147,
+    "easting":472700.043,
+    "type":"Litter Can - Streets",
+    "lng":-123.368968504453,
+    "lat":48.4186163753162
+  },
+  {
+    "id":490,
+    "northing":5362922.389,
+    "easting":472698.228,
+    "type":"Litter Can - Streets",
+    "lng":-123.368994806696,
+    "lat":48.4188613745646
+  },
+  {
+    "id":491,
+    "northing":5362940.63,
+    "easting":472698.18,
+    "type":"Litter Can - Streets",
+    "lng":-123.368996642238,
+    "lat":48.4190254743642
+  },
+  {
+    "id":492,
+    "northing":5363518.263,
+    "easting":473285.303,
+    "type":"Litter Can - Streets",
+    "lng":-123.361098379885,
+    "lat":48.4242472192719
+  },
+  {
+    "id":493,
+    "northing":5363526.796,
+    "easting":473232.595,
+    "type":"Litter Can - Streets",
+    "lng":-123.36181135751,
+    "lat":48.4243217497925
+  },
+  {
+    "id":494,
+    "northing":5363515.58,
+    "easting":473197.221,
+    "type":"Litter Can - Streets",
+    "lng":-123.362288776756,
+    "lat":48.4242193438075
+  },
+  {
+    "id":495,
+    "northing":5365422.772,
+    "easting":472082.484,
+    "type":"Litter Can - Streets",
+    "lng":-123.377483192109,
+    "lat":48.4413287451055
+  },
+  {
+    "id":496,
+    "northing":5363498.077,
+    "easting":473301.46,
+    "type":"Litter Can - Streets",
+    "lng":-123.360878706232,
+    "lat":48.4240663030024
+  },
+  {
+    "id":497,
+    "northing":5363511.448,
+    "easting":473221.183,
+    "type":"Litter Can - Streets",
+    "lng":-123.361964628304,
+    "lat":48.4241831890002
+  },
+  {
+    "id":498,
+    "northing":5363486.841,
+    "easting":473368.306,
+    "type":"Litter Can - Streets",
+    "lng":-123.359974465123,
+    "lat":48.4239680468293
+  },
+  {
+    "id":499,
+    "northing":5363476.537,
+    "easting":473427.427,
+    "type":"Litter Can - Streets",
+    "lng":-123.359174701513,
+    "lat":48.4238778426395
+  },
+  {
+    "id":500,
+    "northing":5363467.517,
+    "easting":473481.162,
+    "type":"Litter Can - Streets",
+    "lng":-123.358447821706,
+    "lat":48.4237989577155
+  },
+  {
+    "id":501,
+    "northing":5363451.397,
+    "easting":473575.877,
+    "type":"Litter Can - Streets",
+    "lng":-123.357166593591,
+    "lat":48.4236579145283
+  },
+  {
+    "id":502,
+    "northing":5363444.226,
+    "easting":473618.291,
+    "type":"Litter Can - Streets",
+    "lng":-123.356592856573,
+    "lat":48.423595178481
+  },
+  {
+    "id":503,
+    "northing":5363434.558,
+    "easting":473673.659,
+    "type":"Litter Can - Streets",
+    "lng":-123.355843872775,
+    "lat":48.4235105168538
+  },
+  {
+    "id":504,
+    "northing":5363427.505,
+    "easting":473712.913,
+    "type":"Litter Can - Streets",
+    "lng":-123.355312858167,
+    "lat":48.4234487039237
+  },
+  {
+    "id":505,
+    "northing":5363417.237,
+    "easting":473776.348,
+    "type":"Litter Can - Streets",
+    "lng":-123.354454804708,
+    "lat":48.4233589717668
+  },
+  {
+    "id":506,
+    "northing":5363432.025,
+    "easting":473791.696,
+    "type":"Litter Can - Streets",
+    "lng":-123.354248280462,
+    "lat":48.4234926487428
+  },
+  {
+    "id":507,
+    "northing":5363442.086,
+    "easting":473735.03,
+    "type":"Litter Can - Streets",
+    "lng":-123.355014830303,
+    "lat":48.4235808022941
+  },
+  {
+    "id":508,
+    "northing":5363453.863,
+    "easting":473665.091,
+    "type":"Litter Can - Streets",
+    "lng":-123.35596089417,
+    "lat":48.4236838339635
+  },
+  {
+    "id":509,
+    "northing":5363459.278,
+    "easting":473633.591,
+    "type":"Litter Can - Streets",
+    "lng":-123.356387002437,
+    "lat":48.4237312322367
+  },
+  {
+    "id":510,
+    "northing":5363488.849,
+    "easting":473457.777,
+    "type":"Litter Can - Streets",
+    "lng":-123.358765255548,
+    "lat":48.423989884267
+  },
+  {
+    "id":511,
+    "northing":5363476.939,
+    "easting":473526.924,
+    "type":"Litter Can - Streets",
+    "lng":-123.357829876444,
+    "lat":48.4238856453608
+  },
+  {
+    "id":512,
+    "northing":5363462.381,
+    "easting":473613.05,
+    "type":"Litter Can - Streets",
+    "lng":-123.356664839082,
+    "lat":48.4237582882571
+  },
+  {
+    "id":513,
+    "northing":5363425.239,
+    "easting":473182.724,
+    "type":"Litter Can - Streets",
+    "lng":-123.362478945386,
+    "lat":48.4234059867877
+  },
+  {
+    "id":514,
+    "northing":5363739.467,
+    "easting":472631.033,
+    "type":"Litter Can - Streets",
+    "lng":-123.36995627609,
+    "lat":48.4262091748649
+  },
+  {
+    "id":515,
+    "northing":5363620.689,
+    "easting":472652.876,
+    "type":"Litter Can - Streets",
+    "lng":-123.369653262916,
+    "lat":48.4251415503097
+  },
+  {
+    "id":516,
+    "northing":5363597.728,
+    "easting":472717.368,
+    "type":"Litter Can - Streets",
+    "lng":-123.368780054037,
+    "lat":48.4249377825826
+  },
+  {
+    "id":517,
+    "northing":5363609.092,
+    "easting":472721.434,
+    "type":"Litter Can - Streets",
+    "lng":-123.368725835473,
+    "lat":48.4250401934543
+  },
+  {
+    "id":518,
+    "northing":5363180.93,
+    "easting":472709.919,
+    "type":"Litter Can - Streets",
+    "lng":-123.36885361761,
+    "lat":48.4211877985945
+  },
+  {
+    "id":519,
+    "northing":5363148.442,
+    "easting":472704.551,
+    "type":"Litter Can - Streets",
+    "lng":-123.368924055805,
+    "lat":48.4208952930025
+  },
+  {
+    "id":520,
+    "northing":5363134.842,
+    "easting":472679.173,
+    "type":"Litter Can - Streets",
+    "lng":-123.369266170265,
+    "lat":48.4207718453751
+  },
+  {
+    "id":521,
+    "northing":5363137.162,
+    "easting":472656.781,
+    "type":"Litter Can - Streets",
+    "lng":-123.36956896314,
+    "lat":48.4207917476557
+  },
+  {
+    "id":522,
+    "northing":5363140.567,
+    "easting":472627.004,
+    "type":"Litter Can - Streets",
+    "lng":-123.36997163993,
+    "lat":48.4208210900863
+  },
+  {
+    "id":523,
+    "northing":5363104.062,
+    "easting":472761.212,
+    "type":"Litter Can - Streets",
+    "lng":-123.368155364221,
+    "lat":48.4204984829799
+  },
+  {
+    "id":524,
+    "northing":5363110.403,
+    "easting":472792.833,
+    "type":"Litter Can - Streets",
+    "lng":-123.367728400282,
+    "lat":48.4205568918341
+  },
+  {
+    "id":525,
+    "northing":5363150.862,
+    "easting":472724.472,
+    "type":"Litter Can - Streets",
+    "lng":-123.36865496797,
+    "lat":48.4209179249835
+  },
+  {
+    "id":526,
+    "northing":5363192.528,
+    "easting":472731.305,
+    "type":"Litter Can - Streets",
+    "lng":-123.368565324685,
+    "lat":48.4212930624715
+  },
+  {
+    "id":527,
+    "northing":5363211.671,
+    "easting":472715.016,
+    "type":"Litter Can - Streets",
+    "lng":-123.368786727866,
+    "lat":48.421464575875
+  },
+  {
+    "id":528,
+    "northing":5365179.006,
+    "easting":472016.647,
+    "type":"Litter Can - Streets",
+    "lng":-123.378357102939,
+    "lat":48.4391328252786
+  },
+  {
+    "id":529,
+    "northing":5365295.514,
+    "easting":471993.945,
+    "type":"Litter Can - Streets",
+    "lng":-123.378671831908,
+    "lat":48.4401799621857
+  },
+  {
+    "id":530,
+    "northing":5365385.669,
+    "easting":471982.017,
+    "type":"Litter Can - Streets",
+    "lng":-123.378839135766,
+    "lat":48.4409904966183
+  },
+  {
+    "id":531,
+    "northing":5365405.792,
+    "easting":471995.213,
+    "type":"Litter Can - Streets",
+    "lng":-123.378662057331,
+    "lat":48.4411721162232
+  },
+  {
+    "id":532,
+    "northing":5365428.09,
+    "easting":471963.436,
+    "type":"Litter Can - Streets",
+    "lng":-123.379093207907,
+    "lat":48.4413713038898
+  },
+  {
+    "id":533,
+    "northing":5365403.6,
+    "easting":471949.344,
+    "type":"Litter Can - Streets",
+    "lng":-123.379282108466,
+    "lat":48.4411503567458
+  },
+  {
+    "id":534,
+    "northing":5365181.057,
+    "easting":472539.624,
+    "type":"Litter Can - Streets",
+    "lng":-123.371286317162,
+    "lat":48.4391742753199
+  },
+  {
+    "id":535,
+    "northing":5363919.451,
+    "easting":472258.622,
+    "type":"Litter Can - Streets",
+    "lng":-123.375002165647,
+    "lat":48.4278121533067
+  },
+  {
+    "id":536,
+    "northing":5363192.379,
+    "easting":472930.679,
+    "type":"Litter Can - Streets",
+    "lng":-123.365870626687,
+    "lat":48.4213003089556
+  },
+  {
+    "id":537,
+    "northing":5363199.991,
+    "easting":472925.866,
+    "type":"Litter Can - Streets",
+    "lng":-123.365936169852,
+    "lat":48.4213685826007
+  },
+  {
+    "id":538,
+    "northing":5363182.053,
+    "easting":473111.926,
+    "type":"Litter Can - Streets",
+    "lng":-123.363420272055,
+    "lat":48.4212151773849
+  },
+  {
+    "id":539,
+    "northing":5363205.862,
+    "easting":472920.248,
+    "type":"Litter Can - Streets",
+    "lng":-123.366012480908,
+    "lat":48.4214211588767
+  },
+  {
+    "id":540,
+    "northing":5363504.187,
+    "easting":472606.495,
+    "type":"Litter Can - Streets",
+    "lng":-123.370272567991,
+    "lat":48.4240914435893
+  },
+  {
+    "id":541,
+    "northing":5363516.292,
+    "easting":472595.196,
+    "type":"Litter Can - Streets",
+    "lng":-123.370426079878,
+    "lat":48.4241998525798
+  },
+  {
+    "id":542,
+    "northing":5363507.743,
+    "easting":472592.982,
+    "type":"Litter Can - Streets",
+    "lng":-123.370455446823,
+    "lat":48.4241228467548
+  },
+  {
+    "id":543,
+    "northing":5363473.375,
+    "easting":472597.574,
+    "type":"Litter Can - Streets",
+    "lng":-123.370391135437,
+    "lat":48.423813861084
+  },
+  {
+    "id":544,
+    "northing":5363446.708,
+    "easting":472608.141,
+    "type":"Litter Can - Streets",
+    "lng":-123.370246567944,
+    "lat":48.4235744156518
+  },
+  {
+    "id":545,
+    "northing":5363239.785,
+    "easting":472720.233,
+    "type":"Litter Can - Streets",
+    "lng":-123.368718044742,
+    "lat":48.4217177249467
+  },
+  {
+    "id":546,
+    "northing":5363252.265,
+    "easting":472721.637,
+    "type":"Litter Can - Streets",
+    "lng":-123.368699880248,
+    "lat":48.42183006017
+  },
+  {
+    "id":547,
+    "northing":5363221.38,
+    "easting":472734.889,
+    "type":"Litter Can - Streets",
+    "lng":-123.368518760094,
+    "lat":48.4215527802932
+  },
+  {
+    "id":548,
+    "northing":5363282.203,
+    "easting":472726.279,
+    "type":"Litter Can - Streets",
+    "lng":-123.368639086626,
+    "lat":48.4220995937812
+  },
+  {
+    "id":549,
+    "northing":5363521.499,
+    "easting":473162.594,
+    "type":"Litter Can - Streets",
+    "lng":-123.362757194037,
+    "lat":48.4242711199843
+  },
+  {
+    "id":550,
+    "northing":5363541.617,
+    "easting":473039.135,
+    "type":"Litter Can - Streets",
+    "lng":-123.364427230349,
+    "lat":48.4244468396854
+  },
+  {
+    "id":551,
+    "northing":5363551.808,
+    "easting":472986.857,
+    "type":"Litter Can - Streets",
+    "lng":-123.365134508864,
+    "lat":48.4245362833276
+  },
+  {
+    "id":552,
+    "northing":5363567.309,
+    "easting":472991.431,
+    "type":"Litter Can - Streets",
+    "lng":-123.36507368297,
+    "lat":48.4246759322846
+  },
+  {
+    "id":553,
+    "northing":5363535.728,
+    "easting":473075.651,
+    "type":"Litter Can - Streets",
+    "lng":-123.363933279258,
+    "lat":48.4243954210467
+  },
+  {
+    "id":554,
+    "northing":5363543.197,
+    "easting":473029.778,
+    "type":"Litter Can - Streets",
+    "lng":-123.364553807002,
+    "lat":48.4244606536242
+  },
+  {
+    "id":555,
+    "northing":5363279.631,
+    "easting":472909.784,
+    "type":"Litter Can - Streets",
+    "lng":-123.366158679233,
+    "lat":48.422084363932
+  },
+  {
+    "id":556,
+    "northing":5363234.693,
+    "easting":472904.481,
+    "type":"Litter Can - Streets",
+    "lng":-123.366227448684,
+    "lat":48.4216798557845
+  },
+  {
+    "id":557,
+    "northing":5363205.314,
+    "easting":472901.063,
+    "type":"Litter Can - Streets",
+    "lng":-123.366271746012,
+    "lat":48.4214154035799
+  },
+  {
+    "id":558,
+    "northing":5365825.851,
+    "easting":475340.979,
+    "type":"Litter Can - Streets",
+    "lng":-123.333448353376,
+    "lat":48.4450910177977
+  },
+  {
+    "id":559,
+    "northing":5363573.189,
+    "easting":472944.808,
+    "type":"Litter Can - Streets",
+    "lng":-123.365704250544,
+    "lat":48.4247268314829
+  },
+  {
+    "id":560,
+    "northing":5363392.211,
+    "easting":472726.591,
+    "type":"Litter Can - Streets",
+    "lng":-123.36864202407,
+    "lat":48.4230892784821
+  },
+  {
+    "id":561,
+    "northing":5363385.228,
+    "easting":472738.518,
+    "type":"Litter Can - Streets",
+    "lng":-123.36848036309,
+    "lat":48.4230269727642
+  },
+  {
+    "id":562,
+    "northing":5363395.145,
+    "easting":472747.648,
+    "type":"Litter Can - Streets",
+    "lng":-123.368357605411,
+    "lat":48.4231165843993
+  },
+  {
+    "id":563,
+    "northing":5363345.728,
+    "easting":472769.727,
+    "type":"Litter Can - Streets",
+    "lng":-123.368055972818,
+    "lat":48.4226729649068
+  },
+  {
+    "id":564,
+    "northing":5363236.067,
+    "easting":472740.307,
+    "type":"Litter Can - Streets",
+    "lng":-123.368446486238,
+    "lat":48.4216851438971
+  },
+  {
+    "id":565,
+    "northing":5363311.024,
+    "easting":472731.069,
+    "type":"Litter Can - Streets",
+    "lng":-123.368576219471,
+    "lat":48.4223590848885
+  },
+  {
+    "id":566,
+    "northing":5363336.675,
+    "easting":472736.554,
+    "type":"Litter Can - Streets",
+    "lng":-123.368503752041,
+    "lat":48.4225900876098
+  },
+  {
+    "id":567,
+    "northing":5363340.041,
+    "easting":472724.496,
+    "type":"Litter Can - Streets",
+    "lng":-123.368666947224,
+    "lat":48.4226198479722
+  },
+  {
+    "id":568,
+    "northing":5363368.424,
+    "easting":472723.724,
+    "type":"Litter Can - Streets",
+    "lng":-123.368679227678,
+    "lat":48.4228751581456
+  },
+  {
+    "id":569,
+    "northing":5363377.113,
+    "easting":472712.573,
+    "type":"Litter Can - Streets",
+    "lng":-123.368830510957,
+    "lat":48.4229528449746
+  },
+  {
+    "id":570,
+    "northing":5363314.256,
+    "easting":472893.854,
+    "type":"Litter Can - Streets",
+    "lng":-123.366376228546,
+    "lat":48.4223951788074
+  },
+  {
+    "id":571,
+    "northing":5363297.264,
+    "easting":472898.286,
+    "type":"Litter Can - Streets",
+    "lng":-123.366315226366,
+    "lat":48.4222425027493
+  },
+  {
+    "id":572,
+    "northing":5363307.577,
+    "easting":472876.812,
+    "type":"Litter Can - Streets",
+    "lng":-123.366606136867,
+    "lat":48.4223343582826
+  },
+  {
+    "id":573,
+    "northing":5363328.187,
+    "easting":472865.013,
+    "type":"Litter Can - Streets",
+    "lng":-123.366766946754,
+    "lat":48.4225192662928
+  },
+  {
+    "id":574,
+    "northing":5363369.428,
+    "easting":472778.919,
+    "type":"Litter Can - Streets",
+    "lng":-123.367933272166,
+    "lat":48.4228865757441
+  },
+  {
+    "id":575,
+    "northing":5363387.053,
+    "easting":472757.219,
+    "type":"Litter Can - Streets",
+    "lng":-123.368227716599,
+    "lat":48.4230441994822
+  },
+  {
+    "id":576,
+    "northing":5363450.568,
+    "easting":472767.202,
+    "type":"Litter Can - Streets",
+    "lng":-123.368096910744,
+    "lat":48.423616035026
+  },
+  {
+    "id":577,
+    "northing":5363451.952,
+    "easting":472757.807,
+    "type":"Litter Can - Streets",
+    "lng":-123.368223985914,
+    "lat":48.4236280799361
+  },
+  {
+    "id":578,
+    "northing":5363436.862,
+    "easting":472833.298,
+    "type":"Litter Can - Streets",
+    "lng":-123.367202651617,
+    "lat":48.4234955833202
+  },
+  {
+    "id":579,
+    "northing":5363411.772,
+    "easting":472904.895,
+    "type":"Litter Can - Streets",
+    "lng":-123.36623330352,
+    "lat":48.4232729462362
+  },
+  {
+    "id":580,
+    "northing":5363510.137,
+    "easting":472862.337,
+    "type":"Litter Can - Streets",
+    "lng":-123.366814899436,
+    "lat":48.4241560450792
+  },
+  {
+    "id":581,
+    "northing":5363444.218,
+    "easting":472815.818,
+    "type":"Litter Can - Streets",
+    "lng":-123.367439392453,
+    "lat":48.4235610069873
+  },
+  {
+    "id":582,
+    "northing":5363430.925,
+    "easting":472764.101,
+    "type":"Litter Can - Streets",
+    "lng":-123.368137548597,
+    "lat":48.4234391854023
+  },
+  {
+    "id":583,
+    "northing":5363429.048,
+    "easting":472754.355,
+    "type":"Litter Can - Streets",
+    "lng":-123.36826915569,
+    "lat":48.4234218780051
+  },
+  {
+    "id":584,
+    "northing":5363405.986,
+    "easting":472762.309,
+    "type":"Litter Can - Streets",
+    "lng":-123.368160149482,
+    "lat":48.4232147476015
+  },
+  {
+    "id":585,
+    "northing":5363699.144,
+    "easting":472669.283,
+    "type":"Litter Can - Streets",
+    "lng":-123.369436619612,
+    "lat":48.4258480746026
+  },
+  {
+    "id":586,
+    "northing":5363631.431,
+    "easting":473066.058,
+    "type":"Litter Can - Streets",
+    "lng":-123.364069095383,
+    "lat":48.4252559910845
+  },
+  {
+    "id":587,
+    "northing":5363647.917,
+    "easting":473052.878,
+    "type":"Litter Can - Streets",
+    "lng":-123.364248307266,
+    "lat":48.4254037419263
+  },
+  {
+    "id":588,
+    "northing":5363552.486,
+    "easting":473077.874,
+    "type":"Litter Can - Streets",
+    "lng":-123.363904308564,
+    "lat":48.4245462772505
+  },
+  {
+    "id":589,
+    "northing":5363961.254,
+    "easting":472954.705,
+    "type":"Litter Can - Streets",
+    "lng":-123.365595523055,
+    "lat":48.4282184322004
+  },
+  {
+    "id":590,
+    "northing":5363959.219,
+    "easting":472979.869,
+    "type":"Litter Can - Streets",
+    "lng":-123.365255234034,
+    "lat":48.4282012037119
+  },
+  {
+    "id":591,
+    "northing":5364002.059,
+    "easting":472874.675,
+    "type":"Litter Can - Streets",
+    "lng":-123.366679981197,
+    "lat":48.4285820902402
+  },
+  {
+    "id":592,
+    "northing":5363967.525,
+    "easting":472858.487,
+    "type":"Litter Can - Streets",
+    "lng":-123.366896567963,
+    "lat":48.4282707126768
+  },
+  {
+    "id":593,
+    "northing":5364200.053,
+    "easting":473026.188,
+    "type":"Litter Can - Streets",
+    "lng":-123.364644607557,
+    "lat":48.4303698174875
+  },
+  {
+    "id":594,
+    "northing":5363367.713,
+    "easting":472949.204,
+    "type":"Litter Can - Streets",
+    "lng":-123.365631565653,
+    "lat":48.4228784782278
+  },
+  {
+    "id":595,
+    "northing":5363885.731,
+    "easting":472630.11,
+    "type":"Litter Can - Streets",
+    "lng":-123.369978321192,
+    "lat":48.4275249831401
+  },
+  {
+    "id":596,
+    "northing":5363753.526,
+    "easting":473026.3,
+    "type":"Litter Can - Streets",
+    "lng":-123.364614356283,
+    "lat":48.4263527026409
+  },
+  {
+    "id":597,
+    "northing":5363748.771,
+    "easting":473068.28,
+    "type":"Litter Can - Streets",
+    "lng":-123.364046601556,
+    "lat":48.4263117198721
+  },
+  {
+    "id":598,
+    "northing":5363735.507,
+    "easting":473146.058,
+    "type":"Litter Can - Streets",
+    "lng":-123.362994417035,
+    "lat":48.4261957102561
+  },
+  {
+    "id":599,
+    "northing":5363715.942,
+    "easting":473126.637,
+    "type":"Litter Can - Streets",
+    "lng":-123.363255677901,
+    "lat":48.42601886868
+  },
+  {
+    "id":600,
+    "northing":5363734.868,
+    "easting":473020.51,
+    "type":"Litter Can - Streets",
+    "lng":-123.364691419243,
+    "lat":48.4261846006258
+  },
+  {
+    "id":601,
+    "northing":5363766.986,
+    "easting":472995.943,
+    "type":"Litter Can - Streets",
+    "lng":-123.365025563171,
+    "lat":48.4264724940183
+  },
+  {
+    "id":602,
+    "northing":5363952.478,
+    "easting":472913.537,
+    "type":"Litter Can - Streets",
+    "lng":-123.366151449681,
+    "lat":48.4281377125112
+  },
+  {
+    "id":603,
+    "northing":5363925.389,
+    "easting":473023.364,
+    "type":"Litter Can - Streets",
+    "lng":-123.364665106637,
+    "lat":48.4278987195215
+  },
+  {
+    "id":604,
+    "northing":5363883.059,
+    "easting":473015.413,
+    "type":"Litter Can - Streets",
+    "lng":-123.364769858678,
+    "lat":48.4275175630589
+  },
+  {
+    "id":605,
+    "northing":5363858.399,
+    "easting":473013.232,
+    "type":"Litter Can - Streets",
+    "lng":-123.364797752051,
+    "lat":48.4272956193059
+  },
+  {
+    "id":606,
+    "northing":5363832.573,
+    "easting":473009.411,
+    "type":"Litter Can - Streets",
+    "lng":-123.364847738491,
+    "lat":48.4270631155548
+  },
+  {
+    "id":607,
+    "northing":5363796.315,
+    "easting":473001.045,
+    "type":"Litter Can - Streets",
+    "lng":-123.364958488274,
+    "lat":48.42673656702
+  },
+  {
+    "id":608,
+    "northing":5363313.978,
+    "easting":472916.691,
+    "type":"Litter Can - Streets",
+    "lng":-123.366067544355,
+    "lat":48.422393660117
+  },
+  {
+    "id":609,
+    "northing":5363363.977,
+    "easting":472924.647,
+    "type":"Litter Can - Streets",
+    "lng":-123.365963241297,
+    "lat":48.422843812785
+  },
+  {
+    "id":610,
+    "northing":5363423.48,
+    "easting":472935.685,
+    "type":"Litter Can - Streets",
+    "lng":-123.365817893025,
+    "lat":48.4233795993297
+  },
+  {
+    "id":611,
+    "northing":5363499.45,
+    "easting":472949.081,
+    "type":"Litter Can - Streets",
+    "lng":-123.36564173297,
+    "lat":48.4240636302508
+  },
+  {
+    "id":612,
+    "northing":5363551.855,
+    "easting":472958.78,
+    "type":"Litter Can - Streets",
+    "lng":-123.365514018496,
+    "lat":48.4245355021596
+  },
+  {
+    "id":613,
+    "northing":5363475.778,
+    "easting":472946.216,
+    "type":"Litter Can - Streets",
+    "lng":-123.365678929318,
+    "lat":48.423850544752
+  },
+  {
+    "id":614,
+    "northing":5363400.577,
+    "easting":473329.065,
+    "type":"Litter Can - Streets",
+    "lng":-123.360499376929,
+    "lat":48.4231903255355
+  },
+  {
+    "id":615,
+    "northing":5363391.502,
+    "easting":472952.382,
+    "type":"Litter Can - Streets",
+    "lng":-123.365590146768,
+    "lat":48.4230926297863
+  },
+  {
+    "id":616,
+    "northing":5363873.558,
+    "easting":472908.916,
+    "type":"Litter Can - Streets",
+    "lng":-123.366208811656,
+    "lat":48.4274275207259
+  },
+  {
+    "id":617,
+    "northing":5363884.759,
+    "easting":472846.262,
+    "type":"Litter Can - Streets",
+    "lng":-123.367056455333,
+    "lat":48.4275255924955
+  },
+  {
+    "id":618,
+    "northing":5364116.54,
+    "easting":473051.952,
+    "type":"Litter Can - Streets",
+    "lng":-123.364290957714,
+    "lat":48.4296196061969
+  },
+  {
+    "id":619,
+    "northing":5363953.945,
+    "easting":472668.023,
+    "type":"Litter Can - Streets",
+    "lng":-123.369470293687,
+    "lat":48.4281403087401
+  },
+  {
+    "id":620,
+    "northing":5363740.724,
+    "easting":473113.071,
+    "type":"Litter Can - Streets",
+    "lng":-123.363440639956,
+    "lat":48.4262412381701
+  },
+  {
+    "id":621,
+    "northing":5363710.629,
+    "easting":473164.027,
+    "type":"Litter Can - Streets",
+    "lng":-123.362749935511,
+    "lat":48.4259726638692
+  },
+  {
+    "id":622,
+    "northing":5364105.9,
+    "easting":473030.321,
+    "type":"Litter Can - Streets",
+    "lng":-123.364582681535,
+    "lat":48.4295229598485
+  },
+  {
+    "id":623,
+    "northing":5363720.897,
+    "easting":473097.402,
+    "type":"Litter Can - Streets",
+    "lng":-123.363651166667,
+    "lat":48.4260621986657
+  },
+  {
+    "id":624,
+    "northing":5363727.255,
+    "easting":473059.815,
+    "type":"Litter Can - Streets",
+    "lng":-123.364159640821,
+    "lat":48.4261177923096
+  },
+  {
+    "id":625,
+    "northing":5363860.229,
+    "easting":472987.309,
+    "type":"Litter Can - Streets",
+    "lng":-123.365148281209,
+    "lat":48.4273109723355
+  },
+  {
+    "id":626,
+    "northing":5363876.174,
+    "easting":472933.581,
+    "type":"Litter Can - Streets",
+    "lng":-123.365875573479,
+    "lat":48.4274521147523
+  },
+  {
+    "id":627,
+    "northing":5363937.517,
+    "easting":472943.206,
+    "type":"Litter Can - Streets",
+    "lng":-123.365749429486,
+    "lat":48.4280043920266
+  },
+  {
+    "id":628,
+    "northing":5363932.858,
+    "easting":472929.963,
+    "type":"Litter Can - Streets",
+    "lng":-123.365928141745,
+    "lat":48.4279619094086
+  },
+  {
+    "id":629,
+    "northing":5363888.615,
+    "easting":472921.782,
+    "type":"Litter Can - Streets",
+    "lng":-123.366035869619,
+    "lat":48.4275635318193
+  },
+  {
+    "id":630,
+    "northing":5363911.996,
+    "easting":472692.088,
+    "type":"Litter Can - Streets",
+    "lng":-123.369142256726,
+    "lat":48.4277639628443
+  },
+  {
+    "id":631,
+    "northing":5363890.196,
+    "easting":472813.991,
+    "type":"Litter Can - Streets",
+    "lng":-123.36749302677,
+    "lat":48.4275731139807
+  },
+  {
+    "id":632,
+    "northing":5363808.315,
+    "easting":472920.184,
+    "type":"Litter Can - Streets",
+    "lng":-123.366052280752,
+    "lat":48.4268410549111
+  },
+  {
+    "id":633,
+    "northing":5363799.493,
+    "easting":472908.21,
+    "type":"Litter Can - Streets",
+    "lng":-123.366213566019,
+    "lat":48.4267611744516
+  },
+  {
+    "id":634,
+    "northing":5363775.853,
+    "easting":472915.491,
+    "type":"Litter Can - Streets",
+    "lng":-123.366113618934,
+    "lat":48.4265488131981
+  },
+  {
+    "id":635,
+    "northing":5363777.548,
+    "easting":472905.516,
+    "type":"Litter Can - Streets",
+    "lng":-123.366248562417,
+    "lat":48.4265636333709
+  },
+  {
+    "id":636,
+    "northing":5363754.646,
+    "easting":472901.605,
+    "type":"Litter Can - Streets",
+    "lng":-123.366299946999,
+    "lat":48.4263574304306
+  },
+  {
+    "id":637,
+    "northing":5363725.384,
+    "easting":472909.132,
+    "type":"Litter Can - Streets",
+    "lng":-123.366196311689,
+    "lat":48.4260945022274
+  },
+  {
+    "id":638,
+    "northing":5363687.098,
+    "easting":472796.316,
+    "type":"Litter Can - Streets",
+    "lng":-123.367718753547,
+    "lat":48.4257452050392
+  },
+  {
+    "id":639,
+    "northing":5363780.648,
+    "easting":472858.313,
+    "type":"Litter Can - Streets",
+    "lng":-123.3668868128,
+    "lat":48.4265894908428
+  },
+  {
+    "id":640,
+    "northing":5363766.517,
+    "easting":472854.369,
+    "type":"Litter Can - Streets",
+    "lng":-123.366939208486,
+    "lat":48.4264621931603
+  },
+  {
+    "id":641,
+    "northing":5363770.311,
+    "easting":472930.191,
+    "type":"Litter Can - Streets",
+    "lng":-123.36591455834,
+    "lat":48.4264995867649
+  },
+  {
+    "id":642,
+    "northing":5363749.261,
+    "easting":472954.984,
+    "type":"Litter Can - Streets",
+    "lng":-123.36557806858,
+    "lat":48.426311277425
+  },
+  {
+    "id":643,
+    "northing":5363424.787,
+    "easting":472959.08,
+    "type":"Litter Can - Streets",
+    "lng":-123.365501762962,
+    "lat":48.423392362089
+  },
+  {
+    "id":644,
+    "northing":5363485.211,
+    "easting":472968.622,
+    "type":"Litter Can - Streets",
+    "lng":-123.365376688259,
+    "lat":48.4239363692034
+  },
+  {
+    "id":645,
+    "northing":5363636.559,
+    "easting":472996.585,
+    "type":"Litter Can - Streets",
+    "lng":-123.36500848067,
+    "lat":48.4252991521655
+  },
+  {
+    "id":646,
+    "northing":5363695.193,
+    "easting":473006.358,
+    "type":"Litter Can - Streets",
+    "lng":-123.364880157361,
+    "lat":48.425827063849
+  },
+  {
+    "id":647,
+    "northing":5363762.976,
+    "easting":473017.855,
+    "type":"Litter Can - Streets",
+    "lng":-123.364729116913,
+    "lat":48.4264373568897
+  },
+  {
+    "id":648,
+    "northing":5363318.949,
+    "easting":472940.675,
+    "type":"Litter Can - Streets",
+    "lng":-123.365743696216,
+    "lat":48.4224394119317
+  },
+  {
+    "id":649,
+    "northing":5363348.925,
+    "easting":472946.529,
+    "type":"Litter Can - Streets",
+    "lng":-123.365666508451,
+    "lat":48.4227093391806
+  },
+  {
+    "id":650,
+    "northing":5363313.574,
+    "easting":472751.098,
+    "type":"Litter Can - Streets",
+    "lng":-123.368305673698,
+    "lat":48.422382891163
+  },
+  {
+    "id":651,
+    "northing":5363560.001,
+    "easting":472787.16,
+    "type":"Litter Can - Streets",
+    "lng":-123.367834257437,
+    "lat":48.4246013970522
+  },
+  {
+    "id":652,
+    "northing":5365161.874,
+    "easting":472523.072,
+    "type":"Litter Can - Streets",
+    "lng":-123.371508851197,
+    "lat":48.4390009770967
+  },
+  {
+    "id":653,
+    "northing":5365151.857,
+    "easting":472488.259,
+    "type":"Litter Can - Streets",
+    "lng":-123.371978881858,
+    "lat":48.4389093422805
+  },
+  {
+    "id":654,
+    "northing":5364156.559,
+    "easting":473051.479,
+    "type":"Litter Can - Streets",
+    "lng":-123.364299923511,
+    "lat":48.4299796113912
+  },
+  {
+    "id":655,
+    "northing":5363787.821,
+    "easting":472749.018,
+    "type":"Litter Can - Streets",
+    "lng":-123.36836462693,
+    "lat":48.4266493024045
+  },
+  {
+    "id":656,
+    "northing":5363801.742,
+    "easting":472670.914,
+    "type":"Litter Can - Streets",
+    "lng":-123.369421273961,
+    "lat":48.4267711569459
+  },
+  {
+    "id":657,
+    "northing":5363696.068,
+    "easting":472737.043,
+    "type":"Litter Can - Streets",
+    "lng":-123.368520518887,
+    "lat":48.4258233390689
+  },
+  {
+    "id":658,
+    "northing":5363664.898,
+    "easting":473000.995,
+    "type":"Litter Can - Streets",
+    "lng":-123.364950697153,
+    "lat":48.4255542891752
+  },
+  {
+    "id":659,
+    "northing":5363455.239,
+    "easting":472964.856,
+    "type":"Litter Can - Streets",
+    "lng":-123.365425657447,
+    "lat":48.4236665679381
+  },
+  {
+    "id":660,
+    "northing":5363760.914,
+    "easting":472979.688,
+    "type":"Litter Can - Streets",
+    "lng":-123.365244893103,
+    "lat":48.4264171715171
+  },
+  {
+    "id":661,
+    "northing":5363764.853,
+    "easting":472963.24,
+    "type":"Litter Can - Streets",
+    "lng":-123.365467477277,
+    "lat":48.4264519029556
+  },
+  {
+    "id":662,
+    "northing":5363765.717,
+    "easting":472952.274,
+    "type":"Litter Can - Streets",
+    "lng":-123.365615762175,
+    "lat":48.4264592053808
+  },
+  {
+    "id":663,
+    "northing":5363745.495,
+    "easting":472977.031,
+    "type":"Litter Can - Streets",
+    "lng":-123.365279813826,
+    "lat":48.4262783426231
+  },
+  {
+    "id":664,
+    "northing":5363807.083,
+    "easting":472723.693,
+    "type":"Litter Can - Streets",
+    "lng":-123.368708202083,
+    "lat":48.4268214944885
+  },
+  {
+    "id":665,
+    "northing":5363692.784,
+    "easting":472746.91,
+    "type":"Litter Can - Streets",
+    "lng":-123.368386934633,
+    "lat":48.4257942220707
+  },
+  {
+    "id":666,
+    "northing":5363718.206,
+    "easting":472650.926,
+    "type":"Litter Can - Streets",
+    "lng":-123.369685993941,
+    "lat":48.4260187668092
+  },
+  {
+    "id":667,
+    "northing":5363716.954,
+    "easting":472678.544,
+    "type":"Litter Can - Streets",
+    "lng":-123.369312602956,
+    "lat":48.4260087021801
+  },
+  {
+    "id":668,
+    "northing":5363695.367,
+    "easting":472682.862,
+    "type":"Litter Can - Streets",
+    "lng":-123.369252828059,
+    "lat":48.4258146844651
+  },
+  {
+    "id":669,
+    "northing":5363749.469,
+    "easting":472911.726,
+    "type":"Litter Can - Streets",
+    "lng":-123.366162805459,
+    "lat":48.4263112912401
+  },
+  {
+    "id":670,
+    "northing":5363827.867,
+    "easting":472913.261,
+    "type":"Litter Can - Streets",
+    "lng":-123.366147124697,
+    "lat":48.427016654443
+  },
+  {
+    "id":671,
+    "northing":5363836.594,
+    "easting":473036.7,
+    "type":"Litter Can - Streets",
+    "lng":-123.364479122988,
+    "lat":48.4271004577896
+  },
+  {
+    "id":672,
+    "northing":5363830.86,
+    "easting":473030.515,
+    "type":"Litter Can - Streets",
+    "lng":-123.364562358657,
+    "lat":48.4270486080382
+  },
+  {
+    "id":673,
+    "northing":5363802.274,
+    "easting":473025.55,
+    "type":"Litter Can - Streets",
+    "lng":-123.364627632034,
+    "lat":48.4267912254587
+  },
+  {
+    "id":674,
+    "northing":5363735.246,
+    "easting":472990.01,
+    "type":"Litter Can - Streets",
+    "lng":-123.365103714663,
+    "lat":48.4261866951114
+  },
+  {
+    "id":675,
+    "northing":5363701.47,
+    "easting":472986.041,
+    "type":"Litter Can - Streets",
+    "lng":-123.365155186616,
+    "lat":48.4258826636962
+  },
+  {
+    "id":676,
+    "northing":5363665.069,
+    "easting":472980.308,
+    "type":"Litter Can - Streets",
+    "lng":-123.365230332544,
+    "lat":48.4255549411592
+  },
+  {
+    "id":677,
+    "northing":5363641.746,
+    "easting":472976.281,
+    "type":"Litter Can - Streets",
+    "lng":-123.365283261137,
+    "lat":48.4253449462103
+  },
+  {
+    "id":678,
+    "northing":5363617.811,
+    "easting":472971.322,
+    "type":"Litter Can - Streets",
+    "lng":-123.365348747471,
+    "lat":48.4251294054861
+  },
+  {
+    "id":679,
+    "northing":5363868.409,
+    "easting":472822.926,
+    "type":"Litter Can - Streets",
+    "lng":-123.367370835409,
+    "lat":48.4273774955362
+  },
+  {
+    "id":680,
+    "northing":5363799.956,
+    "easting":472811.825,
+    "type":"Litter Can - Streets",
+    "lng":-123.36751644737,
+    "lat":48.4267611877545
+  },
+  {
+    "id":681,
+    "northing":5363768.036,
+    "easting":472821.941,
+    "type":"Litter Can - Streets",
+    "lng":-123.367377637079,
+    "lat":48.4264744601049
+  },
+  {
+    "id":682,
+    "northing":5363473.786,
+    "easting":472761.724,
+    "type":"Litter Can - Streets",
+    "lng":-123.368172461235,
+    "lat":48.4238246758761
+  },
+  {
+    "id":683,
+    "northing":5363506.808,
+    "easting":472766.746,
+    "type":"Litter Can - Streets",
+    "lng":-123.368106727421,
+    "lat":48.4241219709361
+  },
+  {
+    "id":684,
+    "northing":5363527.139,
+    "easting":472768.988,
+    "type":"Litter Can - Streets",
+    "lng":-123.368077744316,
+    "lat":48.4243049729678
+  },
+  {
+    "id":685,
+    "northing":5363863.312,
+    "easting":472838.153,
+    "type":"Litter Can - Streets",
+    "lng":-123.367164676858,
+    "lat":48.4273322977658
+  },
+  {
+    "id":686,
+    "northing":5363805.52,
+    "easting":472828.05,
+    "type":"Litter Can - Streets",
+    "lng":-123.367297493093,
+    "lat":48.4268119437324
+  },
+  {
+    "id":687,
+    "northing":5363580.153,
+    "easting":472790.56,
+    "type":"Litter Can - Streets",
+    "lng":-123.367789609535,
+    "lat":48.4247828388375
+  },
+  {
+    "id":688,
+    "northing":5363472.379,
+    "easting":472770.783,
+    "type":"Litter Can - Streets",
+    "lng":-123.368049925644,
+    "lat":48.4238124095292
+  },
+  {
+    "id":689,
+    "northing":5363526.029,
+    "easting":472782.454,
+    "type":"Litter Can - Streets",
+    "lng":-123.367895660233,
+    "lat":48.4242955690187
+  },
+  {
+    "id":690,
+    "northing":5363505.801,
+    "easting":472776.354,
+    "type":"Litter Can - Streets",
+    "lng":-123.367976796728,
+    "lat":48.4241133268736
+  },
+  {
+    "id":691,
+    "northing":5363581.288,
+    "easting":472778.332,
+    "type":"Litter Can - Streets",
+    "lng":-123.367954963244,
+    "lat":48.4247925211854
+  },
+  {
+    "id":692,
+    "northing":5363603.973,
+    "easting":472782,
+    "type":"Litter Can - Streets",
+    "lng":-123.3679068576,
+    "lat":48.4249967623677
+  },
+  {
+    "id":693,
+    "northing":5363630.897,
+    "easting":472797.975,
+    "type":"Litter Can - Streets",
+    "lng":-123.367692679033,
+    "lat":48.4252396713009
+  },
+  {
+    "id":694,
+    "northing":5363641.68,
+    "easting":472799.556,
+    "type":"Litter Can - Streets",
+    "lng":-123.367672009499,
+    "lat":48.4253367475464
+  },
+  {
+    "id":695,
+    "northing":5363669.022,
+    "easting":472803.922,
+    "type":"Litter Can - Streets",
+    "lng":-123.367614771054,
+    "lat":48.4255829150877
+  },
+  {
+    "id":696,
+    "northing":5363931.136,
+    "easting":472833.324,
+    "type":"Litter Can - Streets",
+    "lng":-123.367234350784,
+    "lat":48.4279422593768
+  },
+  {
+    "id":697,
+    "northing":5363699.418,
+    "easting":472888.096,
+    "type":"Litter Can - Streets",
+    "lng":-123.366478976407,
+    "lat":48.4258599980941
+  },
+  {
+    "id":698,
+    "northing":5363561.853,
+    "easting":472776.203,
+    "type":"Litter Can - Streets",
+    "lng":-123.36798247777,
+    "lat":48.4246175847465
+  },
+  {
+    "id":699,
+    "northing":5363683.086,
+    "easting":472889.732,
+    "type":"Litter Can - Streets",
+    "lng":-123.366455805942,
+    "lat":48.425713139754
+  },
+  {
+    "id":700,
+    "northing":5363718.927,
+    "easting":472697.393,
+    "type":"Litter Can - Streets",
+    "lng":-123.369057951996,
+    "lat":48.4260272695611
+  },
+  {
+    "id":701,
+    "northing":5363643.548,
+    "easting":472788.657,
+    "type":"Litter Can - Streets",
+    "lng":-123.367819449087,
+    "lat":48.4253530818291
+  },
+  {
+    "id":702,
+    "northing":5363707.688,
+    "easting":472798.582,
+    "type":"Litter Can - Streets",
+    "lng":-123.367689461752,
+    "lat":48.4259305383318
+  },
+  {
+    "id":703,
+    "northing":5363726.989,
+    "easting":472800.598,
+    "type":"Litter Can - Streets",
+    "lng":-123.367663465227,
+    "lat":48.4261042644743
+  },
+  {
+    "id":704,
+    "northing":5363729.934,
+    "easting":472815.357,
+    "type":"Litter Can - Streets",
+    "lng":-123.367464160262,
+    "lat":48.4261313960884
+  },
+  {
+    "id":705,
+    "northing":5363697.095,
+    "easting":472810.005,
+    "type":"Litter Can - Streets",
+    "lng":-123.367534371031,
+    "lat":48.425835733057
+  },
+  {
+    "id":706,
+    "northing":5363669.184,
+    "easting":472927.844,
+    "type":"Litter Can - Streets",
+    "lng":-123.365939749642,
+    "lat":48.4255897101987
+  },
+  {
+    "id":707,
+    "northing":5363525.836,
+    "easting":472977.066,
+    "type":"Litter Can - Streets",
+    "lng":-123.365265175198,
+    "lat":48.4243022095064
+  },
+  {
+    "id":708,
+    "northing":5363561.803,
+    "easting":472891.918,
+    "type":"Litter Can - Streets",
+    "lng":-123.366418411391,
+    "lat":48.4246221260612
+  },
+  {
+    "id":709,
+    "northing":5363582.482,
+    "easting":472871.811,
+    "type":"Litter Can - Streets",
+    "lng":-123.36669152948,
+    "lat":48.4248072973208
+  },
+  {
+    "id":710,
+    "northing":5363590.684,
+    "easting":472837.921,
+    "type":"Litter Can - Streets",
+    "lng":-123.3671501362,
+    "lat":48.424879624603
+  },
+  {
+    "id":711,
+    "northing":5364128.141,
+    "easting":470889.454,
+    "type":"Litter Can - Streets",
+    "lng":-123.393524319271,
+    "lat":48.4296278619179
+  },
+  {
+    "id":712,
+    "northing":5363684.943,
+    "easting":472982.904,
+    "type":"Litter Can - Streets",
+    "lng":-123.365196523932,
+    "lat":48.4257338462665
+  },
+  {
+    "id":713,
+    "northing":5363604.893,
+    "easting":472967.777,
+    "type":"Litter Can - Streets",
+    "lng":-123.36539583123,
+    "lat":48.4250130383635
+  },
+  {
+    "id":714,
+    "northing":0,
+    "easting":0,
+    "type":"Litter Can - Streets",
+    "lng":-123.371944850658,
+    "lat":48.4191451183214
+  },
+  {
+    "id":715,
+    "northing":5364406.402,
+    "easting":471783.038,
+    "type":"Litter Can - Parks",
+    "lng":-123.381463616474,
+    "lat":48.432171828285
+  },
+  {
+    "id":716,
+    "northing":5364396.472,
+    "easting":471809.577,
+    "type":"Litter Can - Parks",
+    "lng":-123.381104177757,
+    "lat":48.4320836818778
+  },
+  {
+    "id":717,
+    "northing":5364269.128,
+    "easting":471786.526,
+    "type":"Litter Can - Parks",
+    "lng":-123.381407230663,
+    "lat":48.4309370230361
+  },
+  {
+    "id":718,
+    "northing":5364230.645,
+    "easting":471785.952,
+    "type":"Litter Can - Parks",
+    "lng":-123.381412401945,
+    "lat":48.4305907917865
+  },
+  {
+    "id":719,
+    "northing":5364228.652,
+    "easting":471718.772,
+    "type":"Litter Can - Parks",
+    "lng":-123.382320421123,
+    "lat":48.4305698533165
+  },
+  {
+    "id":720,
+    "northing":5364250.728,
+    "easting":471717.593,
+    "type":"Litter Can - Parks",
+    "lng":-123.382337847552,
+    "lat":48.430768403211
+  },
+  {
+    "id":721,
+    "northing":5364265.367,
+    "easting":471734.474,
+    "type":"Litter Can - Parks",
+    "lng":-123.382110632205,
+    "lat":48.4309008571376
+  },
+  {
+    "id":722,
+    "northing":5364266.775,
+    "easting":471759.89,
+    "type":"Litter Can - Parks",
+    "lng":-123.381767145922,
+    "lat":48.4309146625442
+  },
+  {
+    "id":723,
+    "northing":5364349.905,
+    "easting":471666.088,
+    "type":"Litter Can - Parks",
+    "lng":-123.383040805304,
+    "lat":48.4316583190026
+  },
+  {
+    "id":724,
+    "northing":5364361.68,
+    "easting":471665.899,
+    "type":"Litter Can - Parks",
+    "lng":-123.383044155771,
+    "lat":48.4317642421151
+  },
+  {
+    "id":725,
+    "northing":5361466.341,
+    "easting":474141.033,
+    "type":"Litter Can - Parks",
+    "lng":-123.349405324068,
+    "lat":48.4058229187052
+  },
+  {
+    "id":726,
+    "northing":5361226.714,
+    "easting":474197.144,
+    "type":"Litter Can - Parks",
+    "lng":-123.348632447334,
+    "lat":48.4036694346178
+  },
+  {
+    "id":727,
+    "northing":5361163.932,
+    "easting":474183.946,
+    "type":"Litter Can - Parks",
+    "lng":-123.348806907141,
+    "lat":48.4031040860003
+  },
+  {
+    "id":728,
+    "northing":5361209.724,
+    "easting":474122.933,
+    "type":"Litter Can - Parks",
+    "lng":-123.34963408024,
+    "lat":48.4035135343862
+  },
+  {
+    "id":729,
+    "northing":5361380.501,
+    "easting":474066.588,
+    "type":"Litter Can - Parks",
+    "lng":-123.350405910448,
+    "lat":48.4050476015575
+  },
+  {
+    "id":730,
+    "northing":5361380.996,
+    "easting":474066.031,
+    "type":"Litter Can - Parks",
+    "lng":-123.350413466928,
+    "lat":48.4050520320196
+  },
+  {
+    "id":731,
+    "northing":5361520.512,
+    "easting":473941.775,
+    "type":"Litter Can - Parks",
+    "lng":-123.352101014915,
+    "lat":48.4063020830606
+  },
+  {
+    "id":732,
+    "northing":5361495.745,
+    "easting":473982.022,
+    "type":"Litter Can - Parks",
+    "lng":-123.351555666634,
+    "lat":48.4060809232904
+  },
+  {
+    "id":733,
+    "northing":5361629.654,
+    "easting":473757.155,
+    "type":"Litter Can - Parks",
+    "lng":-123.354602409208,
+    "lat":48.4072763394066
+  },
+  {
+    "id":734,
+    "northing":5361642.169,
+    "easting":473722.519,
+    "type":"Litter Can - Parks",
+    "lng":-123.355071199383,
+    "lat":48.407387489923
+  },
+  {
+    "id":735,
+    "northing":5361654.768,
+    "easting":473688.548,
+    "type":"Litter Can - Parks",
+    "lng":-123.355531011336,
+    "lat":48.4074994219501
+  },
+  {
+    "id":736,
+    "northing":5361657.791,
+    "easting":473527.651,
+    "type":"Litter Can - Parks",
+    "lng":-123.3577052729,
+    "lat":48.4075198968302
+  },
+  {
+    "id":737,
+    "northing":5361658.151,
+    "easting":473526.908,
+    "type":"Litter Can - Parks",
+    "lng":-123.357715335187,
+    "lat":48.4075231044093
+  },
+  {
+    "id":738,
+    "northing":5361738.102,
+    "easting":473496.714,
+    "type":"Litter Can - Parks",
+    "lng":-123.358128375833,
+    "lat":48.4082411115471
+  },
+  {
+    "id":739,
+    "northing":5361690.214,
+    "easting":473374.219,
+    "type":"Litter Can - Parks",
+    "lng":-123.359780532407,
+    "lat":48.4078051408628
+  },
+  {
+    "id":740,
+    "northing":5361704.571,
+    "easting":473338.233,
+    "type":"Litter Can - Parks",
+    "lng":-123.360267697062,
+    "lat":48.4079327852656
+  },
+  {
+    "id":741,
+    "northing":5361717.468,
+    "easting":473305.8,
+    "type":"Litter Can - Parks",
+    "lng":-123.360706761942,
+    "lat":48.4080474430022
+  },
+  {
+    "id":742,
+    "northing":5361662.211,
+    "easting":473295.621,
+    "type":"Litter Can - Parks",
+    "lng":-123.3608407846,
+    "lat":48.4075498966306
+  },
+  {
+    "id":743,
+    "northing":5361662.245,
+    "easting":473294.61,
+    "type":"Litter Can - Parks",
+    "lng":-123.360854447578,
+    "lat":48.407550159778
+  },
+  {
+    "id":744,
+    "northing":5361756.147,
+    "easting":473188.317,
+    "type":"Litter Can - Parks",
+    "lng":-123.36229670105,
+    "lat":48.408390442183
+  },
+  {
+    "id":745,
+    "northing":5361758.018,
+    "easting":473131.547,
+    "type":"Litter Can - Parks",
+    "lng":-123.363063918518,
+    "lat":48.4084048616879
+  },
+  {
+    "id":746,
+    "northing":5361765.886,
+    "easting":473049.666,
+    "type":"Litter Can - Parks",
+    "lng":-123.364170830049,
+    "lat":48.4084721555007
+  },
+  {
+    "id":747,
+    "northing":5361771.176,
+    "easting":473004.118,
+    "type":"Litter Can - Parks",
+    "lng":-123.364786632443,
+    "lat":48.4085178005315
+  },
+  {
+    "id":748,
+    "northing":5361779.512,
+    "easting":472954.835,
+    "type":"Litter Can - Parks",
+    "lng":-123.365453100931,
+    "lat":48.408590685281
+  },
+  {
+    "id":749,
+    "northing":5361790.785,
+    "easting":472905.526,
+    "type":"Litter Can - Parks",
+    "lng":-123.366120112119,
+    "lat":48.4086899874449
+  },
+  {
+    "id":750,
+    "northing":5361805.889,
+    "easting":472862.905,
+    "type":"Litter Can - Parks",
+    "lng":-123.366697002006,
+    "lat":48.408824038429
+  },
+  {
+    "id":751,
+    "northing":5361688.943,
+    "easting":473024.012,
+    "type":"Litter Can - Parks",
+    "lng":-123.364512529054,
+    "lat":48.4077788474358
+  },
+  {
+    "id":752,
+    "northing":5361688.189,
+    "easting":473023.695,
+    "type":"Litter Can - Parks",
+    "lng":-123.36451676392,
+    "lat":48.4077720505727
+  },
+  {
+    "id":753,
+    "northing":5361826.751,
+    "easting":472504.585,
+    "type":"Litter Can - Parks",
+    "lng":-123.371540154452,
+    "lat":48.4089962197463
+  },
+  {
+    "id":754,
+    "northing":5361973.928,
+    "easting":472299.348,
+    "type":"Litter Can - Parks",
+    "lng":-123.374323126166,
+    "lat":48.4103112958426
+  },
+  {
+    "id":755,
+    "northing":5361999.061,
+    "easting":472263.962,
+    "type":"Litter Can - Parks",
+    "lng":-123.374802951897,
+    "lat":48.410535846227
+  },
+  {
+    "id":756,
+    "northing":5361869.142,
+    "easting":472211.822,
+    "type":"Litter Can - Parks",
+    "lng":-123.375498912576,
+    "lat":48.4093647491526
+  },
+  {
+    "id":757,
+    "northing":5362123.317,
+    "easting":472040.352,
+    "type":"Litter Can - Parks",
+    "lng":-123.37783284504,
+    "lat":48.41164382674
+  },
+  {
+    "id":758,
+    "northing":5361955.769,
+    "easting":472992.447,
+    "type":"Litter Can - Parks",
+    "lng":-123.364956203869,
+    "lat":48.4101779706784
+  },
+  {
+    "id":759,
+    "northing":5361934.337,
+    "easting":473026.236,
+    "type":"Litter Can - Parks",
+    "lng":-123.364498241767,
+    "lat":48.4099866054674
+  },
+  {
+    "id":760,
+    "northing":5362173.644,
+    "easting":473061.145,
+    "type":"Litter Can - Parks",
+    "lng":-123.364041870525,
+    "lat":48.4121409916069
+  },
+  {
+    "id":761,
+    "northing":5362143.241,
+    "easting":473099.024,
+    "type":"Litter Can - Parks",
+    "lng":-123.36352804974,
+    "lat":48.4118690896541
+  },
+  {
+    "id":762,
+    "northing":5362219.606,
+    "easting":473117.679,
+    "type":"Litter Can - Parks",
+    "lng":-123.363280846285,
+    "lat":48.4125568924887
+  },
+  {
+    "id":763,
+    "northing":5362190.304,
+    "easting":473138.278,
+    "type":"Litter Can - Parks",
+    "lng":-123.363000607555,
+    "lat":48.4122941573216
+  },
+  {
+    "id":764,
+    "northing":5362255.248,
+    "easting":473085.282,
+    "type":"Litter Can - Parks",
+    "lng":-123.363720928491,
+    "lat":48.4128761606562
+  },
+  {
+    "id":765,
+    "northing":5363403.659,
+    "easting":473400.309,
+    "type":"Litter Can - Parks",
+    "lng":-123.359536616327,
+    "lat":48.4232210618824
+  },
+  {
+    "id":766,
+    "northing":5363348.063,
+    "easting":473386.984,
+    "type":"Litter Can - Parks",
+    "lng":-123.359713190967,
+    "lat":48.4227203374923
+  },
+  {
+    "id":767,
+    "northing":5363338.816,
+    "easting":473450.5,
+    "type":"Litter Can - Parks",
+    "lng":-123.358854110972,
+    "lat":48.4226398256506
+  },
+  {
+    "id":768,
+    "northing":5362064.131,
+    "easting":475524.325,
+    "type":"Litter Can - Parks",
+    "lng":-123.330749428581,
+    "lat":48.4112562863999
+  },
+  {
+    "id":769,
+    "northing":5362078.203,
+    "easting":475564.57,
+    "type":"Litter Can - Parks",
+    "lng":-123.330206409144,
+    "lat":48.4113844483159
+  },
+  {
+    "id":770,
+    "northing":5362155.797,
+    "easting":475726.117,
+    "type":"Litter Can - Parks",
+    "lng":-123.32802787362,
+    "lat":48.4120887694717
+  },
+  {
+    "id":771,
+    "northing":5362094.347,
+    "easting":475835.698,
+    "type":"Litter Can - Parks",
+    "lng":-123.326543520417,
+    "lat":48.4115401588528
+  },
+  {
+    "id":772,
+    "northing":5365157.715,
+    "easting":471277.527,
+    "type":"Litter Can - Parks",
+    "lng":-123.388348927162,
+    "lat":48.4389080437107
+  },
+  {
+    "id":773,
+    "northing":5365157.893,
+    "easting":471276.931,
+    "type":"Litter Can - Parks",
+    "lng":-123.388356997539,
+    "lat":48.4389096178806
+  },
+  {
+    "id":774,
+    "northing":5364990.214,
+    "easting":471355.487,
+    "type":"Litter Can - Parks",
+    "lng":-123.38728342113,
+    "lat":48.4374046979637
+  },
+  {
+    "id":775,
+    "northing":5364955.203,
+    "easting":471270.915,
+    "type":"Litter Can - Parks",
+    "lng":-123.388424436488,
+    "lat":48.4370858774519
+  },
+  {
+    "id":776,
+    "northing":5365000.63,
+    "easting":471258.358,
+    "type":"Litter Can - Parks",
+    "lng":-123.38859732208,
+    "lat":48.4374939801545
+  },
+  {
+    "id":777,
+    "northing":5364688.154,
+    "easting":470873.234,
+    "type":"Litter Can - Parks",
+    "lng":-123.39378249663,
+    "lat":48.4346651593255
+  },
+  {
+    "id":778,
+    "northing":5364201.997,
+    "easting":470874.384,
+    "type":"Litter Can - Parks",
+    "lng":-123.393733165829,
+    "lat":48.4302915962829
+  },
+  {
+    "id":779,
+    "northing":5364186.101,
+    "easting":470904.715,
+    "type":"Litter Can - Parks",
+    "lng":-123.393322045194,
+    "lat":48.4301499929173
+  },
+  {
+    "id":780,
+    "northing":5364209.617,
+    "easting":470920.616,
+    "type":"Litter Can - Parks",
+    "lng":-123.393108725852,
+    "lat":48.4303622843706
+  },
+  {
+    "id":781,
+    "northing":5364076.524,
+    "easting":475969.772,
+    "type":"Litter Can - Parks",
+    "lng":-123.3248453457,
+    "lat":48.4293776710135
+  },
+  {
+    "id":782,
+    "northing":5364044.784,
+    "easting":475971.851,
+    "type":"Litter Can - Parks",
+    "lng":-123.324815423772,
+    "lat":48.4290922060836
+  },
+  {
+    "id":783,
+    "northing":5364039.224,
+    "easting":475339.667,
+    "type":"Litter Can - Parks",
+    "lng":-123.333360924992,
+    "lat":48.4290177581927
+  },
+  {
+    "id":784,
+    "northing":5363815.931,
+    "easting":474894.886,
+    "type":"Litter Can - Parks",
+    "lng":-123.339360077753,
+    "lat":48.4269913553989
+  },
+  {
+    "id":785,
+    "northing":5363869.684,
+    "easting":474896.102,
+    "type":"Litter Can - Parks",
+    "lng":-123.33934685988,
+    "lat":48.4274749858277
+  },
+  {
+    "id":786,
+    "northing":5365742.617,
+    "easting":473223.332,
+    "type":"Litter Can - Parks",
+    "lng":-123.362078073984,
+    "lat":48.444255681302
+  },
+  {
+    "id":787,
+    "northing":5365905.715,
+    "easting":473145.544,
+    "type":"Litter Can - Parks",
+    "lng":-123.363140369879,
+    "lat":48.4457196568146
+  },
+  {
+    "id":788,
+    "northing":5365873.835,
+    "easting":473047.812,
+    "type":"Litter Can - Parks",
+    "lng":-123.364459879026,
+    "lat":48.4454286778051
+  },
+  {
+    "id":789,
+    "northing":5365869.964,
+    "easting":473023.898,
+    "type":"Litter Can - Parks",
+    "lng":-123.36478299993,
+    "lat":48.4453928290083
+  },
+  {
+    "id":790,
+    "northing":5365866.097,
+    "easting":473006.176,
+    "type":"Litter Can - Parks",
+    "lng":-123.365022391264,
+    "lat":48.445357280769
+  },
+  {
+    "id":791,
+    "northing":5365727.594,
+    "easting":473067.995,
+    "type":"Litter Can - Parks",
+    "lng":-123.364177561643,
+    "lat":48.444113907649
+  },
+  {
+    "id":792,
+    "northing":5365708.723,
+    "easting":473072.15,
+    "type":"Litter Can - Parks",
+    "lng":-123.364120165638,
+    "lat":48.4439443153041
+  },
+  {
+    "id":793,
+    "northing":5365537.583,
+    "easting":473109.492,
+    "type":"Litter Can - Parks",
+    "lng":-123.363604250962,
+    "lat":48.4424062752916
+  },
+  {
+    "id":794,
+    "northing":5365669.474,
+    "easting":473229.582,
+    "type":"Litter Can - Parks",
+    "lng":-123.361988888563,
+    "lat":48.4435979262109
+  },
+  {
+    "id":795,
+    "northing":5365758.446,
+    "easting":473156.37,
+    "type":"Litter Can - Parks",
+    "lng":-123.362984541845,
+    "lat":48.4443952349057
+  },
+  {
+    "id":796,
+    "northing":5366110.163,
+    "easting":472996.555,
+    "type":"Litter Can - Parks",
+    "lng":-123.365168223968,
+    "lat":48.4475525683357
+  },
+  {
+    "id":797,
+    "northing":5365836.724,
+    "easting":472063.081,
+    "type":"Litter Can - Parks",
+    "lng":-123.377773143394,
+    "lat":48.4450519338731
+  },
+  {
+    "id":798,
+    "northing":5365816.625,
+    "easting":472047.702,
+    "type":"Litter Can - Parks",
+    "lng":-123.377979758796,
+    "lat":48.4448704346453
+  },
+  {
+    "id":799,
+    "northing":5365799.822,
+    "easting":472035.184,
+    "type":"Litter Can - Parks",
+    "lng":-123.378147906256,
+    "lat":48.4447187139387
+  },
+  {
+    "id":800,
+    "northing":5365774.991,
+    "easting":472022.541,
+    "type":"Litter Can - Parks",
+    "lng":-123.378317206829,
+    "lat":48.4444947649577
+  },
+  {
+    "id":801,
+    "northing":5365828.052,
+    "easting":471969.248,
+    "type":"Litter Can - Parks",
+    "lng":-123.379041382595,
+    "lat":48.4449697502579
+  },
+  {
+    "id":802,
+    "northing":5365878.47,
+    "easting":472029.922,
+    "type":"Litter Can - Parks",
+    "lng":-123.37822431003,
+    "lat":48.4454260232723
+  },
+  {
+    "id":803,
+    "northing":5362360.161,
+    "easting":475187.989,
+    "type":"Litter Can - Parks",
+    "lng":-123.335311934301,
+    "lat":48.413906314085
+  },
+  {
+    "id":804,
+    "northing":5362232.357,
+    "easting":475184.404,
+    "type":"Litter Can - Parks",
+    "lng":-123.335352811817,
+    "lat":48.4127563994245
+  },
+  {
+    "id":805,
+    "northing":5362226.74,
+    "easting":474395.237,
+    "type":"Litter Can - Parks",
+    "lng":-123.346016973928,
+    "lat":48.4126742360993
+  },
+  {
+    "id":806,
+    "northing":5362439.561,
+    "easting":474577.446,
+    "type":"Litter Can - Parks",
+    "lng":-123.343567576808,
+    "lat":48.4145962505563
+  },
+  {
+    "id":807,
+    "northing":5362358.779,
+    "easting":474631.662,
+    "type":"Litter Can - Parks",
+    "lng":-123.342830007666,
+    "lat":48.413871690977
+  },
+  {
+    "id":808,
+    "northing":5362375.215,
+    "easting":474444.313,
+    "type":"Litter Can - Parks",
+    "lng":-123.345362828706,
+    "lat":48.4140119741908
+  },
+  {
+    "id":809,
+    "northing":5362867.636,
+    "easting":475654.232,
+    "type":"Litter Can - Parks",
+    "lng":-123.329040642203,
+    "lat":48.418489957253
+  },
+  {
+    "id":810,
+    "northing":5364878.418,
+    "easting":471859.083,
+    "type":"Litter Can - Parks",
+    "lng":-123.380467270521,
+    "lat":48.4364216286441
+  },
+  {
+    "id":811,
+    "northing":5364912.809,
+    "easting":471802.714,
+    "type":"Litter Can - Parks",
+    "lng":-123.381231682377,
+    "lat":48.436728503346
+  },
+  {
+    "id":812,
+    "northing":5364846.992,
+    "easting":471267.759,
+    "type":"Litter Can - Parks",
+    "lng":-123.388459686263,
+    "lat":48.4361122336386
+  },
+  {
+    "id":813,
+    "northing":5365501.847,
+    "easting":470957.107,
+    "type":"Litter Can - Parks",
+    "lng":-123.392705000105,
+    "lat":48.4419892708179
+  },
+  {
+    "id":814,
+    "northing":5364113.315,
+    "easting":471115.177,
+    "type":"Litter Can - Parks",
+    "lng":-123.390471991717,
+    "lat":48.4295048731846
+  },
+  {
+    "id":815,
+    "northing":5363940.656,
+    "easting":471286.511,
+    "type":"Litter Can - Parks",
+    "lng":-123.388144085959,
+    "lat":48.4279594024525
+  },
+  {
+    "id":816,
+    "northing":5363944.185,
+    "easting":471262.064,
+    "type":"Litter Can - Parks",
+    "lng":-123.388474790052,
+    "lat":48.427990036042
+  },
+  {
+    "id":817,
+    "northing":5363949.437,
+    "easting":471327.02,
+    "type":"Litter Can - Parks",
+    "lng":-123.387597106755,
+    "lat":48.4280402443819
+  },
+  {
+    "id":818,
+    "northing":5364060.287,
+    "easting":471847.968,
+    "type":"Litter Can - Parks",
+    "lng":-123.380562624503,
+    "lat":48.4290609656035
+  },
+  {
+    "id":819,
+    "northing":5363287.157,
+    "easting":472292.756,
+    "type":"Litter Can - Parks",
+    "lng":-123.374498916888,
+    "lat":48.4221252877979
+  },
+  {
+    "id":820,
+    "northing":5363266.448,
+    "easting":472320.187,
+    "type":"Litter Can - Parks",
+    "lng":-123.374126787322,
+    "lat":48.4219401836467
+  },
+  {
+    "id":821,
+    "northing":5363454.83,
+    "easting":472179.979,
+    "type":"Litter Can - Parks",
+    "lng":-123.376034368279,
+    "lat":48.4236287837867
+  },
+  {
+    "id":822,
+    "northing":5363443.069,
+    "easting":472033.363,
+    "type":"Litter Can - Parks",
+    "lng":-123.378015295504,
+    "lat":48.4235164909976
+  },
+  {
+    "id":823,
+    "northing":5363364.723,
+    "easting":472228.364,
+    "type":"Litter Can - Parks",
+    "lng":-123.375374393696,
+    "lat":48.422820275586
+  },
+  {
+    "id":824,
+    "northing":5363310.247,
+    "easting":472071.25,
+    "type":"Litter Can - Parks",
+    "lng":-123.37749433137,
+    "lat":48.4223232485072
+  },
+  {
+    "id":825,
+    "northing":5363279.491,
+    "easting":471577.927,
+    "type":"Litter Can - Parks",
+    "lng":-123.384160001457,
+    "lat":48.422024504807
+  },
+  {
+    "id":826,
+    "northing":5363309.815,
+    "easting":471625.212,
+    "type":"Litter Can - Parks",
+    "lng":-123.383522954512,
+    "lat":48.4222994421286
+  },
+  {
+    "id":827,
+    "northing":5363314.297,
+    "easting":471643.126,
+    "type":"Litter Can - Parks",
+    "lng":-123.383281132031,
+    "lat":48.4223405701345
+  },
+  {
+    "id":828,
+    "northing":5363263.373,
+    "easting":471716.822,
+    "type":"Litter Can - Parks",
+    "lng":-123.382281615153,
+    "lat":48.4218857486222
+  },
+  {
+    "id":829,
+    "northing":5363178.798,
+    "easting":471718.921,
+    "type":"Litter Can - Parks",
+    "lng":-123.382247530493,
+    "lat":48.421124971371
+  },
+  {
+    "id":830,
+    "northing":5362098.125,
+    "easting":474868.737,
+    "type":"Litter Can - Parks",
+    "lng":-123.339610574066,
+    "lat":48.4115362592355
+  },
+  {
+    "id":831,
+    "northing":5362123.297,
+    "easting":474900.519,
+    "type":"Litter Can - Parks",
+    "lng":-123.339182600574,
+    "lat":48.4117639878322
+  },
+  {
+    "id":832,
+    "northing":5362029.065,
+    "easting":474894.063,
+    "type":"Litter Can - Parks",
+    "lng":-123.339264203194,
+    "lat":48.4109159784228
+  },
+  {
+    "id":833,
+    "northing":5362793.327,
+    "easting":471737.194,
+    "type":"Litter Can - Parks",
+    "lng":-123.381974589394,
+    "lat":48.4176579600435
+  },
+  {
+    "id":834,
+    "northing":5362803.126,
+    "easting":471754.883,
+    "type":"Litter Can - Parks",
+    "lng":-123.381736185995,
+    "lat":48.4177469081181
+  },
+  {
+    "id":835,
+    "northing":5362818.129,
+    "easting":471769.221,
+    "type":"Litter Can - Parks",
+    "lng":-123.38154342,
+    "lat":48.4178825226112
+  },
+  {
+    "id":836,
+    "northing":5362831.859,
+    "easting":471779.166,
+    "type":"Litter Can - Parks",
+    "lng":-123.381409938205,
+    "lat":48.4180064877703
+  },
+  {
+    "id":837,
+    "northing":5362844.34,
+    "easting":471784.55,
+    "type":"Litter Can - Parks",
+    "lng":-123.381338013264,
+    "lat":48.418119012189
+  },
+  {
+    "id":838,
+    "northing":5362782.49,
+    "easting":471707.723,
+    "type":"Litter Can - Parks",
+    "lng":-123.382372152783,
+    "lat":48.4175591445594
+  },
+  {
+    "id":839,
+    "northing":5362790.054,
+    "easting":471656.097,
+    "type":"Litter Can - Parks",
+    "lng":-123.383070376171,
+    "lat":48.4176248735699
+  },
+  {
+    "id":840,
+    "northing":5362304.276,
+    "easting":472069.903,
+    "type":"Litter Can - Parks",
+    "lng":-123.377445558999,
+    "lat":48.413273111394
+  },
+  {
+    "id":841,
+    "northing":5362257.585,
+    "easting":473943.947,
+    "type":"Litter Can - Parks",
+    "lng":-123.352117419814,
+    "lat":48.4129332130654
+  },
+  {
+    "id":842,
+    "northing":5364300.577,
+    "easting":474312.164,
+    "type":"Litter Can - Parks",
+    "lng":-123.34726664288,
+    "lat":48.431327911113
+  },
+  {
+    "id":843,
+    "northing":5364289.563,
+    "easting":474285.22,
+    "type":"Litter Can - Parks",
+    "lng":-123.347630211246,
+    "lat":48.4312277255953
+  },
+  {
+    "id":844,
+    "northing":5364543.838,
+    "easting":474082.396,
+    "type":"Litter Can - Parks",
+    "lng":-123.350387806853,
+    "lat":48.4335069602274
+  },
+  {
+    "id":845,
+    "northing":5364400.904,
+    "easting":473686.537,
+    "type":"Litter Can - Parks",
+    "lng":-123.355730478473,
+    "lat":48.432204659682
+  },
+  {
+    "id":846,
+    "northing":5364475.796,
+    "easting":473698.093,
+    "type":"Litter Can - Parks",
+    "lng":-123.355578954637,
+    "lat":48.43287889769
+  },
+  {
+    "id":847,
+    "northing":5364449.36,
+    "easting":473581.19,
+    "type":"Litter Can - Parks",
+    "lng":-123.357157688013,
+    "lat":48.4326361777158
+  },
+  {
+    "id":848,
+    "northing":5364452.501,
+    "easting":473506.436,
+    "type":"Litter Can - Parks",
+    "lng":-123.358168472959,
+    "lat":48.4326612955622
+  },
+  {
+    "id":849,
+    "northing":5364612.331,
+    "easting":474621.728,
+    "type":"Litter Can - Parks",
+    "lng":-123.343100668805,
+    "lat":48.4341451175604
+  },
+  {
+    "id":850,
+    "northing":5364561.218,
+    "easting":474572.433,
+    "type":"Litter Can - Parks",
+    "lng":-123.34376400263,
+    "lat":48.4336832964247
+  },
+  {
+    "id":851,
+    "northing":5364773.523,
+    "easting":474134.933,
+    "type":"Litter Can - Parks",
+    "lng":-123.349691716806,
+    "lat":48.4355754533737
+  },
+  {
+    "id":852,
+    "northing":5364916.608,
+    "easting":473913.159,
+    "type":"Litter Can - Parks",
+    "lng":-123.352698908784,
+    "lat":48.4368535526237
+  },
+  {
+    "id":853,
+    "northing":5361895.083,
+    "easting":474392.717,
+    "type":"Litter Can - Parks",
+    "lng":-123.346030764961,
+    "lat":48.4096903825147
+  },
+  {
+    "id":854,
+    "northing":5364027.022,
+    "easting":474106.957,
+    "type":"Litter Can - Parks",
+    "lng":-123.350023854077,
+    "lat":48.4288585072985
+  },
+  {
+    "id":855,
+    "northing":5364301.876,
+    "easting":474445.596,
+    "type":"Litter Can - Parks",
+    "lng":-123.345462915086,
+    "lat":48.4313450261233
+  },
+  {
+    "id":856,
+    "northing":5364207.166,
+    "easting":474064.984,
+    "type":"Litter Can - Parks",
+    "lng":-123.350602379049,
+    "lat":48.4304774210586
+  },
+  {
+    "id":857,
+    "northing":5365307.371,
+    "easting":474350.2,
+    "type":"Litter Can - Parks",
+    "lng":-123.346814043973,
+    "lat":48.440386962802
+  },
+  {
+    "id":858,
+    "northing":5366144.776,
+    "easting":474855.909,
+    "type":"Litter Can - Parks",
+    "lng":-123.340026689684,
+    "lat":48.4479409866614
+  },
+  {
+    "id":859,
+    "northing":5366164.895,
+    "easting":473932.267,
+    "type":"Litter Can - Parks",
+    "lng":-123.352518233012,
+    "lat":48.4480843981287
+  },
+  {
+    "id":860,
+    "northing":5365880.378,
+    "easting":474483.731,
+    "type":"Litter Can - Parks",
+    "lng":-123.345043499511,
+    "lat":48.4455473794235
+  },
+  {
+    "id":861,
+    "northing":5365834.071,
+    "easting":474511.688,
+    "type":"Litter Can - Parks",
+    "lng":-123.344662638411,
+    "lat":48.4451319178349
+  },
+  {
+    "id":862,
+    "northing":5365792.604,
+    "easting":474518.134,
+    "type":"Litter Can - Parks",
+    "lng":-123.34457295074,
+    "lat":48.4447591262753
+  },
+  {
+    "id":863,
+    "northing":5365871.366,
+    "easting":474468.928,
+    "type":"Litter Can - Parks",
+    "lng":-123.345243119923,
+    "lat":48.4454657034003
+  },
+  {
+    "id":864,
+    "northing":5365060.568,
+    "easting":475178.263,
+    "type":"Litter Can - Parks",
+    "lng":-123.335603263954,
+    "lat":48.4381998207722
+  },
+  {
+    "id":865,
+    "northing":5365229.659,
+    "easting":475126.9,
+    "type":"Litter Can - Parks",
+    "lng":-123.336307744541,
+    "lat":48.4397190057384
+  },
+  {
+    "id":866,
+    "northing":5365108.418,
+    "easting":475107.596,
+    "type":"Litter Can - Parks",
+    "lng":-123.336561547135,
+    "lat":48.4386275091939
+  },
+  {
+    "id":867,
+    "northing":5365062.628,
+    "easting":475100.61,
+    "type":"Litter Can - Parks",
+    "lng":-123.336653280336,
+    "lat":48.4382152873666
+  },
+  {
+    "id":868,
+    "northing":5364968.513,
+    "easting":473417.315,
+    "type":"Litter Can - Parks",
+    "lng":-123.359405982333,
+    "lat":48.437299778744
+  },
+  {
+    "id":869,
+    "northing":5365635.58,
+    "easting":472363.764,
+    "type":"Litter Can - Parks",
+    "lng":-123.373694010484,
+    "lat":48.4432556333543
+  },
+  {
+    "id":870,
+    "northing":5365875.546,
+    "easting":471936.901,
+    "type":"Litter Can - Parks",
+    "lng":-123.379481964056,
+    "lat":48.4453955822664
+  },
+  {
+    "id":871,
+    "northing":5364603.719,
+    "easting":471925.932,
+    "type":"Litter Can - Parks",
+    "lng":-123.379545089523,
+    "lat":48.4339533336763
+  },
+  {
+    "id":872,
+    "northing":5364513.402,
+    "easting":472035.626,
+    "type":"Litter Can - Parks",
+    "lng":-123.378056098692,
+    "lat":48.4331456854569
+  },
+  {
+    "id":873,
+    "northing":5365382.504,
+    "easting":474060.766,
+    "type":"Litter Can - Parks",
+    "lng":-123.350732095359,
+    "lat":48.441051024891
+  },
+  {
+    "id":874,
+    "northing":5365728.209,
+    "easting":473794.04,
+    "type":"Litter Can - Parks",
+    "lng":-123.354360131839,
+    "lat":48.4441500676801
+  },
+  {
+    "id":875,
+    "northing":5365790.486,
+    "easting":473837.51,
+    "type":"Litter Can - Parks",
+    "lng":-123.353776228522,
+    "lat":48.444712144273
+  },
+  {
+    "id":876,
+    "northing":5365743.568,
+    "easting":473974.651,
+    "type":"Litter Can - Parks",
+    "lng":-123.351918894241,
+    "lat":48.444295737103
+  },
+  {
+    "id":877,
+    "northing":5365875.061,
+    "easting":473725.041,
+    "type":"Litter Can - Parks",
+    "lng":-123.355302336644,
+    "lat":48.4454683292826
+  },
+  {
+    "id":878,
+    "northing":5366298.389,
+    "easting":473490.773,
+    "type":"Litter Can - Parks",
+    "lng":-123.358496949484,
+    "lat":48.4492669157507
+  },
+  {
+    "id":879,
+    "northing":5362678.362,
+    "easting":472348.491,
+    "type":"Litter Can - Parks",
+    "lng":-123.373705464526,
+    "lat":48.4166507928891
+  },
+  {
+    "id":880,
+    "northing":5365813.464,
+    "easting":471492.793,
+    "type":"Litter Can - Parks",
+    "lng":-123.385483065567,
+    "lat":48.4448171477094
+  },
+  {
+    "id":881,
+    "northing":5364366.887,
+    "easting":471941.701,
+    "type":"Litter Can - Parks",
+    "lng":-123.379316064287,
+    "lat":48.4318234185236
+  },
+  {
+    "id":882,
+    "northing":5364370.776,
+    "easting":471911.784,
+    "type":"Litter Can - Parks",
+    "lng":-123.379720759255,
+    "lat":48.4318570733477
+  },
+  {
+    "id":883,
+    "northing":5364376.979,
+    "easting":471889.166,
+    "type":"Litter Can - Parks",
+    "lng":-123.38002693776,
+    "lat":48.4319118696777
+  },
+  {
+    "id":884,
+    "northing":5363988.257,
+    "easting":471447.511,
+    "type":"Litter Can - Parks",
+    "lng":-123.385971011501,
+    "lat":48.4283949523253
+  },
+  {
+    "id":885,
+    "northing":5363928.429,
+    "easting":473819.467,
+    "type":"Litter Can - Parks",
+    "lng":-123.353903927275,
+    "lat":48.4279596415439
+  },
+  {
+    "id":886,
+    "northing":5365450.914,
+    "easting":471873.021,
+    "type":"Litter Can - Parks",
+    "lng":-123.380317255562,
+    "lat":48.4415726075243
+  },
+  {
+    "id":887,
+    "northing":5365515.119,
+    "easting":471901.508,
+    "type":"Litter Can - Parks",
+    "lng":-123.379936382482,
+    "lat":48.4421514874491
+  },
+  {
+    "id":888,
+    "northing":5365569.876,
+    "easting":471970.983,
+    "type":"Litter Can - Parks",
+    "lng":-123.37900064893,
+    "lat":48.4426471927613
+  },
+  {
+    "id":889,
+    "northing":5365504.756,
+    "easting":471720.458,
+    "type":"Litter Can - Parks",
+    "lng":-123.382383726733,
+    "lat":48.4420501606036
+  },
+  {
+    "id":890,
+    "northing":5365488.61,
+    "easting":472225.716,
+    "type":"Litter Can - Parks",
+    "lng":-123.375550901125,
+    "lat":48.4419273732061
+  },
+  {
+    "id":891,
+    "northing":5365393.256,
+    "easting":474912.07,
+    "type":"Litter Can - Parks",
+    "lng":-123.339222199068,
+    "lat":48.4411822651124
+  },
+  {
+    "id":892,
+    "northing":5365225.071,
+    "easting":475159.524,
+    "type":"Litter Can - Parks",
+    "lng":-123.335866371928,
+    "lat":48.439679018301
+  },
+  {
+    "id":893,
+    "northing":5365207.06,
+    "easting":475148.797,
+    "type":"Litter Can - Parks",
+    "lng":-123.336010340728,
+    "lat":48.4395165606303
+  },
+  {
+    "id":894,
+    "northing":5365036.123,
+    "easting":475137.863,
+    "type":"Litter Can - Parks",
+    "lng":-123.336148035058,
+    "lat":48.4379783095617
+  },
+  {
+    "id":895,
+    "northing":5364940.775,
+    "easting":471669.854,
+    "type":"Litter Can - Parks",
+    "lng":-123.383029825951,
+    "lat":48.4369741417134
+  },
+  {
+    "id":896,
+    "northing":5365030.095,
+    "easting":471638.833,
+    "type":"Litter Can - Parks",
+    "lng":-123.383455273561,
+    "lat":48.4377762980131
+  },
+  {
+    "id":897,
+    "northing":5364922.985,
+    "easting":473390.359,
+    "type":"Litter Can - Parks",
+    "lng":-123.359767540864,
+    "lat":48.4368890545106
+  },
+  {
+    "id":898,
+    "northing":5365627.449,
+    "easting":473240.147,
+    "type":"Litter Can - Parks",
+    "lng":-123.361843347581,
+    "lat":48.4432203029497
+  },
+  {
+    "id":899,
+    "northing":5364567.222,
+    "easting":473629.553,
+    "type":"Litter Can - Parks",
+    "lng":-123.356511287959,
+    "lat":48.4336985339862
+  },
+  {
+    "id":900,
+    "northing":5364490.035,
+    "easting":473531.183,
+    "type":"Litter Can - Parks",
+    "lng":-123.357836291862,
+    "lat":48.4330000053232
+  },
+  {
+    "id":901,
+    "northing":5364404.695,
+    "easting":473624.253,
+    "type":"Litter Can - Parks",
+    "lng":-123.356572716778,
+    "lat":48.4322361599309
+  },
+  {
+    "id":902,
+    "northing":5363811.957,
+    "easting":473915.527,
+    "type":"Litter Can - Parks",
+    "lng":-123.352598180042,
+    "lat":48.4269158019602
+  },
+  {
+    "id":903,
+    "northing":5363825.53,
+    "easting":473804.491,
+    "type":"Litter Can - Parks",
+    "lng":-123.354099933933,
+    "lat":48.4270333009941
+  },
+  {
+    "id":904,
+    "northing":5363396.57,
+    "easting":473457.776,
+    "type":"Litter Can - Parks",
+    "lng":-123.358759424868,
+    "lat":48.4231597083122
+  },
+  {
+    "id":905,
+    "northing":5363878.631,
+    "easting":474789.863,
+    "type":"Litter Can - Parks",
+    "lng":-123.340783483154,
+    "lat":48.427551232295
+  },
+  {
+    "id":906,
+    "northing":5361848.178,
+    "easting":474527.346,
+    "type":"Litter Can - Parks",
+    "lng":-123.34420870549,
+    "lat":48.4092738729713
+  },
+  {
+    "id":907,
+    "northing":5362326.837,
+    "easting":475275.377,
+    "type":"Litter Can - Parks",
+    "lng":-123.334129011557,
+    "lat":48.4136099573536
+  },
+  {
+    "id":908,
+    "northing":5362284.841,
+    "easting":475248.527,
+    "type":"Litter Can - Parks",
+    "lng":-123.334489377503,
+    "lat":48.4132310900794
+  },
+  {
+    "id":909,
+    "northing":5362957.549,
+    "easting":475739.936,
+    "type":"Litter Can - Parks",
+    "lng":-123.327887542957,
+    "lat":48.4193021538053
+  },
+  {
+    "id":910,
+    "northing":5362997.408,
+    "easting":475813.893,
+    "type":"Litter Can - Parks",
+    "lng":-123.326890285907,
+    "lat":48.4196635837732
+  },
+  {
+    "id":911,
+    "northing":5362426.323,
+    "easting":474468.924,
+    "type":"Litter Can - Parks",
+    "lng":-123.345033348562,
+    "lat":48.4144727619618
+  },
+  {
+    "id":912,
+    "northing":5363551.8,
+    "easting":475202.558,
+    "type":"Litter Can - Parks",
+    "lng":-123.335185528952,
+    "lat":48.4246273255627
+  },
+  {
+    "id":913,
+    "northing":5363070.64,
+    "easting":473013.471,
+    "type":"Litter Can - Parks",
+    "lng":-123.364743793969,
+    "lat":48.4202086545705
+  },
+  {
+    "id":914,
+    "northing":5362838.355,
+    "easting":471871.872,
+    "type":"Litter Can - Parks",
+    "lng":-123.380157463541,
+    "lat":48.418069071926
+  },
+  {
+    "id":915,
+    "northing":5362662.006,
+    "easting":471829.468,
+    "type":"Litter Can - Parks",
+    "lng":-123.380718712276,
+    "lat":48.4164806811438
+  },
+  {
+    "id":916,
+    "northing":5362037.987,
+    "easting":472754.289,
+    "type":"Litter Can - Parks",
+    "lng":-123.3681797307,
+    "lat":48.4109074039836
+  },
+  {
+    "id":917,
+    "northing":5362053.079,
+    "easting":472758.689,
+    "type":"Litter Can - Parks",
+    "lng":-123.368121252351,
+    "lat":48.4110433671324
+  },
+  {
+    "id":918,
+    "northing":5362215.371,
+    "easting":472861.968,
+    "type":"Litter Can - Parks",
+    "lng":-123.366736122696,
+    "lat":48.4125078543688
+  },
+  {
+    "id":919,
+    "northing":5362220.433,
+    "easting":472816.338,
+    "type":"Litter Can - Parks",
+    "lng":-123.36735307035,
+    "lat":48.4125514311938
+  },
+  {
+    "id":920,
+    "northing":5362784.347,
+    "easting":473067.91,
+    "type":"Litter Can - Parks",
+    "lng":-123.363989641157,
+    "lat":48.4176353898764
+  },
+  {
+    "id":921,
+    "northing":5362623.497,
+    "easting":473159.923,
+    "type":"Litter Can - Parks",
+    "lng":-123.362735808208,
+    "lat":48.4161922417013
+  },
+  {
+    "id":922,
+    "northing":5362759.495,
+    "easting":473188.212,
+    "type":"Litter Can - Parks",
+    "lng":-123.36236218944,
+    "lat":48.4174169336339
+  },
+  {
+    "id":923,
+    "northing":5362035.948,
+    "easting":474997.167,
+    "type":"Litter Can - Parks",
+    "lng":-123.337871354899,
+    "lat":48.4109820136215
+  },
+  {
+    "id":924,
+    "northing":5362025.938,
+    "easting":474712.86,
+    "type":"Litter Can - Parks",
+    "lng":-123.341712635016,
+    "lat":48.4108805773989
+  },
+  {
+    "id":925,
+    "northing":5362103.874,
+    "easting":474702.093,
+    "type":"Litter Can - Parks",
+    "lng":-123.34186283028,
+    "lat":48.4115812923514
+  },
+  {
+    "id":926,
+    "northing":5362064.196,
+    "easting":474814.043,
+    "type":"Litter Can - Parks",
+    "lng":-123.340347633354,
+    "lat":48.4112288287405
+  },
+  {
+    "id":927,
+    "northing":5362084.249,
+    "easting":474670.206,
+    "type":"Litter Can - Parks",
+    "lng":-123.342292544031,
+    "lat":48.4114034532042
+  },
+  {
+    "id":928,
+    "northing":5361945.663,
+    "easting":474614.718,
+    "type":"Litter Can - Parks",
+    "lng":-123.343033979304,
+    "lat":48.4101544304292
+  },
+  {
+    "id":929,
+    "northing":5361999.54,
+    "easting":474541.929,
+    "type":"Litter Can - Parks",
+    "lng":-123.344020840352,
+    "lat":48.4106361899387
+  },
+  {
+    "id":930,
+    "northing":5362000.743,
+    "easting":474609.993,
+    "type":"Litter Can - Parks",
+    "lng":-123.343101162153,
+    "lat":48.4106497653825
+  },
+  {
+    "id":931,
+    "northing":5362363.467,
+    "easting":473299.905,
+    "type":"Litter Can - Parks",
+    "lng":-123.360827481241,
+    "lat":48.4138588496344
+  },
+  {
+    "id":932,
+    "northing":5362658.831,
+    "easting":473304.12,
+    "type":"Litter Can - Parks",
+    "lng":-123.360789308378,
+    "lat":48.4165162347473
+  },
+  {
+    "id":933,
+    "northing":5362068.167,
+    "easting":473192.417,
+    "type":"Litter Can - Parks",
+    "lng":-123.362261209175,
+    "lat":48.4111976670227
+  },
+  {
+    "id":934,
+    "northing":5362179.192,
+    "easting":473186.806,
+    "type":"Litter Can - Parks",
+    "lng":-123.362344117995,
+    "lat":48.4121962518367
+  },
+  {
+    "id":935,
+    "northing":5361851.235,
+    "easting":473286.138,
+    "type":"Litter Can - Parks",
+    "lng":-123.360980949314,
+    "lat":48.4092500331734
+  },
+  {
+    "id":936,
+    "northing":5362171.357,
+    "easting":473513.986,
+    "type":"Litter Can - Parks",
+    "lng":-123.357922296185,
+    "lat":48.4121395659527
+  },
+  {
+    "id":937,
+    "northing":5362121.818,
+    "easting":473499.429,
+    "type":"Litter Can - Parks",
+    "lng":-123.358115886425,
+    "lat":48.4116932831604
+  },
+  {
+    "id":938,
+    "northing":5362068.253,
+    "easting":473506.227,
+    "type":"Litter Can - Parks",
+    "lng":-123.358020646271,
+    "lat":48.4112116771538
+  },
+  {
+    "id":939,
+    "northing":5361925.473,
+    "easting":473328.884,
+    "type":"Litter Can - Parks",
+    "lng":-123.360408049948,
+    "lat":48.4099197123126
+  },
+  {
+    "id":940,
+    "northing":5362133.174,
+    "easting":473410.286,
+    "type":"Litter Can - Parks",
+    "lng":-123.359321221213,
+    "lat":48.4117917005072
+  },
+  {
+    "id":941,
+    "northing":5362126.438,
+    "easting":473455.23,
+    "type":"Litter Can - Parks",
+    "lng":-123.358713452317,
+    "lat":48.4117329905842
+  },
+  {
+    "id":942,
+    "northing":5362186.665,
+    "easting":473302.585,
+    "type":"Litter Can - Parks",
+    "lng":-123.360780019832,
+    "lat":48.4122683844159
+  },
+  {
+    "id":943,
+    "northing":5362113.51,
+    "easting":473289.076,
+    "type":"Litter Can - Parks",
+    "lng":-123.360957922283,
+    "lat":48.4116096833532
+  },
+  {
+    "id":944,
+    "northing":5362470.323,
+    "easting":473092.584,
+    "type":"Litter Can - Parks",
+    "lng":-123.363636039415,
+    "lat":48.4148113667433
+  },
+  {
+    "id":945,
+    "northing":5362456.279,
+    "easting":473020.259,
+    "type":"Litter Can - Parks",
+    "lng":-123.364612544181,
+    "lat":48.4146819359943
+  },
+  {
+    "id":946,
+    "northing":5362482.668,
+    "easting":473040.427,
+    "type":"Litter Can - Parks",
+    "lng":-123.364341687476,
+    "lat":48.4149202025179
+  },
+  {
+    "id":947,
+    "northing":5362520.872,
+    "easting":473078.062,
+    "type":"Litter Can - Parks",
+    "lng":-123.363835533602,
+    "lat":48.4152655053049
+  },
+  {
+    "id":948,
+    "northing":5362611.908,
+    "easting":472981.317,
+    "type":"Litter Can - Parks",
+    "lng":-123.365148827901,
+    "lat":48.416080367351
+  },
+  {
+    "id":949,
+    "northing":5362365.395,
+    "easting":473151.544,
+    "type":"Litter Can - Parks",
+    "lng":-123.362832536151,
+    "lat":48.4138699051503
+  },
+  {
+    "id":950,
+    "northing":5362374.926,
+    "easting":473123.682,
+    "type":"Litter Can - Parks",
+    "lng":-123.363209669409,
+    "lat":48.4139544643485
+  },
+  {
+    "id":951,
+    "northing":5362399.579,
+    "easting":473129.795,
+    "type":"Litter Can - Parks",
+    "lng":-123.36312863725,
+    "lat":48.414176511985
+  },
+  {
+    "id":952,
+    "northing":5362200.625,
+    "easting":473060.066,
+    "type":"Litter Can - Parks",
+    "lng":-123.364058182005,
+    "lat":48.4123836768396
+  },
+  {
+    "id":953,
+    "northing":5362274.114,
+    "easting":472905.087,
+    "type":"Litter Can - Parks",
+    "lng":-123.36615722668,
+    "lat":48.4130381803169
+  },
+  {
+    "id":954,
+    "northing":5362287.365,
+    "easting":473005.879,
+    "type":"Litter Can - Parks",
+    "lng":-123.364796013194,
+    "lat":48.4131617081667
+  },
+  {
+    "id":955,
+    "northing":5362285.742,
+    "easting":473130.3,
+    "type":"Litter Can - Parks",
+    "lng":-123.363114525712,
+    "lat":48.4131524136961
+  },
+  {
+    "id":956,
+    "northing":5365424.719,
+    "easting":471904.128,
+    "type":"Litter Can - Parks",
+    "lng":-123.379894894659,
+    "lat":48.441338336287
+  },
+  {
+    "id":957,
+    "northing":5363188.812,
+    "easting":472356.797,
+    "type":"Litter Can - Parks",
+    "lng":-123.373626839582,
+    "lat":48.4212433428772
+  },
+  {
+    "id":958,
+    "northing":5363189.505,
+    "easting":472329.793,
+    "type":"Litter Can - Parks",
+    "lng":-123.373991865089,
+    "lat":48.4212483941812
+  },
+  {
+    "id":959,
+    "northing":5362415.398,
+    "easting":472894.813,
+    "type":"Litter Can - Parks",
+    "lng":-123.366305189607,
+    "lat":48.4143087833663
+  },
+  {
+    "id":960,
+    "northing":5362395.127,
+    "easting":473075.167,
+    "type":"Litter Can - Parks",
+    "lng":-123.363866590899,
+    "lat":48.4141341333605
+  },
+  {
+    "id":961,
+    "northing":5365320.258,
+    "easting":474530.949,
+    "type":"Litter Can - Parks",
+    "lng":-123.344370939299,
+    "lat":48.4405102390849
+  },
+  {
+    "id":962,
+    "northing":5364396.083,
+    "easting":471808.997,
+    "type":"Dog Bag Dispenser",
+    "lng":-123.381111992417,
+    "lat":48.4320801563765
+  },
+  {
+    "id":963,
+    "northing":5361380.371,
+    "easting":474067.852,
+    "type":"Dog Bag Dispenser",
+    "lng":-123.350388823843,
+    "lat":48.4050464837578
+  },
+  {
+    "id":964,
+    "northing":5361657.673,
+    "easting":473528.708,
+    "type":"Dog Bag Dispenser",
+    "lng":-123.357690983062,
+    "lat":48.4075188795413
+  },
+  {
+    "id":965,
+    "northing":5361661.606,
+    "easting":473295.075,
+    "type":"Dog Bag Dispenser",
+    "lng":-123.360848123719,
+    "lat":48.4075444307069
+  },
+  {
+    "id":966,
+    "northing":5361688.177,
+    "easting":473024.308,
+    "type":"Dog Bag Dispenser",
+    "lng":-123.364508480165,
+    "lat":48.4077719688049
+  },
+  {
+    "id":967,
+    "northing":5362120.99,
+    "easting":472037.596,
+    "type":"Dog Bag Dispenser",
+    "lng":-123.37786993229,
+    "lat":48.4116227699263
+  },
+  {
+    "id":968,
+    "northing":5361980.784,
+    "easting":472289.464,
+    "type":"Dog Bag Dispenser",
+    "lng":-123.374457139581,
+    "lat":48.4103725407016
+  },
+  {
+    "id":969,
+    "northing":5362064.673,
+    "easting":475524.871,
+    "type":"Dog Bag Dispenser",
+    "lng":-123.330742082018,
+    "lat":48.4112611836923
+  },
+  {
+    "id":970,
+    "northing":5365157.33,
+    "easting":471277.014,
+    "type":"Dog Bag Dispenser",
+    "lng":-123.388355836738,
+    "lat":48.4389045567291
+  },
+  {
+    "id":971,
+    "northing":5364955.266,
+    "easting":471271.303,
+    "type":"Dog Bag Dispenser",
+    "lng":-123.38841919507,
+    "lat":48.4370864619114
+  },
+  {
+    "id":972,
+    "northing":5364075.971,
+    "easting":475970.475,
+    "type":"Dog Bag Dispenser",
+    "lng":-123.324835810871,
+    "lat":48.4293727228524
+  },
+  {
+    "id":973,
+    "northing":5365743.818,
+    "easting":473224.718,
+    "type":"Dog Bag Dispenser",
+    "lng":-123.362059409406,
+    "lat":48.4442665448327
+  },
+  {
+    "id":974,
+    "northing":5362439.086,
+    "easting":474576.716,
+    "type":"Dog Bag Dispenser",
+    "lng":-123.343577413302,
+    "lat":48.4145919477666
+  },
+  {
+    "id":975,
+    "northing":5364878.616,
+    "easting":471860.145,
+    "type":"Dog Bag Dispenser",
+    "lng":-123.380452925771,
+    "lat":48.4364234572877
+  },
+  {
+    "id":976,
+    "northing":5364846.796,
+    "easting":471267.247,
+    "type":"Dog Bag Dispenser",
+    "lng":-123.388466594902,
+    "lat":48.4361104470132
+  },
+  {
+    "id":977,
+    "northing":5363968.471,
+    "easting":471239.68,
+    "type":"Dog Bag Dispenser",
+    "lng":-123.388779032579,
+    "lat":48.4282075005207
+  },
+  {
+    "id":978,
+    "northing":5363911.38,
+    "easting":471644.032,
+    "type":"Dog Bag Dispenser",
+    "lng":-123.383309311655,
+    "lat":48.4277122073175
+  },
+  {
+    "id":979,
+    "northing":5363717.745,
+    "easting":472191.443,
+    "type":"Dog Bag Dispenser",
+    "lng":-123.375896881378,
+    "lat":48.4259945762652
+  },
+  {
+    "id":980,
+    "northing":5364059.987,
+    "easting":471847.615,
+    "type":"Dog Bag Dispenser",
+    "lng":-123.380567376136,
+    "lat":48.4290582509409
+  },
+  {
+    "id":981,
+    "northing":5363278.88,
+    "easting":471578.174,
+    "type":"Dog Bag Dispenser",
+    "lng":-123.384156621534,
+    "lat":48.4220190191329
+  },
+  {
+    "id":982,
+    "northing":5363263.007,
+    "easting":471717.679,
+    "type":"Dog Bag Dispenser",
+    "lng":-123.382270007298,
+    "lat":48.4218824943973
+  },
+  {
+    "id":983,
+    "northing":5362794.151,
+    "easting":471735.962,
+    "type":"Dog Bag Dispenser",
+    "lng":-123.381991295097,
+    "lat":48.4176653177895
+  },
+  {
+    "id":984,
+    "northing":5364289.504,
+    "easting":474284.321,
+    "type":"Dog Bag Dispenser",
+    "lng":-123.347642360789,
+    "lat":48.4312271581005
+  },
+  {
+    "id":985,
+    "northing":5364612.948,
+    "easting":474621.371,
+    "type":"Dog Bag Dispenser",
+    "lng":-123.343105532512,
+    "lat":48.4341506539351
+  },
+  {
+    "id":986,
+    "northing":5364933.877,
+    "easting":473913.9,
+    "type":"Dog Bag Dispenser",
+    "lng":-123.352689964258,
+    "lat":48.4370089417229
+  },
+  {
+    "id":987,
+    "northing":5366148.544,
+    "easting":474834.515,
+    "type":"Dog Bag Dispenser",
+    "lng":-123.340316224867,
+    "lat":48.4479740293808
+  },
+  {
+    "id":988,
+    "northing":5365793.296,
+    "easting":474517.781,
+    "type":"Dog Bag Dispenser",
+    "lng":-123.344577766142,
+    "lat":48.4447653374678
+  },
+  {
+    "id":989,
+    "northing":5365870.805,
+    "easting":474469.263,
+    "type":"Dog Bag Dispenser",
+    "lng":-123.34523855576,
+    "lat":48.4454606700333
+  },
+  {
+    "id":990,
+    "northing":5365060.492,
+    "easting":475177.601,
+    "type":"Dog Bag Dispenser",
+    "lng":-123.335612209911,
+    "lat":48.4381991109473
+  },
+  {
+    "id":991,
+    "northing":5365875.612,
+    "easting":473725.557,
+    "type":"Dog Bag Dispenser",
+    "lng":-123.355295393777,
+    "lat":48.4454733078323
+  },
+  {
+    "id":992,
+    "northing":5364371.152,
+    "easting":471911.224,
+    "type":"Dog Bag Dispenser",
+    "lng":-123.379728354825,
+    "lat":48.4318604310235
+  },
+  {
+    "id":993,
+    "northing":5363926.816,
+    "easting":473820.235,
+    "type":"Dog Bag Dispenser",
+    "lng":-123.353893445013,
+    "lat":48.4279451623225
+  },
+  {
+    "id":994,
+    "northing":5365417.276,
+    "easting":471985.361,
+    "type":"Dog Bag Dispenser",
+    "lng":-123.378796034565,
+    "lat":48.441274992339
+  },
+  {
+    "id":995,
+    "northing":5365504.717,
+    "easting":471720.957,
+    "type":"Dog Bag Dispenser",
+    "lng":-123.382376976951,
+    "lat":48.4420498321371
+  },
+  {
+    "id":996,
+    "northing":5364939.957,
+    "easting":471666.047,
+    "type":"Dog Bag Dispenser",
+    "lng":-123.383081241132,
+    "lat":48.4369666117561
+  },
+  {
+    "id":997,
+    "northing":5365030.599,
+    "easting":471638.072,
+    "type":"Dog Bag Dispenser",
+    "lng":-123.383465596497,
+    "lat":48.4377807978972
+  },
+  {
+    "id":998,
+    "northing":5364922.523,
+    "easting":473389.954,
+    "type":"Dog Bag Dispenser",
+    "lng":-123.359772987134,
+    "lat":48.4368848810887
+  },
+  {
+    "id":999,
+    "northing":5365626.67,
+    "easting":473240.31,
+    "type":"Dog Bag Dispenser",
+    "lng":-123.361841093806,
+    "lat":48.4432133017069
+  },
+  {
+    "id":1000,
+    "northing":5364490.582,
+    "easting":473531.235,
+    "type":"Dog Bag Dispenser",
+    "lng":-123.35783562341,
+    "lat":48.4330049285172
+  },
+  {
+    "id":1001,
+    "northing":5363827.134,
+    "easting":474892.425,
+    "type":"Dog Bag Dispenser",
+    "lng":-123.339394015041,
+    "lat":48.4270920436307
+  },
+  {
+    "id":1002,
+    "northing":5362868.156,
+    "easting":475654.327,
+    "type":"Dog Bag Dispenser",
+    "lng":-123.329039388468,
+    "lat":48.4184946390309
+  }
+]
