@@ -4,11 +4,11 @@ import java.util.ArrayList;
 public class TestSort{
 
 	public static void main(String[] args){
-		ArrayList<Question> Questions = generateQuestions();
+		ArrayList<Question> questions = generateQuestions();
 		
-		int qlength = Questions.size();
+		int qlength = questions.size();
 		for(int i = 0; i < qlength; i++){
-			Question thisQuestion = Questions.get(i);
+			Question thisQuestion = questions.get(i);
 			System.out.println(thisQuestion.getText());
 			
 			int olength = thisQuestion.getOptions().size();
@@ -27,25 +27,25 @@ public class TestSort{
 	/* -- Temporary methods to generate questions with hardcoded values -- */
 
 	private static ArrayList<Question> generateQuestions(){
-		ArrayList<Question> TempQuestions = new ArrayList<Question>();
+		ArrayList<Question> tempQuestions = new ArrayList<Question>();
 		int i = 0;
 		
 		//Terrible implementation of questions whyyyy 
-		TempQuestions.add(makeQuestion("What option do you like?", 
+		tempQuestions.add(makeQuestion("What option do you like?", 
 			new String[] {"A", "B", "C", "D"}));
 
-		return TempQuestions;
+		return tempQuestions;
 	}
 
 	private static Question makeQuestion(String questionText, String[] optionsText){
-		ArrayList<Option> TempOptions = new ArrayList<Option>();
+		ArrayList<Option> tempOptions = new ArrayList<Option>();
 		
 		int length = optionsText.length;
 		for(int i = 0; i < length; i++){
-			TempOptions.add(new Option(optionsText[i]));
+			tempOptions.add(new Option(optionsText[i]));
 		}
 
-		return new Question(questionText, TempOptions);
+		return new Question(questionText, tempOptions);
 	}
 
 }
